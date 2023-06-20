@@ -23,5 +23,5 @@ Fehér ru[Eb]hát [Bb/D], mosd le a sz[Csus]égyenem
 
 [F]
 /{/comment:Capo: 4 (->C)}
-/{artist: Light The Fire Again | Brian Doerksen (Vineyard) | ? }
+/{artist: Light The Fire Again | Brian Doerksen | Vineyard | ? }
 {tag: Énekes füzet}

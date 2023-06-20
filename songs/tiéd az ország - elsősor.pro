@@ -29,4 +29,4 @@ Hős kirá[D#m]lyunk, teljes [B]szívvel Rád vá[F#/A#]runk
 
 [F#]
 Capo: 4 (->G)
-/{artist: Yours Is The Kingdom (Hillsong) }
+/{artist: Yours Is The Kingdom | Hillsong }

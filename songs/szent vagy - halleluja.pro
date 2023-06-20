@@ -16,4 +16,4 @@
 
 [G]
 Capo: 4 (->G)
-/{artist: Holy (Agnus Dei) }
+/{artist: Holy | Agnus Dei }

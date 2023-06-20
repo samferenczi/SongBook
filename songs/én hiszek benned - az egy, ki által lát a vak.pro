@@ -26,4 +26,4 @@ Ki[G2]nyúlt, hogy én teljes legyek, kinyúlt, hogy én teljes legyek
 
 [D]
 Capo: 2 (->C)
-/{artist: Miracles (Kari Jobe) }
+/{artist: Miracles | Kari Jobe }

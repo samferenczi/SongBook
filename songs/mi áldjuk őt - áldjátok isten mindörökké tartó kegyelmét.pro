@@ -25,4 +25,4 @@ Mi [E]áldjuk [B]Őt örök[C]ké! [D]
 Ő az [E]Úr, [G]örökk[A]é hirdet[E]jük [D]kegyelm[A/C#]ét!
 
 [E]
-/{artist: You Are Good (Israel Houghton) }
+/{artist: You Are Good | Israel Houghton }

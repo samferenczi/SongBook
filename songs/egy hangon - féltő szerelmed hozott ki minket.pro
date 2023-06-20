@@ -27,6 +27,6 @@ Dicsér[Em]jük, mert dicsősé[C]ges, dicsősé[G]ges, dicsősé[D]ges
 Az Ő ne[Em]ve dicsősé[C]ges, dicsősé[G]ges, dicsősé[D]ges
 
 [G]
-/{artist: To Our God | Brian Johnson, Jeremy Riddle, Joel Taylor (Bethel) }
+/{artist: To Our God | Brian Johnson, Jeremy Riddle, Joel Taylor | Bethel }
 /{artist: | Molnár Zoltán (Dics-Suli 2019)}
 {tag: Énekes füzet}

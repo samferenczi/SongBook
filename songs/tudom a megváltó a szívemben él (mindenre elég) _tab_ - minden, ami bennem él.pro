@@ -38,4 +38,4 @@ E|--------------------------------------------------------------------
 {end_of_tab}
 
 [G]
-/{artist: What The World Will Never Take (Hillsong) }
+/{artist: What The World Will Never Take | Hillsong }

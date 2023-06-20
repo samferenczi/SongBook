@@ -13,5 +13,5 @@ E|-----------------------------
 {end_of_tab}
 
 [A]
-/{artist: O Taste And See (Bethel) }
+/{artist: O Taste And See | Bethel }
 {tag: Énekes füzet}

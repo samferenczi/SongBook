@@ -28,4 +28,4 @@ Változzon át a Föld!
 
 [D]
 Capo: 2 (->C)
-/{artist: The Anthem (Jake Hamilton) }
+/{artist: The Anthem | Jake Hamilton }

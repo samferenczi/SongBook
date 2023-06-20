@@ -21,5 +21,5 @@ Nincsen [C]más!
 
 [C]
 Capo: 5 (->G)
-/{artist: Pintér Béla (Dics-Suli 2011) }
+/{artist: Pintér Béla | Dics-Suli 2011 }
 {tag: Énekes füzet}

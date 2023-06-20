@@ -5,4 +5,4 @@
 Árassz [Bm]el Szellemed[G]del, [D]nyisd meg a felettünk a [A]Mennyet
 
 [D]
-/{artist: Let It Rain (Michael Farren) }
+/{artist: Let It Rain | Michael Farren }

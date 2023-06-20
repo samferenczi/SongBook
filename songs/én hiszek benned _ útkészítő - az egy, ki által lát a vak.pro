@@ -32,4 +32,4 @@
 [D] Te akkor is itt vagy bennem, [Em] akkor is harcolsz értem
 
 [G]
-/{artist: Miracles (Jesus Culture) }
+/{artist: Miracles | Jesus Culture }

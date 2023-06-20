@@ -5,4 +5,4 @@
 Árassz [Bm]el Lelked[G]del, [D]nyisd meg a mennyei [A]gátakat
 
 [D]
-/{artist: Let It Rain (Michael Farren) }
+/{artist: Let It Rain | Michael Farren }

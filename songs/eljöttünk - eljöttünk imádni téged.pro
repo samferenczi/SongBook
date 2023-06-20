@@ -18,4 +18,4 @@ Lelkem [F]áldd az Urat, és e[C]gész valóm Őt di[G]csérjed!
 
 [C]
 /{/comment:Capo: 3 (->G)}
-/{artist: We Have Come | Will Reagan (United Pursuit) | Ferenczi Sámuel }
+/{artist: We Have Come | Will Reagan | United Pursuit | Ferenczi Sámuel }

@@ -22,6 +22,6 @@ Teljes szí[Eb/C]vvel, ezért á[Ab]ldlak
 [Cm7]Barátodnak hí[Eb]vsz
 
 [Bb]
-/{artist: Israel Houghton, Michael Gungor (Pocsiné-Maros Zsúzsana) }
+/{artist: Israel Houghton, Michael Gungor | Pocsiné-Maros Zsúzsana }
 {comment:Capo: 3 (->G)}
 

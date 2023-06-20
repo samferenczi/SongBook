@@ -33,5 +33,5 @@ Jöjj Szent Szel[F]lem [(G)]
 
 [F]
 /{/comment:Capo: (->)}
-/{artist: Szabó Balázs (Dics-Suli 2015) }
+/{artist: Szabó Balázs | Dics-Suli 2015 }
 {tag: Énekes füzet}

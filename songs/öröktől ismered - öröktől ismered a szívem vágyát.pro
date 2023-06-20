@@ -27,4 +27,4 @@
 
 [C]
 Capo: 5 (->G)
-/{artist: Szabó Balázs (Dics-Suli 2009) }
+/{artist: Szabó Balázs | Dics-Suli 2009 }

@@ -22,6 +22,6 @@ A [A]lelkem [E]mégis Téged [B]áld vég [C#m]nélkül, [A] tízezer [E]évig �
 
 [A]
 Capo: 2 (->G)
-/{artist: 10,000 Reasons (Bless The Lord) }
+/{artist: 10,000 Reasons | Bless The Lord }
 /{artist: Matt Redman}
 /{artist: Dobrocsi Gábor}

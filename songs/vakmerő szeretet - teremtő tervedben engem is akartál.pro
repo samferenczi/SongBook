@@ -26,4 +26,4 @@ Nem érde[Am]meltem, ki sem fi[G]zettem, mégis [F]ingyen enyém [C]lett
 [Am] Kőfalakat [G]döntesz, hazugságot [F]rombolsz, míg utánam e[C]redsz
 
 [C]
-/{artist: Reckless Love (Bethel) }
+/{artist: Reckless Love | Bethel }

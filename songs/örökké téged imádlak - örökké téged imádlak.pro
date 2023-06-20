@@ -21,4 +21,4 @@ Mert [D/F#]kegyelm[G]ed megt[C]art egy [C/D]életen [G]át
 [C6/G]Hal - [G]le - [D/E]lu - [Em7]ja, [Cmaj7]hal - [C6]le - [G/D]lu - [D]ja
 
 [G]
-/{artist: Through It All (Hillsong) }
+/{artist: Through It All | Hillsong }

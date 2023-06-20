@@ -41,4 +41,4 @@ Szabad[C]ság örök[G]ké
 Szabad[C]ság örök[G]ké
 
 [G]
-/{artist: My Beloved (David Crowder) }
+/{artist: My Beloved | David Crowder }

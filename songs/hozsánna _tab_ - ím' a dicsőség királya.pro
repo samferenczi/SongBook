@@ -64,4 +64,4 @@ E|------------------------------------------------------------------------------
 {end_of_tab}
 
 [E]
-/{artist: Hosanna (Hillsong) }
+/{artist: Hosanna | Hillsong }

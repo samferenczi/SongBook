@@ -28,4 +28,4 @@ Te vagy a [C]Megváltóm, és az [D]életem Ti[G]éd
 {end_of_chorus}
 
 [G]
-/{artist: You Are Holy (Prince Of Peace) | Szerző | Fordító }
+/{artist: You Are Holy | Prince Of Peace | Szerző | Fordító }

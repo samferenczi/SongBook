@@ -29,5 +29,5 @@ Mert nálad [Db]van a [Eb]legjobb hely[Ab]en
 
 [Ab]
 Capo: 1 (->G)
-/{artist: Nyári Attila, Hellinger András (Dics-Suli 2020) }
+/{artist: Nyári Attila, Hellinger András | Dics-Suli 2020 }
 {tag: Énekes füzet}

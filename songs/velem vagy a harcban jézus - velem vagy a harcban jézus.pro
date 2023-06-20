@@ -18,6 +18,6 @@ Velem vagy a [A]harcban Jézus, velem vagy a [D]harcban Jézus
 
 [A]
 Capo: 2 (->G)
-/{artist: Surrounded (Fight My Battles) }
+/{artist: Surrounded | Fight My Battles }
 /{artist: | Elyssa Smith (UPPERROOM) | ?}
 {tag: Énekes füzet}

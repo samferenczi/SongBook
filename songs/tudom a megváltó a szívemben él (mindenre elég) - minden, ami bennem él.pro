@@ -29,4 +29,4 @@ Mert ez [Em]mindenre elég, [Asus]erőt ad és [C]megszabadít
 [G] Nincs más váltság a [C]bűneimért
 
 [G]
-/{artist: What The World Will Never Take (Hillsong) }
+/{artist: What The World Will Never Take | Hillsong }

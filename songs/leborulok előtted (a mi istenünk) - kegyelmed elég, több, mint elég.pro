@@ -28,4 +28,4 @@ Szolga- Kirá[F#m]ly, szabadító[C#m], a mi [A]Istenü[E]nk!
 
 [E]
 Capo: 4 (->C)
-/{artist: This Is Our God (Hillsong) }
+/{artist: This Is Our God | Hillsong }

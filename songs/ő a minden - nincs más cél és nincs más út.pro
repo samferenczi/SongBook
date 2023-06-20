@@ -20,5 +20,5 @@ Beszéde [Dm]élet, szereteté[Bb]ben én is [F]elmerülhete[C]k
 
 [F]
 Capo: 5 (->C)
-/{artist: Pintér Béla (Dics-Suli 2014) }
+/{artist: Pintér Béla | Dics-Suli 2014 }
 {tag: Énekes füzet}

@@ -22,4 +22,4 @@ S vé[C]get [G] nem [D]ér, s vé[C]get [G] nem [D]ér
 
 [key]
 Capo: 4 (->G)
-/{artist: One Thing Remains (Bethel) }
+/{artist: One Thing Remains | Bethel }

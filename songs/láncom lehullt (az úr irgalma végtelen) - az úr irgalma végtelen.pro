@@ -29,6 +29,6 @@ Ott [D]még szebb [D/F#]hangon [G]zenghe[D]tem a [D]Bárány [A/D]éne[D]két
 
 [D]
 Capo: 2 (->C)
-/{artist: My Chains Are Gone (Amazing Grace) }
+/{artist: My Chains Are Gone | Amazing Grace }
 /{artist: | Chris Tomlin, Louie Giglio | ?}
 {tag: Énekes füzet}

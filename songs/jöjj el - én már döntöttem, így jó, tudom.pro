@@ -34,4 +34,4 @@ Mert [F#m]úgy jössz, mint fé[E/G#]nylő na[B]p az [C#m]éj után
 
 [E]
 Capo: 4 (->C)
-/{artist: You'll Come (Hillsong) }
+/{artist: You'll Come | Hillsong }

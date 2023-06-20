@@ -39,4 +39,4 @@ Az [Am]otthon merre v[G]ár
 [F]Fénylő tűzzel [Am]jársz e[G]lőttem
 [F]Így men[C]tesz ki a [Am]próbák[G]ból!
 
-/{artist: Rend Collective (Hunyadi Tamás) }
+/{artist: Rend Collective | Hunyadi Tamás }

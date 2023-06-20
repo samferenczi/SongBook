@@ -23,5 +23,5 @@ Mert [Eb]tüzet gyújtot[F]tál, ami lángra [C]gyúlt!
 {end_of_chorus}
 
 [C]
-/{artist: Nagy Edit (PZM) (Dics-Suli 2017) }
+/{artist: Nagy Edit | PZM | Dics-Suli 2017 }
 {tag: Énekes füzet}

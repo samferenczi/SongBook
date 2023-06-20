@@ -36,4 +36,4 @@ Minden leh[C]etséges Vel[G]ed
 
 [C]
 Capo: 5 (->G)
-/{artist: Famous For (Tauren Wells) }
+/{artist: Famous For | Tauren Wells }

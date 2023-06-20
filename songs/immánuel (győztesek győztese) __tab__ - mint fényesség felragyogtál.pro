@@ -15,4 +15,4 @@ E|-------------------------------------------------------------------------
 Notes
 [F] [E] [D] [C] [A] [G]
 
-/{artist: Emmanuel (Champion Of The World) }
+/{artist: Emmanuel | Champion Of The World }

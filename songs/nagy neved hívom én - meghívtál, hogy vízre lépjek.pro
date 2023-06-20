@@ -26,7 +26,7 @@ Taníts [D]teljes hittel járni, je[A]lenlétedben élni!
 
 [D]
 Capo: 2 (->C)
-/{artist: Oceans (Where Feet May Fall) }
+/{artist: Oceans | Where Feet May Fall }
 /{artist: Joel Houston, Matt Crocker, Salomon Lighthelm (Hillsong)}
 /{artist: Csiszér László, Sidó Éva}
 {tag: Énekes füzet}

@@ -20,4 +20,4 @@ E|------------------------------------------------------------------------------
 {end_of_tab}
 
 [G]
-/{artist: Our God (Chris Tomlin) }
+/{artist: Our God | Chris Tomlin }

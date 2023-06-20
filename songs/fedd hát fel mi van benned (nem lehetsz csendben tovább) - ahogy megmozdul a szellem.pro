@@ -32,4 +32,4 @@ Aki [G]eltévedt újra hazatalál, és a [C]foglyok nyernek szabadulást
 Ugye [D]látod már, hogy milyen csodás, ahogy [C/E]éled a vi[C]lág
 
 [G]
-/{artist: World Outside Your Window (Hillsong) }
+/{artist: World Outside Your Window | Hillsong }

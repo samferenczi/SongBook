@@ -35,4 +35,4 @@ Mi[E/G#]ért kapok ju[A/C#]tal[E/B]má[A]ból?
 Csak [E]azt tudja a [F#m]szí[E/G#]vem [A2]jól
 Hogy [E/B]vére folyt én[B]ér[E]tem [A2/C#] [E2] [B/E] [A/E]
 
-/{artist: Stuart Townend (Dobrocsi Gábor) }
+/{artist: Stuart Townend | Dobrocsi Gábor }

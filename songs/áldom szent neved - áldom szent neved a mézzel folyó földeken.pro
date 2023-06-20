@@ -42,4 +42,4 @@ Te adsz és elveszel, Te adsz és elveszel
 A szívem így felel, hogy áldott szent neved
 
 [A]
-/{artist: Blessed Be Your Name (Matt Redman) }
+/{artist: Blessed Be Your Name | Matt Redman }

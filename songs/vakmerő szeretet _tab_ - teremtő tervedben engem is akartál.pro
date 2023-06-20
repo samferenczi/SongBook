@@ -23,4 +23,4 @@ E|-----------------------------------------------------------
 {end_of_tab}
 
 [C]
-/{artist: Reckless Love (Bethel) }
+/{artist: Reckless Love | Bethel }

@@ -25,4 +25,4 @@ Az Ú[Gadd5]r ma [D]is
 [G] [(Gadd5)] Mert hogyha Te vagy velünk, [D/F#] [(D)] ki lehet ellenünk?
 
 [G]
-/{artist: Our God (Chris Tomlin) }
+/{artist: Our God | Chris Tomlin }

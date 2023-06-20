@@ -34,4 +34,4 @@ Immánu[Dm]el, [Bb] Immánu[F]el [C]
 
 [F]
 Capo: 5 (->C)
-/{artist: Emmanuel (Champion Of The World) }
+/{artist: Emmanuel | Champion Of The World }

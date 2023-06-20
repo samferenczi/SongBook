@@ -22,4 +22,4 @@ Te [Am7]akkor már [Am7/G]szerettél en[D/F#]gem!
 {end_of_chorus}
 
 [G]
-/{artist: Above All (Paul Baloche) }
+/{artist: Above All | Paul Baloche }
