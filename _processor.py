@@ -12,12 +12,20 @@ LOG = []
 
 
 def loginfo(message):
+    """
+    Printing and storing log info
+    """
+
     global LOG
     LOG.append(f"{message}\n")
     print(message)
 
 
 def get_tag(tag, text_full, filename):
+    """
+    Getting the text of a specific tag
+    """
+
     tag_opener = "{" + f"{tag}:"
     if tag_opener in text_full:
         index_tag_start = text_full.index(tag_opener)
@@ -163,6 +171,10 @@ def process_pro(path_dir, filename):
 
 
 def process_folder(path_dir):
+    """
+    Processing given folder
+    """
+
     files_dir = os.listdir(path_dir)
     for file in files_dir:
         if ".pro" == file[-4:]:
