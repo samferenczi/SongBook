@@ -36,3 +36,4 @@ A Tiéd va[C]gyok![G/B] [Am] [F]
 {comment:#Martin Smith (Delirious?)}
 {comment:#Bagyinszky Judit}
 [C]
+/{artist: }

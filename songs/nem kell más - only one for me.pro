@@ -48,3 +48,4 @@ Lete[G]szem eléd mindene[D]m! [D/F#] [D]
 {comment:#Szerző: Jay Cook (Hillsong London)}
 {comment:#Fordító: Hunyadi Tamás (Dics-Suli 2006)}
 [G]
+/{artist: }

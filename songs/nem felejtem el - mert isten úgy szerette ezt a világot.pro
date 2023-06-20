@@ -30,3 +30,5 @@ A kegyel[Am]med, az irgal[Em7]mad, Iste[D4]nem! [D]
 
 {comment:#Dobner Illés (Dics-Suli 2009)}
 [G]
+
+/{artist: }

@@ -20,3 +20,5 @@ Hogy [D]Istent, gyüleke[A]ze[D]tet
 
 {comment:#Key:}
 [D]
+
+/{artist: }

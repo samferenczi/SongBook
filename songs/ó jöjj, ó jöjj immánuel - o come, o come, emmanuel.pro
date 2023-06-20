@@ -48,3 +48,5 @@ Jöjj [Am]fenségednek [G]teljé[Fmaj7]ben!
 
 {comment:<Outro>}
 [F] [Dm] [Cmaj7]
+
+/{artist: }

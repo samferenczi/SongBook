@@ -17,3 +17,5 @@
 {end_of_chorus}
 
 [E]
+
+/{artist: }

@@ -36,3 +36,4 @@ Megtisztít minket a próbák hevében
 {comment:#Szerző: Kertész Tamás}
 {comment:#Capo: }
 [E]
+/{artist: }

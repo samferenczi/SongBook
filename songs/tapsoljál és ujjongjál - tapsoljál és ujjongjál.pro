@@ -10,3 +10,5 @@
 És a [C]hatalmakat [D]lefegyverez[Em]te [G] [D]
 
 [G]
+
+/{artist: }

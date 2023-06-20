@@ -32,3 +32,5 @@ Mert [Bm7]Nevedben [A]bízom é[G]n
 {comment:#Capo: }
 {comment:#Key:}
 [C]
+
+/{artist: }

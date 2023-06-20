@@ -22,3 +22,5 @@ Ragadj magad[Dmaj7]dal, minden [E]nap, úgy [F#m]kérlek, [Dmaj7]emelj fel szent
 {comment:Bridge}
 [F#m] Vezess [E]drága Szent Szel[A2/C#]lem, [D2] [A2] [F#m] az igaz[E]ság ösvényé[A/C#]re
 Hadd [D]legyek [E4]fény!
+
+/{artist: }

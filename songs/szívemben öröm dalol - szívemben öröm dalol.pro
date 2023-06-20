@@ -24,3 +24,5 @@ Szeretet öröm, hála, béke dalol...
 {comment:#Fordító:}
 {comment:#Capo: }
 [key]
+
+/{artist: }

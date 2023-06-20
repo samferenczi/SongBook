@@ -32,3 +32,4 @@ Előled [B]nem rejtem el,[E] [B]nem rejtem [E]el bűnömet
 {comment:#Capo: }
 {comment:#Key:}
 [key]
+/{artist: }

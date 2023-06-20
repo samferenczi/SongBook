@@ -10,3 +10,4 @@ Il[G]yen legyen mindenki.
 
 G[C]ödöllőnek csapata
 E[G]rős bátor k[C]ész a harcra. 
+/{artist: }

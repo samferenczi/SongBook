@@ -33,3 +33,4 @@ Mert [C]van, a[(G)]ki le[(C)]csendesí[(G)]ti a te[D]nger vizét
 {comment:#Eddie DeGarmo, Dana Key}
 {comment:#Haulik Emese (Dics-Suli 2009)}
 [G]
+/{artist: }

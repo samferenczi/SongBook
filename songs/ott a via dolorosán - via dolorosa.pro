@@ -23,3 +23,4 @@
 {comment:#Fordító: Németh S. Judit}
 {comment:#Capo: }
 [F]
+/{artist: }

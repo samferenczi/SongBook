@@ -18,3 +18,4 @@ Lángoló szellem, eméssz meg engem.
 {comment:#Szerző: Paul Wilbur}
 {comment:#Fordító: Kerekes Ernő}
 [G]
+/{artist: }

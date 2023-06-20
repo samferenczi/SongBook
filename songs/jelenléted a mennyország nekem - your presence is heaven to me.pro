@@ -39,3 +39,4 @@ Jézus szomjúságom csillapítsd bennem
 {comment:#Fordító: Kovács Edgár}
 {comment:#Capo: 3 (Bb->G)}
 [Bb]
+/{artist: }

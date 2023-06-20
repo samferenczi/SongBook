@@ -32,3 +32,5 @@ Vágyom R[Bbm]ád, cs[Ab/C]ak R[Db]ád, úgy k[Ab]érlek, járj most á[Eb]t!
 
 [Ab]
 Capo: 1 (->G)
+
+/{artist: }

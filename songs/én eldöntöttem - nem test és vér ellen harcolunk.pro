@@ -24,3 +24,5 @@ Hanem [Em]levegő égbeli [C]démoni [D]erőkk[Em]el
 {comment:#Fordító: Petz Renáta}
 {comment:#Eredeti cím: I Have Decided}
 [G]
+
+/{artist: }

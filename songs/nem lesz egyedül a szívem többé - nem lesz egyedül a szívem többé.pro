@@ -8,3 +8,5 @@
 [Em]Jézus, Hajnalcsillag, [B]glóri, hallelu[Em]ja!
 
 [G]
+
+/{artist: }

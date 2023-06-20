@@ -17,3 +17,5 @@ Minden [C]álmom és a[G]mim van, Tiéd U[D4]ram [D]
 
 [G]
 Capo: 2 (->G)
+
+/{artist: }

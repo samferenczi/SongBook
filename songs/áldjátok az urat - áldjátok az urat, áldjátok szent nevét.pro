@@ -13,3 +13,5 @@ Kik [Cmaj7]házában álltok [D]napról - napra
 [Bm]Ragyogtassa orcáját ter[Em]ád
 
 [G]
+
+/{artist: }

@@ -33,3 +33,5 @@ A [Fm]tény, az tény, állt a kereszt, és [Bbmsus2]volt valaki, aki érted is 
 {comment:#Szerző: Pintér Béla}
 {comment:#Capo: 1 (G)}
 [Ab]
+
+/{artist: }

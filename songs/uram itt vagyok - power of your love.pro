@@ -27,3 +27,4 @@ E[F#m7]rős jo[E]bbod le[D]gyen [E]minden [D/A]nap vele[A]m
 {comment:#Fordító:}
 {comment:#Capo: 2 (A->G)}
 [A]
+/{artist: }

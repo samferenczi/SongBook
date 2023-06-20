@@ -29,3 +29,5 @@ Most én megyek hoz[A]zád, és én ölellek [F#m]át
 {comment:#Szerző: Dobrocsi Gábor}
 {comment:#Capo: 2 (A->G)}
 [A]
+
+/{artist: }

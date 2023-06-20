@@ -25,3 +25,4 @@ Csak [C]Is[G/B]tenbe[Am]n bízz [F]én [D/F#]lelke[G4]m [G]
 {comment:#Fordító: Labadics Kriszta (Dics-Suli 2004)}
 {comment:#Capo: 3 (C->A)}
 [C]
+/{artist: }

@@ -25,3 +25,4 @@ Téged és senki mást, amíg csak élek!
 {comment:#Capo: 2 (G->F)}
 {comment:#Capo: 5 (G->D)}
 [G]
+/{artist: }

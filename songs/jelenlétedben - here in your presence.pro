@@ -36,3 +36,5 @@ Minden tere[Bm]mtmény [A]térdre hull trónod elő[G]tt
 {comment:#Fordító: Baráth Emese (Dics-Suli 2010)}
 {comment:#Capo: 5 (D->A)}
 [D]
+
+/{artist: }

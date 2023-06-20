@@ -39,3 +39,4 @@ Látni akarlak
 {comment:#Capo: }
 {comment:#Key:}
 [C]
+/{artist: }

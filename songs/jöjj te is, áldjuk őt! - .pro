@@ -24,3 +24,4 @@ Jézust az egyszülött Fiút
 
 {comment:#Capo: 5 (G->D)}
 [G]
+/{artist: }

@@ -25,3 +25,4 @@ Ha[Em]lál elől men[D]tettél meg, ó, [C]Rólad szól da[G]lom
 [Em]Jó hogy veled lehetek, Te soha ne eresszél el!
 [G]Jó mert veled nevetek, Te soha ne eresszél el!
 [Em]Ó soha ne eressz! Te [D]soha nem eresszél el!
+/{artist: }

@@ -28,3 +28,5 @@ Elbo[Bb]rí[F/A]tasz[Gm7] szent [F]tüzed[Ebmaj7]del [C]
 {comment:#Szerző: Fóris Attila}
 {comment:#Capo: 5 (->C)}
 [F]
+
+/{artist: }

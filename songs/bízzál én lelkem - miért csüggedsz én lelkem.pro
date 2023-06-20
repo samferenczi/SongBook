@@ -46,3 +46,5 @@ Mikor az [D]igazak mind szaba[A/C#]dulnak
 {comment:#Szerző: Révész Dániel}
 {comment:Capo: 2 (D->C)}
 [D]
+
+/{artist: }

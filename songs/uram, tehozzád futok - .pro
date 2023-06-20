@@ -18,3 +18,5 @@ Nagyon [C]szeretlek Té[D]ged, Jézuso[Em]m
 {comment:#Szerző: Ismeretlen}
 {comment:#Capo 7}
 [G]
+
+/{artist: }

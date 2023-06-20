@@ -25,3 +25,4 @@ Beszéded az életnek értelmet ad.
 
 {comment:#Szerző: Pintér Béla}
 [G]
+/{artist: }

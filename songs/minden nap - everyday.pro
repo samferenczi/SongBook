@@ -29,3 +29,4 @@
 {comment:Joel Houston (Hillsong)}
 {comment:Pintér Béla}
 [B]
+/{artist: }

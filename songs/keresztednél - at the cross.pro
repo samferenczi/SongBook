@@ -42,3 +42,5 @@ Verse 4:
 És ha majd egyszer, lezárul szemem
 [E/G#] [A] [B] [C#m] [A] [E/B] [B]
 Ott állsz előttem, mert úgy szerettél, mindig szerettél.
+
+/{artist: }

@@ -32,3 +32,5 @@ Csak légy bátor és add át neki a szíved
 
 {comment:#Szerző: Pintér Béla}
 [F]
+
+/{artist: }

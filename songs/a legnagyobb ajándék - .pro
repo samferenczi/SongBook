@@ -22,3 +22,5 @@ Hogy [Em]értem [A]jöttél [D]el
 
 {comment:#Szerző: (Mahanaim Gyülekezet)}
 [D]
+
+/{artist: }

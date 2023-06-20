@@ -49,3 +49,4 @@ Soha [G9]nem engedsz el
 {comment:#Szerző: Dobner Illés (Dics-Suli 2007)}
 {comment:#Capo: 2 (D->C)}
 [D]
+/{artist: }

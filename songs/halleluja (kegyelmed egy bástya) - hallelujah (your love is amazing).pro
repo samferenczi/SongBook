@@ -25,3 +25,4 @@ Hallel[Em7]uja, [C]kegyelmed éneklem
 {comment:#Brian Doerksen, Brenton Brown}
 {comment:#Csöngedi Péter}
 [G]
+/{artist: }

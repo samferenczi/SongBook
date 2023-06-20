@@ -16,3 +16,4 @@ A ha[Bm]lál[C#m]on uralmat [F#m]vettél [D7] [C#7]
 {comment:#Fordító: Mézes Áron}
 {comment:#Capo: }
 [E]
+/{artist: }

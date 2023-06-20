@@ -15,3 +15,5 @@ Vágyódunk jelenlétedre
 Vágyódunk érintésedre
 Vágyódunk dicsőségedbe
 Vágyódunk Isten kertjébe
+
+/{artist: }

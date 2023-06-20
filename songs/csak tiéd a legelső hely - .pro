@@ -9,3 +9,4 @@ Mert Te, Te vagy a hű főpap
 Rangod magasabb minden rangnál
 [Dm] [G] [C]
 Trónodhoz jövünk, imádunk, Szent Urunk!
+/{artist: }

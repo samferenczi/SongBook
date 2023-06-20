@@ -14,3 +14,5 @@ E|-------------------------
 {end_of_tab}
 
 {tag: Énekes füzet}
+
+/{artist: }

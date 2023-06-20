@@ -29,3 +29,4 @@ Isten h[C]arcol[Dm7], Isten h[C]arcol[F]
 {comment:#Capo: }
 {comment:#Key:}
 [key]
+/{artist: }

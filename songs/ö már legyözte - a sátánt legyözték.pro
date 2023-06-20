@@ -35,3 +35,4 @@ A [Em]sátánt [D/E]legyőzté[Em]k a Bárány[Em] vé[D/E]rével[Em]
 {comment:#Eredeti cím: I Have Overcome}
 [G]
 
+/{artist: }

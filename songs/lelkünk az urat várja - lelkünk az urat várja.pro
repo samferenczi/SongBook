@@ -37,3 +37,4 @@ Isten országa eljött közénk
 {comment:#Szerző: Pintér Béla}
 {comment:#Capo: 7 (G->C}
 [G]
+/{artist: }

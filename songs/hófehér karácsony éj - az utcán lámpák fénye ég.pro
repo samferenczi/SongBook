@@ -26,3 +26,5 @@ Az [G]utolsó busz is elment régen, cs[A]illagok gyúlnak a sötét éjben
 
 [D]
 Capo: 4 (->G)
+
+/{artist: }

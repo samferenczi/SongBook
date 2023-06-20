@@ -25,3 +25,4 @@ Halleluja, halleluja
 {comment:#Fordító: Debreceni István}
 {comment:#Capo: 2 (D->C)}
 [D]
+/{artist: }

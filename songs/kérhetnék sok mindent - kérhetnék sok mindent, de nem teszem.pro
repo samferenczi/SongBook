@@ -23,3 +23,5 @@ Attól kezdve [Am7]mind[D7]ig veled [G]jár [D/F#] [Em7]
 Na-na
 
 [G]
+
+/{artist: }

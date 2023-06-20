@@ -52,3 +52,4 @@ Te vagy mindenem!
 {comment:#Fordító:}
 {comment:#Capo: 2 (A->G)}
 [A]
+/{artist: }

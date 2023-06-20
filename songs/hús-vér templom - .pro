@@ -28,3 +28,4 @@ Nekem [Dm]nincs más [Gm7]Rajtad [C]kívûl, [F]Jézus
 
 {comment:#Pintér Béla}
 [C]
+/{artist: }

@@ -33,3 +33,5 @@ Hisz [G]csak Te vagy mé[D/F#]ltó, [Em]Megváltó Ú[A]r
 
 {comment:#Szerző: Matt Redman}
 {comment:#Fordító: Marika Payne}
+
+/{artist: }

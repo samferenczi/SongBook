@@ -38,3 +38,4 @@ Királyságod hamar
 {comment:#Fordító:}
 {comment:#Capo: 4 (E->C)}
 [E]
+/{artist: }

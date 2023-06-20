@@ -27,3 +27,5 @@ Gyere, hadd [F]tudja meg a jó hírt a vi[Bb]lág
 
 [Bb]
 Capo: 3 (->G)
+
+/{artist: }

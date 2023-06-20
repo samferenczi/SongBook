@@ -23,3 +23,4 @@ A [G]nagyvilág csak Téged magasz[D]tal, hiszem [Em]szent vagy, [C]szent vagy
 [Am] Halleluja az [C]Ég és [D]Föld Urának!
 
 [G]
+/{artist: }

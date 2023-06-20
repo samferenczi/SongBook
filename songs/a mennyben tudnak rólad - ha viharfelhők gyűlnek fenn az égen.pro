@@ -27,3 +27,5 @@ A [A]felhők fölött világít a [D]napfény, a [F#m]gondok között meg kell l
 
 [A]
 Capo: 2 (->G)
+
+/{artist: }

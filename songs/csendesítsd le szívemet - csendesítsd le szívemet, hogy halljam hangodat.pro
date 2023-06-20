@@ -14,3 +14,5 @@ Véred ta[Bb]karjon be,
 hogy ne legyek v[F]édtel[C]en!
 Sz[Gm]árítsd fel könny[F/A]em, kö[Bb]tözd be sebe[F/C]m
 Szükségem va[Bb]n Rád, [Bbm] Istenem[F]...!
+
+/{artist: }

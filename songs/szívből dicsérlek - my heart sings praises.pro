@@ -25,3 +25,5 @@ Szívből di[A2]csérlek
 {comment:#Fordító:}
 {comment:#Capo: }
 [A]
+
+/{artist: }

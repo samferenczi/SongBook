@@ -21,3 +21,5 @@
 [D]Csípd meg orrodat, [G]görbítsd az ujjad, [A]fordulj körbe és [D]zengd:
 
 [D]
+
+/{artist: }

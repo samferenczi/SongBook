@@ -28,3 +28,5 @@ Mint [Em]sok víz zúgását, [D] hallani a hangját
 [Em] Halleluja Szent az [Am7]Úr! Szent az [B7]Úr! [(B7)]
 
 [G]
+
+/{artist: }

@@ -39,3 +39,5 @@ Ne [Am]legyen része [Dm Em Am]kárhozat!
 Ki [C]Sina-hegyrõl [G Em Am]szólottál
 Hogy [G]törvényt lássál [C G Em]népeden!
 Jöjj [Am]fenségednek [Dm Em Am]teljében!
+
+/{artist: }

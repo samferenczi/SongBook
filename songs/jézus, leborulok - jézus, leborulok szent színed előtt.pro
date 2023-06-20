@@ -22,3 +22,4 @@ Nálad [Am]van az [G]otthon[C]om
 {comment:#Szerző: Andelic Jonatán}
 {comment:#Key:}
 [C]
+/{artist: }

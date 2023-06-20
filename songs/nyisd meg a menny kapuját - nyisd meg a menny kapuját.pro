@@ -12,3 +12,4 @@ Hogy jöjjön el királyságod és legyen meg akaratod
 
 {comment:#Szerző: Prazsák László}
 [A]
+/{artist: }

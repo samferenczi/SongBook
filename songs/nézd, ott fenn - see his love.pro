@@ -52,3 +52,4 @@ Mindez csak értünk lett!
 {comment:#Capo: }
 {comment:#Key:}
 [C]
+/{artist: }

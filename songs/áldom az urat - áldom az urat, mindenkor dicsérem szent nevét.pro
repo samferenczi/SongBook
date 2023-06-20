@@ -26,3 +26,5 @@ Kősziklám Ő és erős váram
 
 [F]
 Capo: 5 (->C)
+
+/{artist: }

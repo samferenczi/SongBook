@@ -15,3 +15,4 @@ Hódolatot, [Em]áld[A]ást és tisztes[G]sé[D]get
 {comment:#Fordító:}
 {comment:#Capo: }
 [C]
+/{artist: }

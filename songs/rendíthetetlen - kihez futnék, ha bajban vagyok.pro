@@ -33,3 +33,4 @@ Ha [Em]sötét [D/F#] e[G]rők, [A] [Bm] jön[Bm]nek [A]szembe
 {comment:#Szerző: Révész Dániel (Dics-Suli 2018)}
 {comment:#Capo: }
 [D]
+/{artist: }

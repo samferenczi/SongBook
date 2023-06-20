@@ -14,3 +14,5 @@ J[Dm7]övünk H[G]ozzá[C]d U[H7]ram
 
 M[Am]inden t[G]örvén[F]yszegésü[C]nket e[H7]lvetted
 S [Am]a Bárá[G]ny drág[F]a szent véré[Am]vel [F]mo[G]stál meg
+
+/{artist: }

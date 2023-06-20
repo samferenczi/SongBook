@@ -31,3 +31,4 @@ Senki sem lehet ellenem
 {comment:#Szerző: Carman}
 {comment:#Fordító: György Ákos}
 [D]
+/{artist: }

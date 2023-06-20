@@ -15,3 +15,5 @@ Az [Am]ifjak és a vénekkel [B7]együtt
 [Am]Igen, mert [B7]szeretem [Em]őket!
 
 [G]
+
+/{artist: }

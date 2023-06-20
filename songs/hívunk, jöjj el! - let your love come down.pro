@@ -34,3 +34,4 @@ Sz[F]eretet lelke[Am] hívunk, jöjj el [G]hát!
 {comment:#Capo: }
 {comment:#Key: C}
 [C]
+/{artist: }

@@ -22,3 +22,4 @@
 {comment:#Szerző: Durkó Teofil}
 {comment:#Capo: 7 (C->C)}
 [G]
+/{artist: }

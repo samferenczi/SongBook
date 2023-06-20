@@ -43,3 +43,5 @@ Ami [F#m7]csak Rólad szól, [Amaj7]csak Rólad szó[B]l, Jézu[(E)]s!
 [E]
 Capo: 4 (->C)
 {tag: Énekes füzet}
+
+/{artist: }

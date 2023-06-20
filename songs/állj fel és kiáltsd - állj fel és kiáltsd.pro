@@ -21,3 +21,5 @@ Hogy [D]szereted, [A]szereted [D]Őt
 Hogy [D]szereted, [A]szereted [D]Őt
 
 [D]
+
+/{artist: }

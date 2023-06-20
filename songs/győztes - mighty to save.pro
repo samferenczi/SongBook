@@ -29,3 +29,5 @@ Csak [D]Érted élek [C] [D] [C] [D]
 {comment:#Reuben Morgan, Ben Fielding (Hillsong)}
 {comment:#Hunyadi Tamás (Dics-Suli 2008)}
 [G]
+
+/{artist: }

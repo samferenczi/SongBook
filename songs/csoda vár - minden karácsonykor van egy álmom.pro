@@ -25,3 +25,4 @@ Csoda [A]vár karácsony éjjelén[D]
 
 {comment:#Pintér Béla}
 [D]
+/{artist: }

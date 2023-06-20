@@ -53,3 +53,5 @@ Hanem [Em]levegő égbeli [C]démoni [D]erőkk[Em]el
 [Em]Jézus, [C]Júda [D]orosz[Am]lánja [Bm]
 
 [G]
+
+/{artist: }

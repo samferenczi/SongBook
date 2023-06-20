@@ -34,3 +34,5 @@ Sem[G]mi nem kárhoz[C/E]tat [F] [Am] [G]
 
 [C]
 Capo: 5 (->G)
+
+/{artist: }

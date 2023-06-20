@@ -40,3 +40,4 @@ A [A]Földön át a Menny fe[B]lé, örök[C#m]ké!
 {comment:#Brooke Fraser (Hillsong)}
 {comment:#Varga Csilla}
 [E]
+/{artist: }

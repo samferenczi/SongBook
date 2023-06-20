@@ -27,3 +27,4 @@ Hisz' [Gm7]két karod [Cm]vár re[Fm7]ám, ez nekem e[G4]lég [G]
 {comment:#Fordító: Szentesiné M. Andrea (Dics-Suli 2005)}
 {comment:#Capo: 3 (Eb->C)}
 [Eb]
+/{artist: }

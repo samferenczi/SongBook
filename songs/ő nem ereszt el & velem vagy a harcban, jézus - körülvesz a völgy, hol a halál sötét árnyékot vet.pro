@@ -35,3 +35,5 @@ Velem vagy a [A]harcban, Jézus, velem vagy a [D]harcban Jézus
 [A]
 Capo: 2 (->G)
 {tag: Énekes füzet}
+
+/{artist: }

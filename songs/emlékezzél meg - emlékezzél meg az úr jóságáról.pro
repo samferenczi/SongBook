@@ -17,3 +17,5 @@ Oly' [Em7]messze veti el tőlünk bűne[D/A]in[A]ket
 [Gmaj7]Nem fogy el irgalm[Em7]a népe ir[D]ánt
 
 [D]
+
+/{artist: }

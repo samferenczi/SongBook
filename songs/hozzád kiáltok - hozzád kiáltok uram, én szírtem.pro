@@ -37,3 +37,4 @@ Meghallgatja esedezéseim szavát
 {comment:#Szerző: Lakatos Péter}
 {comment:#Capo: 5 (C->G)}
 [C]
+/{artist: }

@@ -26,3 +26,5 @@ Mert [Db]Te Uram [Eb]felmegasztal[Ab]tattá[Ab/G]l a [Fm]földön
 {comment:#Szerző: ?}
 {comment:#Capo: 1 (->G)}
 [Ab]
+
+/{artist: }

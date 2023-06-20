@@ -32,3 +32,4 @@ Halle[F]luja, [Dm] halle[G]luja
 {comment:#Szerző: Reuben Morgan}
 {comment:#Fordító:}
 [C]
+/{artist: }

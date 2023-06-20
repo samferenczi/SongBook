@@ -27,3 +27,4 @@ S a nép, amelyet teremtettél magasztalja nagy Nevedet!
 {comment:#Szerző: Gary Sadler, Jamie Harvill}
 {comment:#Fordító: Németh S. Judit}
 {comment:#Capo: 3 (C->A)}
+/{artist: }

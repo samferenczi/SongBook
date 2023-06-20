@@ -35,3 +35,5 @@ Minden tisztelet Őt illeti meg...
 
 [Bb]
 {comment:That's My Lord - Lenny LeBlanc, Lindell Cooley}
+
+/{artist: }

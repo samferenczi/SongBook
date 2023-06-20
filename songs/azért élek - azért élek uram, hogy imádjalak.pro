@@ -39,3 +39,4 @@ Azért élek. Azért élek.
 {comment:#Szerző: Rácz-Kriston Anita (Dics-Suli 2008)}
 {comment:#Capo: 1 (Bb->A)}
 {comment:#Capo: 3 (Bb->G)}
+/{artist: }

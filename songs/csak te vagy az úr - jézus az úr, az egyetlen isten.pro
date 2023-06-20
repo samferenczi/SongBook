@@ -25,3 +25,5 @@ De J[Ebmaj7]ézus feltámadt és [D7/9b]most is él
 
 {comment:#Szerző: Juhász Marcsi}
 [Bb]
+
+/{artist: }

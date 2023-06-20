@@ -29,3 +29,4 @@ Ma csak álmodom [D]arról, ma csak álmodom [G2]arról
 {comment:#Fordító: Kerekes Ernő}
 {comment:#Capo: 2 (D->C)}
 [D]
+/{artist: }

@@ -42,3 +42,4 @@ Ha jelenlétedben ruhádat megérinthetem
 {comment:#Capo: }
 {comment:#Key:}
 [G]
+/{artist: }

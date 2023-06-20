@@ -25,3 +25,5 @@ Kiáltjuk: [Em7]Abba, [Cmaj7]szerelmes Atyánk! [Am7]Abba, [Bm7]szerelmes Atyán
 [Em7]Abba, [Cmaj7]szerelmes, [Am7]szerel[Bm7]mes A[Em7]tyánk!
 
 [G]
+
+/{artist: }

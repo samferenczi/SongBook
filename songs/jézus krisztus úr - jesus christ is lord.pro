@@ -29,3 +29,5 @@ Népünk [Em]fölött!
 [G]
 {comment:#Szerző: Ramon Pink}
 {comment:#Fordító: Harkai Tamás}
+
+/{artist: }

@@ -35,3 +35,4 @@ A legnagyobb ajándé[F]k
 {comment:#Matt Redman, Peter Wilson (Hillsong London)}
 {comment:#Martini Edit (Dics-Suli 2009)}
 [C]
+/{artist: }

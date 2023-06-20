@@ -60,3 +60,5 @@ Ahogy ismét látom kezed nagy tetteit;
 Nyári Dicsőítő
 Iskola 2013. Belső
 használatra!
+
+/{artist: }

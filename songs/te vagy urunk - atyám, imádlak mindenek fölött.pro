@@ -27,3 +27,4 @@ Hogy kövesse[D/F#]lek
 {comment:#Fordító: Németh S. Judit}
 {comment:#Eredeti cím: You Are My World}
 [G]
+/{artist: }

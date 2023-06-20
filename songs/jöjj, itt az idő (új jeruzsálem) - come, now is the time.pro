@@ -21,3 +21,5 @@
 {comment:#Fordító: Új Jeruzsálem}
 {comment:#Capo: 2 (->C)}
 [D]
+
+/{artist: }

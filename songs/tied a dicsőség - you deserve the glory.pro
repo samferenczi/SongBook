@@ -14,3 +14,5 @@ Veled senki nem ér fel, Veled senki nem ér fel
 
 {comment:#Szerző: Gary Sadler, Aaron Keyes}
 {comment:#Fordító: ???}
+
+/{artist: }

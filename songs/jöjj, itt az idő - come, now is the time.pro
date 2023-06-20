@@ -16,3 +16,5 @@ Kik [Em]most Őt választ[A4]ják! [A]
 {comment:#Fordító: Golgota Debrecen, Csiszér László}
 {comment:#Capo: 2 (->C)}
 [D]
+
+/{artist: }

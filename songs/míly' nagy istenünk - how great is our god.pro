@@ -27,3 +27,4 @@ Minden név felett való, dicséretre méltó, a szívem énekel: mily' nagy Ist
 {comment:#Capo: 1 (Ab->G)}
 {comment:#Capo: 4 (Ab->E)}
 [Ab]
+/{artist: }

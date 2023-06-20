@@ -24,3 +24,4 @@ Vesztébe rohan a gonosz, és az igaz örül
 {comment:#Fordító:}
 {comment:#Capo: }
 [key]
+/{artist: }

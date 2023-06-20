@@ -17,3 +17,5 @@
 jobbján gyönyörűségek örökké
 
 [E]
+
+/{artist: }

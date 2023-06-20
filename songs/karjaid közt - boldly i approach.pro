@@ -34,3 +34,4 @@ Szálljon fel [Eb]hála [Bb]és imá[F]dat, szívünkből [Eb]elmos [Bb]minden v
 {comment:#Fordító: Hunyadi Tamás}
 {comment:#Capo: 3 (Bb->G)}
 [Bb]
+/{artist: }

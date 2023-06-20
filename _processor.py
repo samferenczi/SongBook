@@ -29,7 +29,7 @@ def get_tag(tag, text_full, filename):
         value_tag = ""
 
     if "" == value_tag:
-        loginfo(f"INFO7 The {tag} is missing in {filename}")
+        loginfo(f"INFO_4 The {tag} is missing in {filename}")
 
     return text_tag
 
@@ -67,6 +67,10 @@ def preprocess_pro(path_dir, filename):
     text_pro_out = text_pro_out.replace(text_key, "")
     text_pro_out = f"{text_title}\n{text_subtitle}\n{text_key}\n\n{text_pro_out}"
 
+    text_artist = get_tag("artist", text_pro_out, filename)
+    if "{artist:}" == text_artist:
+        text_pro_out = f"{text_pro_out}\n/{text_artist}"
+
     # while "}\n\n" in text_pro_out:
     #    text_pro_out = text_pro_out.replace("}\n\n", "}\n")
     # text_pro_out = text_pro_out.replace("{end_of_chorus}", "{end_of_chorus}\n")
@@ -95,9 +99,9 @@ def preprocess_pro(path_dir, filename):
             + text_pro_out[index_artist_closer:]
         )
     else:
-        loginfo(f"INFO6 The artist is missing in {filename}")
+        loginfo(f"INFO_6 The artist is missing in {filename}")
     if 1 < text_pro_out.count("/{artist:"):
-        loginfo(f"INFO7 The artist is multiplified in {filename}")
+        loginfo(f"INFO_7 The artist is multiplified in {filename}")
 
     while "  " in text_pro_out:
         text_pro_out = text_pro_out.replace("  ", " ")
@@ -126,28 +130,28 @@ def process_pro(path_dir, filename):
 
         if 1 == number_line:
             if "{title:" not in line:
-                loginfo(f"INFO1 The title is missing in {filename}")
+                loginfo(f"INFO_1 The title is missing in {filename}")
             else:
                 index_start = line.index(":") + 1
                 title = line[index_start:-2]
 
         if 2 == number_line:
             if "{subtitle:" not in line:
-                loginfo(f"INFO2 The subtitle is missing in {filename}")
+                loginfo(f"INFO_2 The subtitle is missing in {filename}")
             else:
                 index_start = line.index(":") + 1
                 subtitle = line[index_start:-2]
 
         # if 3 == number_line:
         #    if "{key:" not in line:
-        #        loginfo(f"INFO3 The key is wrong in {filename}")
+        #        loginfo(f"INFO_3 The key is wrong in {filename}")
         #    else:
         #        index_start = line.index(":") + 1
         #        key = line[index_start:-2]
 
         if 5 == number_line:
             if "{comment:" not in line:
-                loginfo(f"INFO5 The 1st comment is missing in {filename}")
+                loginfo(f"INFO_5 The 1st comment is missing in {filename}")
             else:
                 index_start = line.index(":") + 1
                 key = line[index_start:-2]

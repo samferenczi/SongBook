@@ -26,3 +26,5 @@ Mily[B]en nagy v[E/G#]olt az [A]áldozat
 
 [E]
 Capo: 4 (->C)
+
+/{artist: }

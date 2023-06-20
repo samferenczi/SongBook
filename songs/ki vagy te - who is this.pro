@@ -37,3 +37,5 @@ Vonj magadhoz még, vonj magadhoz még
 
 {comment:#Capo: 2 (D->C)}
 [D]
+
+/{artist: }

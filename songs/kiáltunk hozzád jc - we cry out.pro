@@ -40,3 +40,4 @@ Hoz[Dm]zád [F] [C] [Gm]
 {comment:#Fordító: Debreceni István (Dics-Suli 2009)}
 {comment:#Capo: 6 (F#->C)}
 [F]
+/{artist: }

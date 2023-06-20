@@ -32,3 +32,5 @@ Szerelmed sohasem múlik el, ez a szeretet tartja az életem
 Capo: 1 (->G)
 {comment:#Szerző: Marty Sampson}
 {comment:#Fordító: Pintér Béla}
+
+/{artist: }

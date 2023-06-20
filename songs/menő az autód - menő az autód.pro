@@ -34,3 +34,5 @@ angol font vagy bolgár leva.
 
 J[F]ézus drága v[C]ére a l[G]egnagyobb érték[C],
 n[F]e hasonlíts hoz[C]zá s[G]emmilyen pénzérmét
+
+/{artist: }

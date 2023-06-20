@@ -11,3 +11,5 @@
 [G] Uram d[D]icsér[Am]lek, dic[Em]sérlek
 [C] Neved áldom [D]Szent vagy, S[Em]zent vagy Uram
 [C] Neved áldom [D]Szent vagy, S[Em]zent vagy Uram
+
+/{artist: }
