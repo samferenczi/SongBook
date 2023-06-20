@@ -1,0 +1,27 @@
+{title:Add, hogy a szívemmel lássak}
+{subtitle:Add, hogy a szívemmel lássak}
+{key:D}
+
+{comment:<Verse>}
+[D]Add, hogy a szívemmel lássak, [Bm]add nekem látásodat
+Uram, hadd [G]lássak[A], Uram, hadd [D]lássak
+
+{comment:<Chorus>}
+{start_of_chorus}
+Kérlek, [A]nyisd meg most szem[Bm]em
+Egy [G]pillantást hadd vessek a M[A]ennybe
+Hogy [A]valóban lással[Bm]ak
+Miközben [G]énekeljük sz[A]ent vagy
+{end_of_chorus}
+
+{comment:<Bridge>}
+[D]Szent vagy, szent vagy, szent vagy
+[A]Szent vagy, szent vagy, szent vagy
+[G]Szent vagy, szent vagy, szent vagy
+Uram, Te sz[D]ent vagy
+
+[D]
+Capo: 2 (->C)
+/{artist: Open The Eyes Of My Heart }
+/{artist: | Paul Baloche | István Judit}
+{tag: Énekes füzet}

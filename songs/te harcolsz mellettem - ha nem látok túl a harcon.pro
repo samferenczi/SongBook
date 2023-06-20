@@ -1,0 +1,38 @@
+{title:Te harcolsz mellettem}
+{subtitle:Ha nem látok túl a harcon}
+{key:A}
+
+{comment:<Intro>}
+[A] [A] [A] [A4]
+
+{comment:<Verse 1>}
+[A] Ha nem látok túl a harcon, Te látod gy[D]őzelmem
+[F#m] Ha a hegyek magasra nőnek, Te [E]szólsz, hogy mozd[D]ulj el
+[A] Amikor sötétben járok, szerelmed k[D]örbevesz
+[F#m] Nincs már kitől féljek, Te [E]jössz és [A]átölelsz
+
+{comment:<Chorus>}
+{start_of_chorus}
+Térdemre [D]hullok, én [A]így harcolok, [E] kezem [F#m]felemelem, [D] ó, U[A]ram, Te harcolsz [E]mellett[F#m]em
+Minden [D]félel[A]mem leteszem, [E] a Te [F#m]lábad elé, [D] ó, U[A]ram, Te harcolsz [E]mellett[A]em [(F#m)]
+{end_of_chorus}
+
+{comment:<Verse 2>}
+[A] Amíg érzem, hogy itt vagy, ki állhat [D]ellenem?
+[F#m] Jézus, szívemben érzem, Neked [E]nincs lehetetl[D]en
+[A] Mikor még sebeim látom, Te gyógyítod [D]életem
+[F#m] A Te halálod árán megvál[E]tottál eng[A]em
+
+{comment:<Interlude>}
+[A] [A] [A] [A4] [D]
+
+{comment:<Bridge>}
+Teremtő [A]Isten, Te jársz el[E]őttem, semmi sem [F#m]érhet fel a [E]jelenléted[D]del
+Te fény vagy az [A]éjben, a harcokban gy[E]őztes, semmi sem [F#m]állíthat meg, [E]hatalmas Is[D]ten [(E)]
+
+[A]
+Capo: 2 (->G)
+/{artist: Battle Belongs }
+/{artist: Phil Wickham, Brian Johnson}
+/{artist: PZM}
+{tag: Énekes füzet}

@@ -1,0 +1,33 @@
+{title:Legjobb barátom}
+{subtitle:Hallottál már az Egyetlenről}
+{key:Bb}
+
+{comment:<Intro>}
+[Bb] [F] [Eb] [F]
+
+{comment:<Verse 1>}
+[Bb] Hallottál már az Egyet[F]lenről, [Eb] akinek neve Megvál[F]tó?
+[Bb] Hallottál már a szerel[F]méről? [Eb] Tudod-e, Ő a megtar[F]tó?
+[Gm7] Én már ismerem [F] az Ő nagy kegyelmét, [Eb] hiszek a Fiúban!
+
+{comment:<Verse 2>}
+[Bb] Hiszem azt, hogy Ő az [F]Isten, akinek neve Megvál[F]tó
+[Bb] Hiszem azt, hogy Ő fel[F]támadt, Ő az első és utol[F]só
+[Gm7] Hiszem, visszajön, [F] igen eljön értem, [Eb] hiszek a Fiúban!
+
+{comment:<Chorus>}
+{start_of_chorus}
+[Bb]Jézus, Ő a Megvál[F]tó, a legjobb bará[Gm]tom
+Istennel me[Eb]gbékített!
+{end_of_chorus}
+
+{comment:<Bridge>}
+[Bb] Semmi nem á[Gm]llhat közénk
+[F] Senki sem á[Eb]llhat már közénk
+[Bb] Semmi nem á[Gm]llhat közénk! [F] [Eb]
+
+[Bb]
+Capo: 3 (->G)
+/{artist: My Best Friend }
+/{artist: Joel Houston, Marty Sampson (Hillsong)}
+/{artist: Pintér Béla}

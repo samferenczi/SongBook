@@ -1,0 +1,23 @@
+{title:Ahogy kereslek}
+{subtitle:Ahogy kereslek, megtalállak}
+{key:E}
+
+{comment:<Intro>}
+
+{comment:<Verse>}
+[E] [B] [C#m] [A]
+ Ahogy kereslek, megtalállak
+[E] [B] [C#m] [A]
+ És egyre jobban, és jobban imádlak
+
+[E] [B] [C#m]
+ Hadd üljek lábaid elé, érezzem szívverésedet!
+[A] [B]
+ Adj innom élő vizet kérlek Téged
+[E] [B] [C#m]
+ Békéd áraszd rám és lágyítsd meg szívem!
+[A] [B]
+ Meríts szerelmedbe! Imádlak Téged
+
+[E]
+/{artist: The More I Seek You (Kari Jobe) }
