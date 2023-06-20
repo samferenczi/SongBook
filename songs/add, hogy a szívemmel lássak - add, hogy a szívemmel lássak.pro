@@ -8,10 +8,8 @@ Uram, hadd [G]lássak[A], Uram, hadd [D]lássak
 
 {comment:<Chorus>}
 {start_of_chorus}
-Kérlek, [A]nyisd meg most szem[Bm]em
-Egy [G]pillantást hadd vessek a M[A]ennybe
-Hogy [A]valóban lással[Bm]ak
-Miközben [G]énekeljük sz[A]ent vagy
+Kérlek, [A]nyisd meg most szem[Bm]em, egy [G]pillantást hadd vessek a M[A]ennybe
+Hogy [A]valóban lással[Bm]ak miközben [G]énekeljük sz[A]ent vagy
 {end_of_chorus}
 
 {comment:<Bridge>}
@@ -22,6 +20,6 @@ Uram, Te sz[D]ent vagy
 
 [D]
 Capo: 2 (->C)
-/{artist: Open The Eyes Of My Heart }
-/{artist: | Paul Baloche | István Judit}
+/{artist: Open The Eyes Of My Heart | Paul Baloche }
+# Paul Baloche | István Judit
 {tag: Énekes füzet}

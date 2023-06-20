@@ -34,4 +34,4 @@ Adoná[Am]j [G] [F] [G]
 [C] Neked hódol a te[F]ljes Föld, Neked hó[C]dol a teljes Fö[G]ld
 
 [C]
-/{artist: Adonai (Paul Wilbur) }
+/{artist: Adonai | Paul Wilbur }

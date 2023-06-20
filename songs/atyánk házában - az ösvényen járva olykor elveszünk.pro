@@ -40,4 +40,4 @@ A [F#/C#]szeretet átha[C#]tol, mikor [F#6/C#]Atyánk átka[C#]rol
 
 [C#]
 Capo: 1 (->C)
-/{artist: The Father's House (Bethel) }
+/{artist: The Father's House | Bethel }

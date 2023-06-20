@@ -35,5 +35,4 @@ Sem amik most vannak, sem amik jönni fognak
 Sem magasság, sem mélység többé már
 
 Capo: 5 (->C)
-
 /{artist: }

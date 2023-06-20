@@ -25,4 +25,4 @@ A [B]lélegzet [C#m]énekév[A]el, száll [E]hálánk fel[B]éd
 
 [E]
 Capo: 4 (->C)
-/{artist: Taste of Eternity (Bellarive) }
+/{artist: Taste of Eternity | Bellarive }

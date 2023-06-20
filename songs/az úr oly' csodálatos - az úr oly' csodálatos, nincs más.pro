@@ -2,15 +2,17 @@
 {subtitle:Az Úr oly' csodálatos, nincs más}
 {key:C}
 
+{comment:<Verse 1>}
 [C] [G] [D] [Em]
 Az Úr oly' csodálatos, nincs más, csak Ő mindenható
 [C] [G] [Am] [Bm] [Em]
 Hatalma örökké tart, a mi Istenünk az Úr
 
+{comment:<Verse 2>}
 [C] [G] [D] [Em]
 Dicsérd és magasztald Őt, mert jó és örökkévaló
 [C] [G] [Am] [Bm] [Em]
 Oly' szent és dicsőséges, a mi Istenünk az Úr!
 
 [C]
-/{artist: Our God Is An Awesome God (Rich Mullins) }
+/{artist: Our God Is An Awesome God | Rich Mullins }

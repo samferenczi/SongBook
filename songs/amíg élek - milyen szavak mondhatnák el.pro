@@ -33,5 +33,4 @@ Nem talá[A]lnék nagyobbat enné[E]l a szeretet[D9]nél [Bm7]
 
 [D]
 Capo: 2 (->C)
-
-/{artist: }
+/{artist: Dobner Illés }

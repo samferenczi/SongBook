@@ -1,6 +1,8 @@
-{title:Adonáj _tab_}
+{title:Adonáj ((tab))}
 {subtitle:Tiéd a végtelen, a kárpiton túli tér}
 {key:C}
+
+{comment:Key: C}
 
 {comment:<Intro>}
 {start_of_tab}
@@ -36,5 +38,4 @@ A|------------------------------------------------------------------------------
 E|---------------------------------------------------------------------------------
 {end_of_tab}
 
-[C]
-/{artist: Adonai (Paul Wilbur) }
+/{artist: Adonai | Paul Wilbur }

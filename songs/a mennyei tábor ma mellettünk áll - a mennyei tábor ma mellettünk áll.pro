@@ -21,4 +21,4 @@ Ha [Em]ellenség gúnyol, szidalmaz és vádol, a [C]harcban a [D]győztes az [E
 Az [Em]oroszlán szája egyszer csak bezárul, a [C]harcban a [D]győztes az [Em]Úr
 
 [G]
-/{artist: The Battle Belongs to the Lord (Kent Henry) }
+/{artist: The Battle Belongs to the Lord | Kent Henry }

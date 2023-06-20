@@ -1,4 +1,4 @@
-{title:Add, hogy a szívemmel lássak [variant]}
+{title:Add, hogy a szívemmel lássak ((variant))}
 {subtitle:Add, hogy a szívemmel lássak}
 {key:D}
 
@@ -8,10 +8,8 @@ Látni a[G]karlak[A], látni a[D]karlak
 
 {comment:<Chorus>}
 {start_of_chorus}
-Kérlek [A]nyisd meg most szem[Bm]em
-Egy [G]pillantást hadd vessek a M[A]ennybe
-Hogy [A]valóban lással[Bm]ak
-Miközben [G]énekeljük sz[A]ent vagy
+Kérlek [A]nyisd meg most szem[Bm]em, egy [G]pillantást hadd vessek a M[A]ennybe
+Hogy [A]valóban lással[Bm]ak miközben [G]énekeljük sz[A]ent vagy
 {end_of_chorus}
 
 {comment:<Bridge>}
@@ -22,4 +20,5 @@ Látni a[D]karlak
 
 [D]
 Capo: 2 (->C)
-/{artist: Open The Eyes Of My Heart (Paul Baloche) }
+/{artist: Open The Eyes Of My Heart | Paul Baloche }
+# Paul Baloche | István Judit

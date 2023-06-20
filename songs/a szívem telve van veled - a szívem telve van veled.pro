@@ -2,14 +2,14 @@
 {subtitle:A szívem telve van Veled}
 {key:G}
 
+{comment:<Verse 1>}
 [G] A szívem [D]telve van Vel[Em]ed, drága [C]Jézus,[Em] hű megv[D]áltóm
 [G] Hálát [D]érzek mindaz[Em]ért, mit értem [C]tettél,[Em] drága J[D]ézus!
 
+{comment:<Verse 2>}
 [Am] Hogy elhív[Em]tál és [D]befogadt[G]ál,[Am] nincsen [Em]más otthon[D]om
-
 Karod [G]óv és [D]átöl[C]el, csak [G]Nálad [D]van lakhely[C]em
-
 [Am]Jöjj közel h[Em]át, [D]ölelj most [C]át! Szüksé[D]gem van [G]Rád [D] [C]
 
 [G]
-/{artist: Arms Of Love (Craig Musseu) }
+/{artist: Arms Of Love | Craig Musseu }

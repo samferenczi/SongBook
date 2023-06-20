@@ -22,6 +22,7 @@
 
 [A]
 Capo: 2 (->G)
-/{artist: Touch The Sky }
-/{artist: | Joel Houston, Dylan Thomas, Michael Guy Chislett (Hillsong) | Seprenyi Adél}
+/{artist: Touch The Sky | Hillsong }
+# Joel Houston, Dylan Thomas, Michael Guy Chislett (Hillsong)
+# Seprenyi Adél
 {tag: Énekes füzet}

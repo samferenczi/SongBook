@@ -23,4 +23,4 @@ Az [Em]én Istenem erős, [Am]hatalmas Isten, nincs [B]olyan mit Ő nem te[Em]he
 [Em]Ő az Atya, Ő a [Am]Fiú, Szent Szellem, [B]egy, meg egy, meg [Em]egy, az egy!
 
 [G]
-/{artist: My God Is So Big (Go Fish) }
+/{artist: My God Is So Big | Go Fish }

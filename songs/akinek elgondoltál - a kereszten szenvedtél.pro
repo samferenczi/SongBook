@@ -7,10 +7,8 @@
 [G#m] [E/G#] [B/D#] [F#/A#]
 
 {comment:<Verse 1>}
-[G#m] [E]
-A kereszten szenvedtél
-[B] [F#/A#]
-Azért, hogy én éljek
+[G#m] [E] [B] [F#/A#]
+A kereszten szenvedtél azért, hogy én éljek
 [G#m] [E] [B] [F#/A#]
 Jézus, eltöröltél minden szégyent
 [G#m] [E] [B] [F#/A#] [G#m] [E] [B] [F#/A#]
@@ -29,10 +27,8 @@ Az vagyok, akinek elgondoltál
 {end_of_chorus}
 
 {comment:<Verse 2>}
-[G#m] [E]
-Véredben megmostál
-[B] [F#/A#]
-Szentként élek érted
+[G#m] [E] [B] [F#/A#]
+Véredben megmostál, szentként élek érted
 [G#m] [E] [B] [F#/A#]
 Erőm a kegyelmed, legyőzök minden vétket
 [G#m] [E] [B] [F#/A#] [G#m] [E] [B] [F#/A#]
@@ -42,14 +38,14 @@ Veled lehetséges
 [G#m] [E/G#]
 Nem a saját erőmmel, se nem hatalommal
 [B/D#] [F#/A#]
-Egyedül a te Szellemeddel
+Egyedül a Te Szellemeddel
 
 {comment:<Bridge 2>}
 [G#m] [E]
 Nem a saját erőmmel, se nem hatalommal
 [B] [F#]
-Egyedül a te Szellemeddel
+Egyedül a Te Szellemeddel
 
 [B]
 Capo: 4 (->G)
-/{artist: EredetiCím }
+/{artist: }

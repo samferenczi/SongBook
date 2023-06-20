@@ -2,8 +2,6 @@
 {subtitle:Ahogy kereslek, megtalállak}
 {key:E}
 
-{comment:<Intro>}
-
 {comment:<Verse>}
 [E] [B] [C#m] [A]
  Ahogy kereslek, megtalállak
@@ -20,4 +18,4 @@
  Meríts szerelmedbe! Imádlak Téged
 
 [E]
-/{artist: The More I Seek You (Kari Jobe) }
+/{artist: The More I Seek You | Kari Jobe }

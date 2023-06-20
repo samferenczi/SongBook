@@ -23,5 +23,6 @@ Aki [C]győz örökségül [D]nyer min[G]dent
 {end_of_chorus}
 
 [G]
-/{artist: Lovas Judit (Dics-Suli 2012) }
+/{artist: Lovas Judit }
+# Dics-Suli 2012
 {tag: Énekes füzet}

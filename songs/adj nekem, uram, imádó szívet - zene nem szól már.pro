@@ -26,6 +26,6 @@ Ami [F#m7]csak Rólad szól, [Amaj7]csak Rólad szó[B]l, Jézu[(E)]s!
 
 [E]
 Capo: 4 (->C)
-/{artist: The Heart Of Worship }
-/{artist: | Matt Redman | Varga Eszter, Bagyinszky Judit}
+/{artist: The Heart Of Worship | Matt Redman }
+# Matt Redman | Varga Eszter, Bagyinszky Judit
 {tag: Énekes füzet}

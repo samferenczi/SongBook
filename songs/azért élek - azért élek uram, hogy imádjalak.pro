@@ -36,7 +36,7 @@ Mindent megtegyek, amit kérsz tőlem,
 [Eb] [Bb]
 Azért élek. Azért élek.
 
-{comment:#Szerző: Rácz-Kriston Anita (Dics-Suli 2008)}
-{comment:#Capo: 1 (Bb->A)}
-{comment:#Capo: 3 (Bb->G)}
-/{artist: }
+[Bb]
+Capo: 3 (->G)
+/{artist: Rácz-Kriston Anita }
+# Dics-Suli 2008

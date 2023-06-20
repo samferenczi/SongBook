@@ -26,5 +26,6 @@
 
 [Bb]
 Capo: 3 (->G)
-/{artist: Gyárfás István (Dics-Suli 2010) }
+/{artist: Gyárfás István }
+# Dics-Suli 2010
 {tag: Énekes füzet}

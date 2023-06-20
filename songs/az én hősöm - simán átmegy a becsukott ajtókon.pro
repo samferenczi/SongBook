@@ -21,7 +21,5 @@ Igen, [B4]Ő a szívem [E]Sztárja!
 
 [E]
 /{artist: Pintér Béla }
-
 {tag: Gyerekdal}
-{tag: Másik}
 {tag: Énekes füzet}
