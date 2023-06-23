@@ -27,6 +27,6 @@ Lete[Ab/C]szek mindent a Te [Db]lábadhoz, [Eb]áta[(C/E)]dom Nek[Fm]ed
 
 [Ab]
 Capo: 1 (->G)
-/{artist: Goodness Of God }
-/{artist: Jenn Johnson, Jason Ingram, Ben Fielding, Ed Cash, Brian Johnson (Bethel)}
-/{artist: Földesi Péter}
+/{artist: Goodness of God | Bethel }
+# Jenn Johnson, Jason Ingram, Ben Fielding, Ed Cash, Brian Johnson (Bethel)
+# Földesi Péter

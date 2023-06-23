@@ -33,6 +33,5 @@ Te fény vagy az [A]éjben, a harcokban gy[E]őztes, semmi sem [F#m]állíthat m
 [A]
 Capo: 2 (->G)
 /{artist: Battle Belongs }
-/{artist: Phil Wickham, Brian Johnson}
-/{artist: PZM}
+# Phil Wickham, Brian Johnson | PZM
 {tag: Énekes füzet}

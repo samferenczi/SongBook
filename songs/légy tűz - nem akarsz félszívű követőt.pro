@@ -26,6 +26,6 @@ Jöjj [C#m]légy karomra [A]tett örök pe[E]csét, [F#m]pecsét a szívemen
 
 [E]
 Capo: 4 (->C)
-/{artist: You Won't Relent }
-/{artist: Misty Edwards (Jesus Culture)}
-/{artist: Kerekes Ernő & KREDIT (Dics-Suli 2010)}
+/{artist: You Won't Relent | Jesus Culture }
+# Misty Edwards (Jesus Culture)
+# Kerekes Ernő & KREDIT (Dics-Suli 2010)

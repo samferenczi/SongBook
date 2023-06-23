@@ -1,4 +1,4 @@
-{title:Nagy neved hívom én}
+{title:Meghívtál, hogy vízre lépjek (Nagy neved hívom én)}
 {subtitle:Meghívtál, hogy vízre lépjek}
 {key:D}
 
@@ -26,7 +26,7 @@ Taníts [D]teljes hittel járni, je[A]lenlétedben élni!
 
 [D]
 Capo: 2 (->C)
-/{artist: Oceans | Where Feet May Fall }
-/{artist: Joel Houston, Matt Crocker, Salomon Lighthelm (Hillsong)}
-/{artist: Csiszér László, Sidó Éva}
+/{artist: Oceans (Where Feet May Fall) | Hillsong }
+# Joel Houston, Matt Crocker, Salomon Lighthelm (Hillsong)
+# Csiszér László, Sidó Éva
 {tag: Énekes füzet}

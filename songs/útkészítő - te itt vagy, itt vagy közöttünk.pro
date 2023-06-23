@@ -28,5 +28,4 @@ Te itt va[G]gy, mindent átfor[D]málsz, és imá[A]dunk, és imá[Bm]dunk
 [D]
 Capo: 2 (->C)
 /{artist: Waymaker }
-/{artist: Osinachi Okoro (Sinach)}
-/{artist: ?}
+# Osinachi Okoro (Sinach)

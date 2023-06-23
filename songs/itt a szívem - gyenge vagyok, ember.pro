@@ -1,29 +1,29 @@
 {title:Itt a szívem}
 {subtitle:Gyenge vagyok, ember}
-{key:Eb}
+{key:Db}
 
 {comment:<Verse 1>}
-[Eb] Gyenge vagyok, [Ab]ember, [Cm] [Bb4] [Bb] [Eb] megkavar az [Ab]élet [Cm] [Bb4] [Bb]
-[Eb] Nem tudom a [Ab]szívem [Cm]meggyó[Bb4]gyí[Bb]tani [(Eb)]
+[Db] Gyenge vagyok, [Gb]ember, [Bbm] [Ab4] [Ab] [Db] megkavar az [Gb]élet [Bbm] [Ab4] [Ab]
+[Db] Nem tudom a [Gb]szívem [Bbm]meggyó[Ab4]gyí[Ab]tani [(Db)]
 
 {comment:<Verse 2>}
-[Eb] Túl sok ami [Ab]fájhat, [Cm] [Bb4] [Bb] [Eb] énnekem és [Ab]másnak [Cm] [Bb4] [Bb]
-[Eb] Nélküled a [Ab]lelkem [Cm]porszem [Bb4]szél[Bb]vész[(Eb)]ben
+[Db] Túl sok ami [Gb]fájhat, [Bbm] [Ab4] [Ab] [Db] énnekem és [Gb]másnak [Bbm] [Ab4] [Ab]
+[Db] Nélküled a [Gb]lelkem [Bbm]porszem [Ab4]szél[Ab]vész[(Db)]ben
 
 {comment:<Chorus>}
 {start_of_chorus}
-Itt a [Ab]szí[Cm]vem, [Bb]kemény [Eb]föld, puszta[Ab]ság [Cm]lett, [Bb]törd most [Eb]föl
-Itt a [Ab]szí[Cm]vem, [Bb]száraz [Eb]kút, áss le [Ab]mély[Cm]re, [Bb]törjön [F]út
-Elő [Ab]víz[Cm]nek mely [Bb]Tőled [(Eb)]jön
+Itt a [Gb]szí[Bbm]vem, [Ab]kemény [Db]föld, puszta[Gb]ság [Bbm]lett, [Ab]törd most [Db]föl
+Itt a [Gb]szí[Bbm]vem, [Ab]száraz [Db]kút, áss le [Gb]mély[Bbm]re, [Ab]törjön [Eb]út
+Elő [Gb]víz[Bbm]nek mely [Ab]Tőled [(Db)]jön
 {end_of_chorus}
 
 {comment:<Verse 3>}
-[Eb] Mindent tudok [Ab]észből, [Cm] [Bb4] [Bb] [Eb] de túl keveset [Ab]szívből [Cm] [Bb4] [Bb]
-[Eb] Míg a betű [Ab]öl, a [Cm]Szellem [Bb4]él[Bb]ni [(Eb)]hív
+[Db] Mindent tudok [Gb]észből, [Bbm] [Ab4] [Ab] [Db] de túl keveset [Gb]szívből [Bbm] [Ab4] [Ab]
+[Db] Míg a betű [Gb]öl, a [Bbm]Szellem [Ab4]él[Ab]ni [(Db)]hív
 
 {comment:<Bridge>}
-Megta[Ab]ní[Cm]tasz [Bb]szeret[Eb]ni, [Bb/D] merni, [Ab]él[Cm]ni, [Bb]érez[Eb]ni
+Megta[Gb]ní[Bbm]tasz [Ab]szeret[Db]ni, [Ab/C] merni, [Gb]él[Bbm]ni, [Ab]érez[Db]ni
 
-[Eb]
-Capo: 3 (->C)
+[Db]
+Capo: 1 (->C)
 /{artist: Dobner Illés }

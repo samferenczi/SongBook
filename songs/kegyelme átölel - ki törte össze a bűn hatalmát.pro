@@ -32,6 +32,5 @@ Letette élet[A]ét, hogy én szabad legy[D]ek
 [A]
 Capo: 2 (->G)
 /{artist: This Is Amazing Grace }
-/{artist: Phil Wickham}
-/{artist: ?}
+# Phil Wickham
 {tag: Énekes füzet}
