@@ -76,9 +76,9 @@ def preprocess_pro(path_dir, filename):
     text_pro_out = f"{text_title}\n{text_subtitle}\n{text_key}\n\n{text_pro_out}"
 
     text_artist = get_tag("artist", text_pro_out, filename)
-    text_artist_new = text_artist.replace('(', '| ')
-    text_artist_new = text_artist_new.replace(')', '')
-    text_pro_out = text_pro_out.replace(text_artist, text_artist_new)
+    #text_artist_new = text_artist.replace('(', '| ')
+    #text_artist_new = text_artist_new.replace(')', '')
+    #text_pro_out = text_pro_out.replace(text_artist, text_artist_new)
     if "{artist:" not in text_pro_out:
         text_pro_out = f"{text_pro_out}\n/{text_artist}"
 
