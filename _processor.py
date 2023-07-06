@@ -11,6 +11,20 @@ PATH_SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 LOG = []
 
 
+def replace_special_letters(string_in):
+    string_out = string_in.replace("á", "a")
+    string_out = string_out.replace("é", "e")
+    string_out = string_out.replace("í", "i")
+    string_out = string_out.replace("ó", "o")
+    string_out = string_out.replace("ö", "o")
+    string_out = string_out.replace("ő", "o")
+    string_out = string_out.replace("ú", "u")
+    string_out = string_out.replace("ü", "u")
+    string_out = string_out.replace("ű", "u")
+
+    return string_out
+
+
 def loginfo(message):
     """
     Printing and storing log info
@@ -76,9 +90,9 @@ def preprocess_pro(path_dir, filename):
     text_pro_out = f"{text_title}\n{text_subtitle}\n{text_key}\n\n{text_pro_out}"
 
     text_artist = get_tag("artist", text_pro_out, filename)
-    #text_artist_new = text_artist.replace('(', '| ')
-    #text_artist_new = text_artist_new.replace(')', '')
-    #text_pro_out = text_pro_out.replace(text_artist, text_artist_new)
+    # text_artist_new = text_artist.replace('(', '| ')
+    # text_artist_new = text_artist_new.replace(')', '')
+    # text_pro_out = text_pro_out.replace(text_artist, text_artist_new)
     if "{artist:" not in text_pro_out:
         text_pro_out = f"{text_pro_out}\n/{text_artist}"
 
@@ -168,6 +182,7 @@ def process_pro(path_dir, filename):
                 key = line[index_start:-2]
 
     filename_new = f"{title} - {subtitle}.pro".lower()
+    filename_new = replace_special_letters(filename_new)
     if filename != filename_new:
         shutil.copy(path_dir / filename, path_dir / filename_new)
         os.remove(path_dir / filename)
