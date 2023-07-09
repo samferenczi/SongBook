@@ -1,6 +1,6 @@
 {title:Értem folyt a vér}
 {subtitle:Értem folyt a vér}
-{key:C}
+{key:D}
 
 {comment:<Verse>}
 [Bm] [A] [D] [A/C#] [Bm] [A] [D] [A/C#]
@@ -45,5 +45,5 @@ Atyám szerelmes fiad életet adott nekem!
 Életet adott nekem…
 
 [key]
-Capo: 4 (->[G])
+Capo: 4 (->G)
 /{artist: EredetiCím }

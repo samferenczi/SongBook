@@ -1,6 +1,6 @@
 {title:Úr vagy minden felett}
 {subtitle:Otthagytad a Mennyet, hogy a földön légy ember}
-{key:C}
+{key:Ab}
 
 {comment:<Intro>}
 

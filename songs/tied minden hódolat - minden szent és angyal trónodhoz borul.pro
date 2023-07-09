@@ -1,26 +1,26 @@
 {title:Tied minden hódolat}
 {subtitle:Minden szent és angyal trónodhoz borul}
-{key:D}
+{key:E}
 
 {comment:<Intro>}
-[G] [D] [A] [D]
+[A] [E] [B] [E]
 
 {comment:<Verse>}
-[G]Minden szent és [A]angyal [G]trónodhoz bo[A]rul
-[G]Minden vén meg[A]áll és az [G]Isten bárá[A]nyát imád[D]ják
+[E]Minden szent és [B]angyal [A]trónodhoz bo[B]rul
+[E]Minden vén meg[B]áll és az Isten bárá[A]nyát i[B]mád[E]ják
 
 {comment:<Chorus>}
 {start_of_chorus}
-Tied minden hódo[D]lat, Tied minden hódo[A]lat
-Mert minden álta[G]lad és érted lett, U[A]ram
-Tied minden dicső[D]ség
+Tied minden hódo[E]lat, Tied minden hódo[B]lat
+Mert minden álta[A]lad és érted lett, U[B]ram
+Tied minden dicső[E]ség
 {end_of_chorus}
 
 {comment:<Bridge>}
-[D]Jó illat szálljon fel [F#m]mindennap
-[Bm]Jó illat szálljon fel, [G]hozzád Uram
-[D]Jó illat szálljon fel [A]mindennap
-[Em]Jó illat szálljon fel, [G]hozzád Uram
+[E]Jó illat szálljon fel [G#m]mindennap
+[C#m]Jó illat szálljon fel, [A]hozzád Uram
+[E]Jó illat szálljon fel [B]mindennap
+[F#m]Jó illat szálljon fel, [A]hozzád Uram
 
-[D]
+[E]
 /{artist: Worthy Of It All }
