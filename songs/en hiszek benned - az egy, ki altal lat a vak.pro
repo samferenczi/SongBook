@@ -1,4 +1,4 @@
-{title:Én hiszek Benned}
+{title:Csodák Istene (Én hiszek Benned)}
 {subtitle:Az Egy, Ki által lát a vak}
 {key:D}
 

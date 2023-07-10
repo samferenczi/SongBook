@@ -1,4 +1,4 @@
-{title:Friss szél _ Áradj szét}
+{title:Friss szél __ Áradj szét}
 {subtitle:Zúgó szél, Szent Szellem}
 {key:C}
 

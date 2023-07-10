@@ -1,4 +1,4 @@
-{title:Fedd hát fel mi van benned (Nem lehetsz csendben tovább)}
+{title:Nem lehetsz csendben tovább (Fedd hát fel mi van benned)}
 {subtitle:Ahogy megmozdul a Szellem}
 {key:G}
 
