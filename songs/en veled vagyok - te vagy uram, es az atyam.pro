@@ -24,7 +24,6 @@ dap-dap [G] [Em] [C] [D]
 {end_of_chorus}
 
 [G]
-Capo: 2 (->G)
 /{artist: Ich Halt Mich An Dir Fest }
 # valami 2
 
