@@ -8,8 +8,8 @@
 
 {comment:<Chorus>}
 {start_of_chorus}
-[A/C#] Örökké hű az [D]Úr, [E] mint [E/D]Bárány [A]ül a [C#m]trónon [F#m7]
-[E] Meghajtom térde[D]met [E] és [D/E]Őt ma[D/A]gaszta[A]lom
+[A/C#] Örökké hű az [D]Úr, [E] mint [E/D]Bárány ül a [D]tró[A]non
+[C#m] [F#m7] Meghajtom [E]térde[D]met [E] és Őt ma[D]gaszta[D/A]lom [A]
 {end_of_chorus}
 
 [A]

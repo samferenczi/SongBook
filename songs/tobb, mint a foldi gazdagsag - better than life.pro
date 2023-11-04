@@ -13,7 +13,7 @@ Betölti minden szükségem, teljes életet élhetek Benne
 Csodás szerelme, mindennél többet ad
 
 {comment:<PreChorus>}
-[Ab] [Bbm7] [Ab/C] [Db] [Eb] [Fm]
+[Ab] [Bbm7] [Ab/C] [Db] [Eb] [Fm] [Db]
 Karjaid tartanak, tudom sosem engedsz el
 
 {comment:<Chorus>}

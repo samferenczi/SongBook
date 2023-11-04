@@ -1,4 +1,4 @@
-{title:Te vagy az Isten (Nincs más Isten) _tab_}
+{title:Nincs más Isten (Te vagy az Isten) _tab_}
 {subtitle:Nálad lett borrá a víz}
 {key:G}
 

@@ -41,5 +41,8 @@ Mint [F]hegy szirtjén a [C]városfény, [G]lámpásként [Am]lángunk ég
 [F] Jöjj, Szent Szellem, [Am] jöjj, Szent Szellem,
 [C] Áradj szét köztünk, [G] áradj szét köztünk!
 
+{comment:<Árassz el>}
+[Am] [F] [C] [G]
+
 [C]
 /{artist: Fresh Wind _ Fill The Room }

@@ -7,12 +7,12 @@
 
 {comment:<Verse 1>}
 [Bb] Hallottál már az Egyet[F]lenről, [Eb] akinek neve Megvál[F]tó?
-[Bb] Hallottál már a szerel[F]méről? [Eb] Tudod-e, Ő a megtar[F]tó?
+[Bb] Hallottál már a szerel[F]méről? [Eb] Tudod-e, Ő a megtartó?
 [Gm7] Én már ismerem [F] az Ő nagy kegyelmét, [Eb] hiszek a Fiúban!
 
 {comment:<Verse 2>}
-[Bb] Hiszem azt, hogy Ő az [F]Isten, akinek neve Megvál[F]tó
-[Bb] Hiszem azt, hogy Ő fel[F]támadt, Ő az első és utol[F]só
+[Bb] Hiszem azt, hogy Ő az [F]Isten, [Eb] akinek neve Megvál[F]tó
+[Bb] Hiszem azt, hogy Ő fel[F]támadt, [Eb] Ő az első és utolsó
 [Gm7] Hiszem, visszajön, [F] igen eljön értem, [Eb] hiszek a Fiúban!
 
 {comment:<Chorus>}

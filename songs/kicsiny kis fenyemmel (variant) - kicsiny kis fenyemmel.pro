@@ -12,7 +12,7 @@ Fényem [E]világít [B]minden[E]kor
 [E]Hétfőn, szeretettel átölel
 [A]Kedden, békességgel áraszt el
 [E]Szerdán, add még nekem több hitet
-Csü[B]törtökön, az Ő kegyelme végtelen
+Csü[B]törtökön, végtelen a kegyelme
 [E]Pénteken, imáimra Ő felel
 [A]Szombaton, megmutatja mit tegyek
 [E]Vasárnap, erőt ad mindenhez

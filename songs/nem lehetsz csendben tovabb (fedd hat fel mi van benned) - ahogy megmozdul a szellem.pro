@@ -13,7 +13,7 @@ Minden [Em]lány és fiúgyermek hangja [C]áttör az éjje[G]len
 
 {comment:<Chorus>}
 {start_of_chorus}
-Fedd hát [G]fel mi van [(Em)]benned, nem le[C]hetsz csendben tov[G]ább
+Fedd hát [G]fel[(Em)] mi van benned, nem le[C]hetsz csendben tov[G]ább
 Az ablak[D]on túl minden ember csak a t[C]e fényedre v[G]ár
 És emeld [Em]fel kezed a Mennyig, hangod [C]szálljon fel Hozz[G]á
 Dicsér[D]jétek teremtmények, mert csak [C]Ő ki méltó [C]rá

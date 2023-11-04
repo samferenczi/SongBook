@@ -1,6 +1,6 @@
-{title:Ha szól szava (H)}
+{title:Ha szól szava}
 {subtitle:}
-{key:}
+{key:B}
 
  Ha szól szól
 Ben Fields - Oceans will part (ford.: Horváth Balázs)
@@ -8,53 +8,33 @@ Ben Fields - Oceans will part (ford.: Horváth Balázs)
 Vamp: [G#m7], [D#m7], [E], [G#m7], [D#m7], [E]
 
 Verse1:
-
-H Hsus4 H Hsus4
-
+[B] [Bsus4] [B] [Bsus4]
 Mikor nincs bennem tűz, Lelked újra felfűt
-
-G#7 D#7 F#
-
-mmE
-
+[G#m7] [D#m7] [E] [F#]
 Ahogy ismét látom kezed nagy tetteit;
-
-H Hsus4 H Hsus4
-
+[B] [Bsus4] [B] [Bsus4]
 Mikor nincs előttem út, Lelked újra lángra gyújt
 
 PreChorus:
-G#m7 D#m7 E F#
-
+[G#m7] [D#m7] [E] [F#]
 Ahogy ismét látom kezed nagy tetteit;
-
-G#7 D#7 F#
-
-mmE sus4
-
+[G#m7] [D#m7] [Esus4] [F#]
 Ahogy ismét látom kezed nagy tetteit;
 
 Chorus:
-
-F# H Hadd9 F#
-sus4 E F# H
-
+[F#] [B] [Badd9] [F#sus4] [E] [F#] [B]
 Ha szól szavad, tenger hasad, s népek kelnek rajta át;
-
-F# F# F#G#7
-
-sus4 F# H Hadd9 sus4 E m
-
+[F#sus4] [F#] [B] [Badd9] [F#sus4] [E] [F#] [G#m7]
 Hit, remény ébred fel, dicsőséged árad ránk!
-
-E F#H
-
+[E] [F#] [B]
 Dicsőséged árad ránk!
 
 Verse2:
-
+[B] [Bsus4] [B] [Bsus4]
 Szenvedések útján irgalmad segít át,
+[G#m7] [D#m7] [E] [F#m]
 Ahogy ismét látom kezed nagy tetteit;
+[B] [Bsus4] [B] [Bsus4]
 Ének ébred bennem, mely felrázza lelkem
 
 Nyári Dicsőítő
