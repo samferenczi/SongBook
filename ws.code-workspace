@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.detectIndentation": true,
+		"editor.insertSpaces": false,
+		"editor.renderWhitespace": "all",
+		"editor.rulers": [80],
+		"editor.tabSize": 2,
+		"files.insertFinalNewline": false,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+
+		"C_Cpp.autoAddFileAssociations": true,
+		"files.associations": {
+			"*.pro": "chordpro",
+		}
+	}
+}
