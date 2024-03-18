@@ -1,7 +1,6 @@
 {title:Szánts bennem új ugart}
 {subtitle:Feltört talaj régóta parlagon}
 {key:B}
-
 {comment:<Intro>}
 [B] [F#] [G#m] [E]
 
@@ -32,4 +31,4 @@ Előled [B]nem rejtem el,[E] [B]nem rejtem [E]el bűnömet
 {comment:#Capo: }
 {comment:#Key:}
 [key]
-/{artist: }
+{comment://}

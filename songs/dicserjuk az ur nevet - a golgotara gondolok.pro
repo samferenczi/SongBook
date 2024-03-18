@@ -1,7 +1,6 @@
 {title:Dícsérjük az Úr nevét}
 {subtitle:A Golgotára gondolok}
 {key:C}
-
 {comment:<Intro>}
 [G] [Gmaj7/B] [C]
 
@@ -28,5 +27,5 @@ Halál, mondd [C]csak hol a ful[G/B]lánk? Angyal kar [D]zeng: Jézus Ki[G]rály
 Feltáma[C]dok a szentek[G/B]kel, szemem Jé[D]zus arcán pi[G]hen [Gmaj7/B] [C]
 
 [G]
-/{artist: O Praise the Name (Anastasis) }
+{comment:// O Praise the Name (Anastasis)}
 # Dean Ussher, Marty Sampson, Benjamin Hastings | Csóka Dávid, Németh Katica, Stanzel Benjámin

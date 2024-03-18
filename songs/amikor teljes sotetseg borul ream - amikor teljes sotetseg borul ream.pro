@@ -1,7 +1,6 @@
 {title:Amikor teljes sötétség borul reám}
 {subtitle:Amikor teljes sötétség borul reám}
 {key:F}
-
 {comment:<Verse 1>}
 Amikor [Dm]teljes sötétség bo[Bb]rul reám
 és mik[Gm]or kialszik mind[A]en fény
@@ -35,4 +34,4 @@ Sem amik most vannak, sem amik jönni fognak
 Sem magasság, sem mélység többé már
 
 Capo: 5 (->C)
-/{artist: }
+{comment://}

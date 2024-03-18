@@ -1,7 +1,6 @@
 {title:Dip-dip}
 {subtitle:Dip-dip}
 {key:G}
-
 [G]Dip - [Em]dip - [C]dip - [D]dip, yeah!
 [G]Oh - [Em]oh - [C]oh - [D]oh, yeah!
 
@@ -15,4 +14,4 @@ For he [G]gave his life and he [Em]died for you and [C]me
 [D]Woh-oh!
 
 [G]
-/{artist: Ismeretlen szerző }
+{comment:// Ismeretlen szerző}

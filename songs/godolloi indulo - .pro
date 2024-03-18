@@ -1,7 +1,6 @@
 {title:Gödöllői induló}
 {subtitle:}
-{key:}
-
+{key:C}
 É[C]ber, tiszta, becsületes,
 e[G]ngedelmes, h[C]űséges.
 
@@ -10,4 +9,4 @@ Il[G]yen legyen mindenki.
 
 G[C]ödöllőnek csapata
 E[G]rős bátor k[C]ész a harcra.
-/{artist: }
+{comment://}

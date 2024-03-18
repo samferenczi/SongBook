@@ -1,7 +1,6 @@
 {title:Ö az út és Ö az élet}
 {subtitle:Ö az út és Ö az élet}
 {key:Ab}
-
 {comment:<Verse 1>}
 [Ab]Ő az út és [Fm]Ő az élet,[Db] Ő Jézus a [Eb]nagy igéret
 [Ab]Ő királyok [Fm]nagy királya,[Db] Ő a világnak [Eb]világossága
@@ -27,4 +26,4 @@ Mert [Db]Te Uram [Eb]felmegasztal[Ab]tattá[Ab/G]l a [Fm]földön
 {comment:#Capo: 1 (->G)}
 [Ab]
 
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Csodás Isten}
 {subtitle:Ég és Föld királya}
 {key:G}
-
 {comment:<Intro>}
 [D]Ég és [G]Föld király[C]a, [D]Ég és [G]Föld király[C]a
 
@@ -23,4 +22,4 @@ A [G]nagyvilág csak Téged magasz[D]tal, hiszem [Em]szent vagy, [C]szent vagy
 [Am] Halleluja az [C]Ég és [D]Föld Urának!
 
 [G]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Ö már legyözte}
 {subtitle:A sátánt legyözték}
 {key:G}
-
 {comment:<Verse 1>}
 A [Em]sátánt [D/E]legyőzté[Em]k a Bárány[Em] vé[D/E]rével[Em]
 És az [Am7]ő szavuk [Bm7]bizonyságával [Em][D/E][Em][D/E]
@@ -35,4 +34,4 @@ A [Em]sátánt [D/E]legyőzté[Em]k a Bárány[Em] vé[D/E]rével[Em]
 {comment:#Eredeti cím: I Have Overcome}
 [G]
 
-/{artist: }
+{comment://}

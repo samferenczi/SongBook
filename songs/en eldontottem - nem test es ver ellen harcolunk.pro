@@ -1,7 +1,6 @@
 {title:Én eldöntöttem}
 {subtitle:Nem test és vér ellen harcolunk}
 {key:G}
-
 {comment:<Verse>}
 [Em]Nem test és [C]vér [D]ellen [Em]harcolunk
 Hanem [Em]erőkkel és [C]fejedelem[D]ségek[Em]kel
@@ -25,4 +24,4 @@ Hanem [Em]levegő égbeli [C]démoni [D]erőkk[Em]el
 {comment:#Eredeti cím: I Have Decided}
 [G]
 
-/{artist: }
+{comment://}

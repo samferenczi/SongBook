@@ -1,7 +1,6 @@
 {title:Legjobb helyen}
 {subtitle:A múlt még visszahúz}
 {key:Ab}
-
 {comment:<Intro>}
 [Dbmaj7] [Eb/G] [Ab]
 
@@ -29,5 +28,5 @@ Mert nálad [Db]van a [Eb]legjobb hely[Ab]en
 
 [Ab]
 Capo: 1 (->G)
-/{artist: Nyári Attila, Hellinger András | Dics-Suli 2020 }
+{comment:// Nyári Attila, Hellinger András | Dics-Suli 2020}
 {tag: Énekes füzet}

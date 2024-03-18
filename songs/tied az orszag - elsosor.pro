@@ -1,7 +1,6 @@
 {title:Tiéd az ország}
 {subtitle:ElsőSor}
 {key:F#}
-
 {comment:<Intro>}
 [B] [F#/A#] [G#m7]
 
@@ -29,4 +28,4 @@ Hős kirá[D#m]lyunk, teljes [B]szívvel Rád vá[F#/A#]runk
 
 [F#]
 Capo: 4 (->G)
-/{artist: Yours Is The Kingdom | Hillsong }
+{comment:// Yours Is The Kingdom | Hillsong}

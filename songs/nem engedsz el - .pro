@@ -1,7 +1,6 @@
 {title:Nem engedsz el}
 {subtitle:}
 {key:D}
-
 {comment:Ütem: 5/8}
 {comment:<Verse 1>}
 [D]Te vagy a szívem[F#m/D] királya
@@ -49,4 +48,4 @@ Soha [G9]nem engedsz el
 {comment:#Szerző: Dobner Illés (Dics-Suli 2007)}
 {comment:#Capo: 2 (D->C)}
 [D]
-/{artist: }
+{comment://}

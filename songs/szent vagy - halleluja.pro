@@ -1,7 +1,6 @@
 {title:Szent vagy}
 {subtitle:Halleluja}
 {key:G}
-
 {comment:<Verse>}
 [G]Halle[C]lu[G]ja, [G]halle[C]lu-[D]u[Em]ja, mert [D]Úr vagy és [C]Mindenha[G]tó
 
@@ -16,4 +15,4 @@
 
 [G]
 Capo: 4 (->G)
-/{artist: Holy | Agnus Dei }
+{comment:// Holy | Agnus Dei}

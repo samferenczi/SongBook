@@ -1,7 +1,6 @@
 {title:Jelenléted a Mennyország nekem}
 {subtitle:Your Presence is Heaven to Me}
 {key:Bb}
-
 {comment:<Verse 1>}
 [Gm] [Eb] [Bb]
 Nincsen más Uram olyan, mint Te
@@ -39,4 +38,4 @@ Jézus szomjúságom csillapítsd bennem
 {comment:#Fordító: Kovács Edgár}
 {comment:#Capo: 3 (Bb->G)}
 [Bb]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Tied a dicsőség}
 {subtitle:You Deserve The Glory}
-{key:}
-
+{key:C}
 [C] [Em]
 Tied a dicsőség és imádat
 [F] [Dm] [G]
@@ -15,4 +14,4 @@ Veled senki nem ér fel, Veled senki nem ér fel
 {comment:#Szerző: Gary Sadler, Aaron Keyes}
 {comment:#Fordító: ???}
 
-/{artist: }
+{comment://}

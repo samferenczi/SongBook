@@ -1,7 +1,6 @@
 {title:Újra megteszed}
 {subtitle:Vannak itt még falak}
 {key:D}
-
 {comment:<Verse 1>}
 [G] Vannak itt még falak,[D/F#] reméltem leomlanak
 [G6] De te sosem hagytál cserben[D]
@@ -32,7 +31,7 @@ Te [G]sosem hagytál el[D/F#], ezt [G]nem felejtem el[D/F#]
 
 [D]
 Capo: 2 (->C)
-/{artist: Do It Again }
-/{artist: | Pastor Steven Furtick, Matt Redman, Chris Brown, Mack Brock (Elevation Worship)}
-/{artist: | Csige Joel}
+{comment:// Do It Again}
+{comment:// | Pastor Steven Furtick, Matt Redman, Chris Brown, Mack Brock (Elevation Worship)}
+{comment:// | Csige Joel}
 {tag: Énekes füzet}

@@ -1,7 +1,6 @@
 {title:Halleluja (Kegyelmed egy bástya)}
 {subtitle:Hallelujah (Your Love Is Amazing)}
 {key:G}
-
 {comment:<Verse 1>}
 Kegyelmed egy [G/B]bárka, igen biztos [C]bástya
 Kegyelmed a [D]szikla, lábam nem inog[C]
@@ -25,4 +24,4 @@ Hallel[Em7]uja, [C]kegyelmed éneklem
 {comment:#Brian Doerksen, Brenton Brown}
 {comment:#Csöngedi Péter}
 [G]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Te légy látható bennem}
 {subtitle:Már látom gyengeségem}
 {key:G}
-
 {comment:<Verse 1>}
 Már [G]látom gyengeségem, ke[D]gyelmed elborít, mit [C]elrontottam, Nálad megja[G]vul
 
@@ -28,6 +27,6 @@ Te [G]tégy engem igazzá, fé[D]nyed ragyogjon be, és [C]minden dicsőség leg
 [Em] [G] [C] [D] [Em] [D] [C]
 
 [G]
-/{artist: You | Hillsong }
+{comment:// You | Hillsong}
 # Joel Houston (Hillsong) | Lakatos Péter
 {tag: Énekes füzet}

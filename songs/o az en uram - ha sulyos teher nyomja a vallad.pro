@@ -1,7 +1,6 @@
 {title:Ő az én Uram}
 {subtitle:Ha súlyos teher nyomja a vállad}
 {key:Bb}
-
 {comment:<Intro>}
 [Bb] [D7] [Gm] [Eb]
 
@@ -36,4 +35,4 @@ Minden tisztelet Őt illeti meg...
 [Bb]
 {comment:That's My Lord - Lenny LeBlanc, Lindell Cooley}
 
-/{artist: }
+{comment://}

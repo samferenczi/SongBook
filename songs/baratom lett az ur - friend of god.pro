@@ -1,7 +1,6 @@
 {title:Barátom lett az Úr}
 {subtitle:Friend of God}
 {key:Bb}
-
 {comment:<Verse>}
 [Bb]Ki vagyok én, hogy figyelsz rám, ó I[Gm]sten,
 ha hívlak Té[Eb/C]ged, meghallga[Bb]tsz
@@ -22,6 +21,5 @@ Teljes szí[Eb/C]vvel, ezért á[Ab]ldlak
 [Cm7]Barátodnak hí[Eb]vsz
 
 [Bb]
-/{artist: Israel Houghton, Michael Gungor | Pocsiné-Maros Zsúzsana }
+{comment:// Israel Houghton, Michael Gungor | Pocsiné-Maros Zsúzsana}
 {comment:Capo: 3 (->G)}
-

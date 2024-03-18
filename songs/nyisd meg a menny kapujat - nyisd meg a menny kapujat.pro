@@ -1,7 +1,6 @@
 {title:Nyisd meg a Menny kapuját}
 {subtitle:Nyisd meg a Menny kapuját}
 {key:A}
-
 [A2] Nyisd meg a Menny kapuját és [Cmaj7]áraszd ránk a fényed
 [Bm7] Végtelen [D2]szereteted öntsd ki [E4]ránk [E]
 
@@ -12,4 +11,4 @@ Hogy jöjjön el királyságod és legyen meg akaratod
 
 {comment:#Szerző: Prazsák László}
 [A]
-/{artist: }
+{comment://}

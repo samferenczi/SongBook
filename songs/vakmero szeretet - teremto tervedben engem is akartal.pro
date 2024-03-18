@@ -1,7 +1,6 @@
 {title:Vakmerő szeretet}
 {subtitle:Teremtő tervedben engem is akartál}
 {key:C}
-
 {comment:<Intro>}
 [Am] [G] [F] [C]
 
@@ -26,4 +25,4 @@ Nem érde[Am]meltem, ki sem fi[G]zettem, mégis [F]ingyen enyém [C]lett
 [Am] Kőfalakat [G]döntesz, hazugságot [F]rombolsz, míg utánam e[C]redsz
 
 [C]
-/{artist: Reckless Love | Bethel }
+{comment:// Reckless Love | Bethel}

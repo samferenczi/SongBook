@@ -1,7 +1,6 @@
 {title:Fenségednél nincs vonzóbb}
 {subtitle:Fenségednél nincs vonzóbb e Földön}
 {key:A}
-
 {comment:<Verse>}
 Fensé[A]gednél nincs vonzóbb e [Amaj7]földön, se [D/A]dal, se szó, se [A]kép
 És [A]nem találnék Nálad [Amaj7]szebbet [D2]bármerre is indul[E]nék [E/D] [C#7]
@@ -16,4 +15,4 @@ Minden [C#sus]tiszte[C#7]let csak [Dmaj7]Hozzád [Dm7]száll, i[Bm7]mádlak [E]h
 
 [A]
 Capo: 2 (->G)
-/{artist: I Stand In Awe Of You }
+{comment:// I Stand In Awe Of You}

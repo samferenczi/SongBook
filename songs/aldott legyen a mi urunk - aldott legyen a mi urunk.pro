@@ -1,7 +1,6 @@
 {title:Áldott legyen a mi Urunk}
 {subtitle:Áldott legyen a mi Urunk}
 {key:D}
-
 [D]Áldott legyen a mi Urunk, [G]áldott legyen a mi Ur[A]unk
 [D]Áldott legyen a mi U[Bm]runk, örök[A]ké!
 [D]Áldott legyen a mi Urunk, [G]áldott legyen a mi Ur[A]unk
@@ -14,6 +13,6 @@ Az igaz [A]hozzá [G]fut, és megmene[D]kül
 
 [D]
 Capo: 4 (->G)
-/{artist: Blessed Be The Name Of The Lord }
-/{artist: ?}
-/{artist: ?}
+{comment:// Blessed Be The Name Of The Lord}
+{comment:// ?}
+{comment:// ?}

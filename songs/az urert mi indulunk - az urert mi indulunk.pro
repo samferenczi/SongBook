@@ -1,7 +1,6 @@
 {title:Az Úrért mi indulunk}
 {subtitle:Az Úrért mi indulunk}
 {key:D}
-
 {comment:<Verse 1>}
 Az [Bm]Úrért mi indulunk, az Ő serege mindig készen áll
 [G]Dicsőségét [A]meglátja majd a Fö[Bm]ld!
@@ -21,5 +20,5 @@ Zengd a [Bm]himnuszt, a győztesét, áldd az Istent a harcokért
 Nincs [G]fegyver, amely [A]legyőzhet min[Bm]ket!
 
 [D]
-/{artist: For the Lord is Marching On | Bonnie Low }
+{comment:// For the Lord is Marching On | Bonnie Low}
 # Bonnie Low

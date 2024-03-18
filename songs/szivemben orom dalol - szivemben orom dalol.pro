@@ -1,7 +1,6 @@
 {title:Szívemben öröm dalol}
 {subtitle:Szívemben öröm dalol}
 {key:C}
-
 {comment:<Verse>}
 Szívemben [A]öröm dalol, öröm dalol [E]az én szívemben
 [E]Az én szívemben, [A]az én szívem
@@ -25,4 +24,4 @@ Szeretet öröm, hála, béke dalol...
 {comment:#Capo: }
 [key]
 
-/{artist: }
+{comment://}

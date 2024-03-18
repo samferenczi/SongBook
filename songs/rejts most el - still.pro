@@ -1,7 +1,6 @@
 {title:Rejts most el}
 {subtitle:Still}
 {key:C}
-
 {comment:<Intro>}
 [F] [Am] [C] [G]
 
@@ -23,6 +22,6 @@ Csak [C]Is[G/B]tenbe[Am]n bízz [F]én [D/F#]lelke[G4]m [G]
 
 {comment:#Szerző: Reuben Morgan (Hillsong)}
 {comment:#Fordító: Labadics Kriszta (Dics-Suli 2004)}
-{comment:#Capo: 3 (C->A)}
+{comment:#Capo: 5 (->G)}
 [C]
-/{artist: }
+{comment://}

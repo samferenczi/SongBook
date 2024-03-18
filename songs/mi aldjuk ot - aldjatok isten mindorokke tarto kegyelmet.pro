@@ -1,6 +1,7 @@
 {title:Mi áldjuk Őt}
 {subtitle:Áldjátok Isten mindörökké tartó kegyelmét}
 {key:E}
+{title:Áldjátok Isten mindörökké tartó kegyelmét}
 
 {comment:<Intro>}
 [E] [B/E] [D/E] [A/E]
@@ -25,4 +26,4 @@ Mi [E]áldjuk [B]Őt örök[C]ké! [D]
 Ő az [E]Úr, [G]örökk[A]é hirdet[E]jük [D]kegyelm[A/C#]ét!
 
 [E]
-/{artist: You Are Good | Israel Houghton }
+{comment:// You Are Good | Israel Houghton}

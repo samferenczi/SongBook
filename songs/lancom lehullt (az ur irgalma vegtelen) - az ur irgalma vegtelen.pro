@@ -1,7 +1,6 @@
 {title:Láncom lehullt (Az Úr irgalma végtelen)}
 {subtitle:Az Úr irgalma végtelen}
 {key:D}
-
 {comment:<Intro>}
 [D] [G] [D] [D] [Dsus4]
 
@@ -29,6 +28,6 @@ Ott [D]még szebb [D/F#]hangon [G]zenghe[D]tem a [D]Bárány [A/D]éne[D]két
 
 [D]
 Capo: 2 (->C)
-/{artist: My Chains Are Gone | Amazing Grace }
-/{artist: | Chris Tomlin, Louie Giglio | ?}
+{comment:// My Chains Are Gone | Amazing Grace}
+{comment:// | Chris Tomlin, Louie Giglio | ?}
 {tag: Énekes füzet}

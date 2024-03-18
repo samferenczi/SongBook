@@ -1,0 +1,42 @@
+{title:Kiáltunk Hozzád ((Jesus Culture))}
+{subtitle:We Cry Out}
+{key:F}
+{comment:<Intro>}
+[Dm] [F] [C] [Gm]
+
+{comment:<Intro - 2nd Guitar>}
+[F5] [A5] [E5] [Bb5]
+
+{comment:<Verse 1>}
+Oh, U[Dm]runk, felkiál[F]tunk kegyelmedért[C]
+Tévelyeg[Gm]tünk Nélküled[Dm]
+Istenünk[F], bocsáss meg[C]
+És mi új[Gm]ra Hozzád jövünk[Dm] [F] [C] [(Gm)]
+
+{comment:<Verse 2>}
+Oh, Urunk[Dm], felkiál[F]tunk irgalmadért[C]
+Jöjj és for[Gm]máld át szívünk[Dm]
+Vétkein[F]ket töröld el[C]
+És mi új[Gm]ra Hozzád jövünk[Dm] [F] [C] [(Gm)]
+
+{comment:<Chorus>}
+{start_of_chorus}
+Iste[Gm]nünk
+Kiáltunk Hoz[F]zád irgalmad[C]ért
+Iste[Gm]nünk
+Kiáltunk Hoz[F]zád kegyelmedért[C]
+Iste[Gm]nünk
+Kiáltunk Hoz[F]zád, hogy szabaddá[C] tégy
+Iste[Gm]nünk
+Újra és új[F]ra kiáltunk még[C]
+Hoz[Dm]zád [F] [C] [Gm]
+{end_of_chorus}
+
+{comment:<Instrumental>}
+[Gm] [F] [C]
+
+{comment:#Szerző: Brian Johnson (Bethel)}
+{comment:#Fordító: Debreceni István (Dics-Suli 2009)}
+{comment:#Capo: 6 (F#->C)}
+[F]
+{comment://}

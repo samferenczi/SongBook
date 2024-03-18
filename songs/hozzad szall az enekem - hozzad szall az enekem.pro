@@ -1,7 +1,6 @@
 {title:Hozzád száll az énekem}
 {subtitle:Hozzád száll az énekem}
 {key:G}
-
 {comment:<Verse 1>}
 [G]Hozzád [C]száll az éne[D]kem [C] [(D)]
 [G]Olyan [C]jó Téged di[D]csérni [C] [(D)]
@@ -17,6 +16,6 @@ Ural[D]kodsz mindörök[G]ké!
 {end_of_chorus}
 
 [G]
-/{artist: Lord, I Lift Your Name On High }
-/{artist: | Rick Founds | Simonfalvi Krisztián}
+{comment:// Lord, I Lift Your Name On High}
+{comment:// | Rick Founds | Simonfalvi Krisztián}
 {tag: Énekes füzet}

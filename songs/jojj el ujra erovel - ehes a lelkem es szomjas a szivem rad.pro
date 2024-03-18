@@ -1,7 +1,6 @@
 {title:Jöjj el újra erővel}
 {subtitle:Éhes a lelkem és szomjas a szívem Rád}
 {key:F}
-
 {comment:<Vamp>}
 [F] [C] [Dm] [Eb] [Bb] [Eb] [Bb]
 
@@ -33,5 +32,5 @@ Jöjj Szent Szel[F]lem [(G)]
 
 [F]
 /{/comment:Capo: (->)}
-/{artist: Szabó Balázs | Dics-Suli 2015 }
+{comment:// Szabó Balázs | Dics-Suli 2015}
 {tag: Énekes füzet}

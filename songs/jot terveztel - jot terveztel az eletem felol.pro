@@ -1,7 +1,6 @@
 {title:Jót terveztél}
 {subtitle:Jót terveztél az életem felől}
 {key:G}
-
 {comment:<Chorus>}
 {start_of_chorus}
 [Em7]Jót terveztél az [Cmaj7]életem felől, [Am7]szívből örülsz mikor [Bm7]jót tehetsz velem
@@ -26,4 +25,4 @@ Kiáltjuk: [Em7]Abba, [Cmaj7]szerelmes Atyánk! [Am7]Abba, [Bm7]szerelmes Atyán
 
 [G]
 
-/{artist: }
+{comment://}

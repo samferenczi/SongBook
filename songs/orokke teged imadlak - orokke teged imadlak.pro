@@ -1,7 +1,6 @@
 {title:Örökké Téged imádlak}
 {subtitle:Örökké Téged imádlak}
 {key:G}
-
 {comment:<Verse>}
 [G]Örökké T[D/F#]éged im[Em7]ádlak, Te l[Cmaj7]átsz en[C6]gem, jól [Dsus4]is[D]mersz
 [G]Kezeidd[D/F#]el betak[Em7]artál, és j[Cmaj7]árha[C6]tok ös[Dsus4]vényed[Dadd9]en
@@ -21,4 +20,4 @@ Mert [D/F#]kegyelm[G]ed megt[C]art egy [C/D]életen [G]át
 [C6/G]Hal - [G]le - [D/E]lu - [Em7]ja, [Cmaj7]hal - [C6]le - [G/D]lu - [D]ja
 
 [G]
-/{artist: Through It All | Hillsong }
+{comment:// Through It All | Hillsong}

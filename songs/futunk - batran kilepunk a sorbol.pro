@@ -1,7 +1,6 @@
 {title:Futunk}
 {subtitle:Bátran kilépünk a sorból}
 {key:A}
-
 {comment:<Verse 1>}
 [A]Bátran kilépünk a [D]sorból, s [F#m]máris látjuk mi vár [D]ránk
 [A]Nemzetünk majd feléd [D]fordul, [F#m]ez a nap már közel jár
@@ -15,7 +14,7 @@ Megállni [D]nem fo[A]gunk! [D] Megállni nem fo[F#m]gunk! [D]
 {comment:<Chorus>}
 {start_of_chorus}
 És csak [A]futu-u-[D]unk! [F#m]Áttörünk a sötét[D]ségen
-És csak [A]futu-u-[D]unk! [F#m]Te vagy egyedül minden, amit [D]akarunk!
+Hozzád [A]futu-u-[D]unk! [F#m]Te vagy egyedül minden, amit [D]akarunk!
 {end_of_chorus}
 
 {comment:<Verse 3>}
@@ -33,5 +32,5 @@ Megállni [D]nem fo[A]gunk! [D] Megállni nem fo[F#m]gunk! [D]
 
 [A]
 Capo: 2 (->G)
-/{artist: Running }
+{comment:// Running}
 # Hillsong

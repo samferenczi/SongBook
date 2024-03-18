@@ -1,46 +1,32 @@
 {title:Terajtad kívül nincsen más Isten}
 {subtitle:Te nem vagy egy emberek által kitalált Isten}
-{key:G}
-
+{key:C}
 {comment:<Intro>}
-[G] [C] [G] [C]
+[C] [F] [C] [F]
 
 {comment:<Verse1>}
-[G] [C]
-Te nem vagy egy emberek által kitalált Isten
-[G] [C]
-Tetteinkkel sem tudunk megnyerni Téged
-[G] [D] [Em] [C]
-Nincs szükséged arra, hogy bármit adjunk Neked
-[G] [D] [Em] [C]
-Teremtőm, ezt így tervezted el
+[C] Te nem vagy egy emberek ált[F]al kitalált Isten
+[C] Tetteinkkel sem tud[F]unk megnyerni Téged
+[C] Nincs szük[G]séged [Am]arra, hogy [F]bármit adjunk Neked
+[C] Terem[G]tőm, ezt [Am]így tervezted [F]el
 
 {comment:<Chorus>}
 {start_of_chorus}
-[G] [D]
-Terajtad kívül nincsen más Isten
-[Em] [C]
-Előtted sem volt, és utánad sem lesz
-[G] [D]
-Hűséged irányít mindent
-[Em] [C]
-Kezedben tartod minden percemet
+Terajtad kí[C]vül nincsen más Ist[G]en
+Előtted sem v[Am]olt, és utánad sem [F]lesz
+Hűség[C]ed irányít mind[G]ent
+Kezedben tar[Am]tod minden percem[F]et
 {end_of_chorus}
 
 {comment:<Verse2>}
-[G] [C]
-Te vagy egyedül csak Isten, Veled senki nem ér fel
-[G] [C]
-Az, amit tettél értünk, sosem múlik el
-[G] [D] [Em] [C]
-Te vagy egyedül csak méltó, hogy dicsőítselek
-[G] [D] [Em] [C]
-Uram vagy, s ezt így tervezted el
+[C] Te vagy egyedül csak [F]Isten, Veled senki nem ér fel
+[C] Az, amit tettél [F]értünk, sosem múlik el
+[C] Te vagy egye[G]dül csak m[Am]éltó, hogy [F]dicsőítselek
+[C] Uram [G]vagy, és ezt [Am]így tervezted [F]el
 
 {comment:<Bridge>}
-[G] [D] [Em] [C]
-Se gondolat se képzelet, sem alkotás fel nem ér Veled
+Se g[C]ondolat, se k[G]épzelet, sem [Am]alkotás fel nem ér Ve[F]led
 
-[G]
-/{artist: You Are God Alone }
+[C]
+{comment:// You Are God Alone}
 # Phillips, Craig & Dean

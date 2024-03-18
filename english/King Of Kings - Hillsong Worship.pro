@@ -1,0 +1,30 @@
+{title:King Of Kings}
+{subtitle:In the darkness we were waiting}
+{key:D}
+{comment:<Verse 1>}
+In the d[D/F#]arkness we were w[G]aiting without ho[A]pe, without li[D]ght
+Till from h[D/F#]eaven You came r[G]unning there was m[A]ercy in Your [D]eyes
+To fu[D/F#]lfill the law and p[G]rophets to a v[A]irgin came the W[D]ord
+From a th[D/F#]rone of endless gl[G]ory to a cr[A]adle in the d[D(no3)]irt
+ 
+{comment:<Chorus>}
+[D(no3)]Praise the Father, [G2]praise the Son, [Bm7]praise the Spirit [D/A]Three in [A]One
+[D(no3)]God of glory, [G2]Majesty, [Bm7]praise for[G2]ever to the [A]King of [D(no3)]Kings
+ 
+{comment:<Verse 2>}
+To re[D/F#]veal the kingdom [G]coming and to r[A]econcile the [D]lost
+To re[D/F#]deem the whole cre[G]ation You did [A]not despise the cr[D]oss
+For [D/F#]even in Your s[G]uffering You saw [A]to the other s[D]ide
+Knowing [D/F#]this was our sal[G]vation Jesus [A]for our sake You d[D(no3)]ied
+
+{comment:<Verse 3>}
+And the [Bm]morning that You [G]rose all of h[A]eaven held its br[D]eath
+Till that s[Bm]tone was moved for g[G]ood for the L[A]amb had conquered d[D]eath
+And the d[Bm]ead rose from their t[G]ombs and the [A]angels stood in [D]awe
+For the [Bm]souls of all who'd [G]come to the [A]Father are rest[D]ored
+ 
+{comment:<Verse 4>}
+And the [D/F#]Church of Christ was b[G]orn then the S[A]pirit lit the fl[D]ame
+Now this [D/F#]gospel truth of [G]old shall not [A]kneel shall not f[D]aint
+By His [D/F#]blood and in His [G]Name in His fr[A]eedom I am f[D]ree
+For the l[D/F#]ove of Jesus Ch[G]rist who has re[A]surrected [D(no3)]me

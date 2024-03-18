@@ -1,7 +1,6 @@
 {title:Minden amit alkotott jó}
 {subtitle:Isten alkotta az oroszlánokat}
 {key:D}
-
 {comment:<Verse 1>}
 [D]Isten alkotta az [G]oroszlánokat, a [A]medvét, a [D]kengurut
 [D]Isten alkotta a [G]tevéket is, a [A]tehenet, a [D]tigrist
@@ -22,4 +21,4 @@
 
 [D]
 
-/{artist: }
+{comment://}

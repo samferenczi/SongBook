@@ -1,7 +1,6 @@
 {title:Szívből dicsérlek}
 {subtitle:My Heart Sings Praises}
 {key:A}
-
 {comment:<Verse>}
 Szívből di[A2]csérlek, Neved ma[C#m2]gasztalom
 Szerelmed [Dmaj7]mélyebb, mint el[D]mond[E4]ha[E]tom
@@ -26,4 +25,4 @@ Szívből di[A2]csérlek
 {comment:#Capo: }
 [A]
 
-/{artist: }
+{comment://}

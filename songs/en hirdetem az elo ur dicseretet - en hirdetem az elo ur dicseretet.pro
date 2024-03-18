@@ -1,7 +1,6 @@
 {title:Én hirdetem az élő Úr dicséretét}
 {subtitle:Én hirdetem az élő Úr dicséretét}
 {key:A}
-
 {comment:<Verse>}
 [A] Én hirde[D]tem [E] az élő Úr di[D/A]csére[A]tét
 [A] Értem halt [D]meg, [E] fel[E/G#]áldozta az [D/A]életét
@@ -14,4 +13,4 @@
 
 [A]
 Capo: 2 (->G)
-/{artist: All heaven declares }
+{comment:// All heaven declares}

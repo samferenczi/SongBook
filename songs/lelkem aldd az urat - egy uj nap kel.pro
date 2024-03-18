@@ -1,7 +1,6 @@
 {title:Lelkem áldd az Urat}
 {subtitle:Egy új nap kél}
 {key:A}
-
 {comment:<Chorus>}
 {start_of_chorus}
 Lelkem [A]áldd az U[E]rat, [B/D#]áldd az U[C#m]rat, [A]egyedül Ő[E]t imá[B]dd
@@ -22,5 +21,5 @@ A [A]lelkem [E]mégis Téged [B]áld vég [C#m]nélkül, [A] tízezer [E]évig �
 
 [A]
 Capo: 2 (->G)
-/{artist: 10,000 Reasons (Bless The Lord) }
+{comment:// 10,000 Reasons (Bless The Lord)}
 # Matt Redman | Dobrocsi Gábor

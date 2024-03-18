@@ -1,7 +1,6 @@
 {title:Áldom Szent Neved}
 {subtitle:Áldom Szent Neved a mézzel folyó földeken}
 {key:A}
-
 {comment:<Verse 1>}
 [A] Áldom [E]Szent Neved a [F#m]mézzel folyó [D]földeken
 [A] [E] [D]
@@ -42,4 +41,4 @@ Te adsz és elveszel, Te adsz és elveszel
 A szívem így felel, hogy áldott szent neved
 
 [A]
-/{artist: Blessed Be Your Name | Matt Redman }
+{comment:// Blessed Be Your Name | Matt Redman}

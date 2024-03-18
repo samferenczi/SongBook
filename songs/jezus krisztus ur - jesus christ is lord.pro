@@ -1,7 +1,6 @@
 {title:Jézus Krisztus Úr}
 {subtitle:Jesus Christ Is Lord}
 {key:G}
-
 {comment:<Intro>}
 {start_of_tab}
 e|----------------------------------------------------------
@@ -30,4 +29,4 @@ Népünk [Em]fölött!
 {comment:#Szerző: Ramon Pink}
 {comment:#Fordító: Harkai Tamás}
 
-/{artist: }
+{comment://}

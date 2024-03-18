@@ -1,7 +1,6 @@
 {title:Tied minden hódolat}
 {subtitle:Minden szent és angyal trónodhoz borul}
 {key:E}
-
 {comment:<Intro>}
 [A] [E] [B] [E]
 
@@ -23,4 +22,4 @@ Tied minden dicső[E]ség
 [F#m]Jó illat szálljon fel, [A]hozzád Uram
 
 [E]
-/{artist: Worthy Of It All }
+{comment:// Worthy Of It All}

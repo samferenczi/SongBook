@@ -1,7 +1,6 @@
 {title:Kicsiny kis fényemmel}
 {subtitle:Kicsiny kis fényemmel}
 {key:G}
-
 [G]Kicsiny kis fényemmel világítani fogok
 [C]Kicsiny kis fényemmel világítani fogok
 [G]Kicsiny kis fényemmel [B]világítani fog[Em]ok
@@ -12,6 +11,6 @@ A Sátán sem állíthat meg? NEM! Világítani fogok...
 Így teszek míg Jézus jön? IGEN! Világítani fogok...
 
 [G]
-/{artist: This Little Light Of Mine }
-/{artist: ?}
-/{artist: ?}
+{comment:// This Little Light Of Mine}
+{comment:// ?}
+{comment:// ?}

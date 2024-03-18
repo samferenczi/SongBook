@@ -1,7 +1,6 @@
 {title:Ma csak álmodom arról}
 {subtitle:I Can Only Imagine}
 {key:D}
-
 {comment:<Verse 1>}
 Ma csak álmodom [D]arról, gyönyörű lehet
 Ha ott [G2]állok végre előtted
@@ -29,4 +28,4 @@ Ma csak álmodom [D]arról, ma csak álmodom [G2]arról
 {comment:#Fordító: Kerekes Ernő}
 {comment:#Capo: 2 (D->C)}
 [D]
-/{artist: }
+{comment://}

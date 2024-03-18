@@ -1,7 +1,6 @@
 {title:Te győztél}
 {subtitle:A legjobb nap az életben}
 {key:C}
-
 {comment:<Intro>}
 [C] [F] [Am] [G]
 
@@ -33,6 +32,6 @@ Minde[G]n bűnt elvetté[C/E]l [F] [Am] [G]
 
 [C]
 Capo: 5 (->G)
-/{artist: Happy Day }
-/{artist: | Tim Hughes, Ben Cantelon | Szerdi Szilárd (Dics-Suli 2009)}
+{comment:// Happy Day}
+{comment:// | Tim Hughes, Ben Cantelon | Szerdi Szilárd (Dics-Suli 2009)}
 {tag: Énekes füzet}

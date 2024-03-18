@@ -1,7 +1,6 @@
 {title:Jelenlétedben}
 {subtitle:Here In Your Presence}
 {key:D}
-
 {comment:<Intro>}
 [D] [D] [Em] [Em] [G] [G] [D] [D]
 
@@ -37,4 +36,4 @@ Minden tere[Bm]mtmény [A]térdre hull trónod elő[G]tt
 {comment:#Capo: 5 (D->A)}
 [D]
 
-/{artist: }
+{comment://}

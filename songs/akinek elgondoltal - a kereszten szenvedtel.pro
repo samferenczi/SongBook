@@ -1,7 +1,6 @@
 {title:Akinek elgondoltál}
 {subtitle:A kereszten szenvedtél}
 {key:B}
-
 {comment:<Intro>}
 [G#m] [E] [B] [F#]
 [G#m] [E/G#] [B/D#] [F#/A#]
@@ -48,4 +47,4 @@ Egyedül a Te Szellemeddel
 
 [B]
 Capo: 4 (->G)
-/{artist: }
+{comment://}

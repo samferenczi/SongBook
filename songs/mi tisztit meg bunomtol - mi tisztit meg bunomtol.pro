@@ -1,7 +1,6 @@
 {title:Mi tisztít meg bűnömtől}
 {subtitle:Mi tisztít meg bűnömtől}
 {key:G}
-
 {comment:<Intro>}
 [G] [D] [A]
 [G] [D] [A]
@@ -54,4 +53,4 @@ Csak a bárány Jézus vére!
 
 [key]
 /{/comment:Capo: 4 (->G)}
-/{artist: Nothing but the Blood | Robert Lowry | ? }
+{comment:// Nothing but the Blood | Robert Lowry | ?}

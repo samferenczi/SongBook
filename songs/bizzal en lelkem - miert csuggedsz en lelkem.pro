@@ -1,7 +1,6 @@
 {title:Bízzál én lelkem}
 {subtitle:Miért csüggedsz én lelkem}
 {key:D}
-
 {comment:<Verse 1>}
 [Bm]Miért csüggedsz [G]én lel[D]kem?
 [Bm]Miért csüggedsz [G]énben[D]nem?
@@ -47,4 +46,4 @@ Mikor az [D]igazak mind szaba[A/C#]dulnak
 {comment:Capo: 2 (D->C)}
 [D]
 
-/{artist: }
+{comment://}

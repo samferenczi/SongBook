@@ -1,7 +1,6 @@
 {title:Te vagy a legfőbb kincsem}
 {subtitle:Te vagy a legfőbb kincsem}
 {key:G}
-
 [G] [G/B] [C]
 Te vagy a legfőbb kincsem ebben az életben,
 [G] [G/B] [C]
@@ -25,4 +24,4 @@ Beszéded az életnek értelmet ad.
 
 {comment:#Szerző: Pintér Béla}
 [G]
-/{artist: }
+{comment://}

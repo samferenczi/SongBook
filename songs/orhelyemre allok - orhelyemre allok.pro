@@ -1,7 +1,6 @@
 {title:Őrhelyemre állok}
 {subtitle:Őrhelyemre állok}
 {key:G}
-
 {comment:<Verse 1>}
 [Em]Őrhelyemre állok, [D] megállok a bástyán
 [Am7]Hallgatom, hogy mit szól [Em]Isten hangja hozzám
@@ -29,4 +28,4 @@ Mint [Em]sok víz zúgását, [D] hallani a hangját
 
 [G]
 
-/{artist: }
+{comment://}

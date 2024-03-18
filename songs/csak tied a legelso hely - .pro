@@ -1,7 +1,6 @@
 {title:Csak Tiéd a legelső hely}
 {subtitle:}
 {key:C}
-
 [C]
 Csak Tiéd a legelső hely
 Mert Te, Te vagy a hű főpap
@@ -9,4 +8,4 @@ Mert Te, Te vagy a hű főpap
 Rangod magasabb minden rangnál
 [Dm] [G] [C]
 Trónodhoz jövünk, imádunk, Szent Urunk!
-/{artist: }
+{comment://}

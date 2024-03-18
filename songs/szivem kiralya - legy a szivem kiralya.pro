@@ -1,7 +1,6 @@
 {title:Szívem királya}
 {subtitle:Légy a szívem királya}
 {key:G}
-
 {comment:<Verse 1>}
 Légy a [G]szívem királya, magas [C]hegy merre fu[G]tok
 For[Em]rás, ha szomja[D]zom, ó, [C]Neked szól da[G]lom
@@ -25,4 +24,4 @@ Ha[Em]lál elől men[D]tettél meg, ó, [C]Rólad szól da[G]lom
 [Em]Ó soha nem ereszt, Te [D]soha nem eresztesz el!
 
 [G]
-/{artist: Let The King Of My Heart }
+{comment:// Let The King Of My Heart}

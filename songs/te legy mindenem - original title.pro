@@ -1,7 +1,6 @@
 {title:Te légy mindenem}
 {subtitle:Original title}
 {key:A}
-
 {comment:<Verse 1>}
 [A] [D]
 Úr vagy szívemben, a lélegzetemben
@@ -52,4 +51,4 @@ Te vagy mindenem!
 {comment:#Fordító:}
 {comment:#Capo: 2 (A->G)}
 [A]
-/{artist: }
+{comment://}

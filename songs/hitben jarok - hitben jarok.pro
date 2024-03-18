@@ -1,7 +1,6 @@
 {title:Hitben járok}
 {subtitle:Hitben járok}
 {key:F}
-
 {comment:<Chorus>}
 {start_of_chorus}
 Hit[C]ben járok, hit[Bb]tel lépek, hit[F]ből élek csak Benned [C7]bízom én
@@ -18,4 +17,4 @@ Csak Benned [Bb]bízom én, csak Benned [F]bízom én
 Csak [C]Benned bízom én
 
 [F]
-/{artist: I Walk By Faith }
+{comment:// I Walk By Faith}

@@ -1,7 +1,6 @@
 {title:Fedetlen arccal}
 {subtitle:}
 {key:E}
-
 {comment:<Verse 1>}
 [C#2] [C#m] [C#2] [C#m]
 Fedetlen arccal, mint egy tükörben
@@ -36,4 +35,4 @@ Megtisztít minket a próbák hevében
 {comment:#Szerző: Kertész Tamás}
 {comment:#Capo: }
 [E]
-/{artist: }
+{comment://}

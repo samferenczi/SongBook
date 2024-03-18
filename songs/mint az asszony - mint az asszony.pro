@@ -1,7 +1,6 @@
 {title:Mint az asszony}
 {subtitle:Mint az asszony}
 {key:A}
-
 {comment:<Verse>}
 Mint az [A]asszony az Ő [E/G#]ruhája szegé[F#m]lyét
 [A/E] Megragadj[D]uk [A/C#] az Úr je[Bm]lenlé[E]tét
@@ -16,4 +15,4 @@ Mint a [A]vak koldus a [E/G#]út szé[F#m]lén
 
 [A]
 Capo: 1 (->G)
-/{artist: EredetiCím }
+{comment:// EredetiCím}

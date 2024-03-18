@@ -1,7 +1,6 @@
 {title:Egy hangon}
 {subtitle:Féltő szerelmed hozott ki minket}
 {key:G}
-
 {comment:<Verse 1>}
 [Em] Féltő szer[C]elmed hozott ki [G]minket a sötét ho[D]mályból fényedre
 [Em] Fájdalmunk [C]elmúlt gyógyulást [G]hoztál a szívünk[D]be
@@ -27,6 +26,6 @@ Dicsér[Em]jük, mert dicsősé[C]ges, dicsősé[G]ges, dicsősé[D]ges
 Az Ő ne[Em]ve dicsősé[C]ges, dicsősé[G]ges, dicsősé[D]ges
 
 [G]
-/{artist: To Our God | Brian Johnson, Jeremy Riddle, Joel Taylor | Bethel }
-/{artist: | Molnár Zoltán (Dics-Suli 2019)}
+{comment:// To Our God | Brian Johnson, Jeremy Riddle, Joel Taylor | Bethel}
+{comment:// | Molnár Zoltán (Dics-Suli 2019)}
 {tag: Énekes füzet}

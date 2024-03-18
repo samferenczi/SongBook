@@ -1,7 +1,6 @@
 {title:Nincs más Isten (Te vagy az Isten)}
 {subtitle:Nálad lett borrá a víz}
 {key:G}
-
 {comment:<Intro>}
 [Em7] [Cadd2] [Gadd5] [D/F#] [Em7] [Cadd2] [Gadd5] [D]
 
@@ -25,4 +24,4 @@ Az Ú[Gadd5]r ma [D]is
 [G] [(Gadd5)] Mert hogyha Te vagy velünk, [D/F#] [(D)] ki lehet ellenünk?
 
 [G]
-/{artist: Our God | Chris Tomlin }
+{comment:// Our God | Chris Tomlin}

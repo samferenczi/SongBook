@@ -1,7 +1,6 @@
 {title:Istenünk él}
 {subtitle:Eljött már a Menny közénk}
 {key:E}
-
 {comment:<Intro>}
 Istenünk [A]é - [E]él, [B]ó - [C#m]ó, igen, Ő [A]é - [E]él, [B]ó - [C#m]ó
 
@@ -30,6 +29,6 @@ Istenünk [A]é - [E]él, [B]ó - [C#m]ó, igen, Ő [A]é - [E]él, [B]ó - [C#m
 
 [E]
 Capo: 4 (->C)
-/{artist: Our God Is Here }
-/{artist: | Jeff & Sarah Sparkman | Makovei Róbert}
+{comment:// Our God Is Here}
+{comment:// | Jeff & Sarah Sparkman | Makovei Róbert}
 {tag: Énekes füzet}

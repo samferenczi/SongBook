@@ -1,7 +1,6 @@
 {title:Szóljon az ének}
 {subtitle:Ancient of Days (Ron Kenoly)}
 {key:C}
-
 Szóljon az ének, áldás, dicséret, Néked Örökkévaló.
 Nemzetek népek, ifjak és vének imádjanak Mindenható!
 
@@ -27,4 +26,4 @@ S a nép, amelyet teremtettél magasztalja nagy Nevedet!
 {comment:#Szerző: Gary Sadler, Jamie Harvill}
 {comment:#Fordító: Németh S. Judit}
 {comment:#Capo: 3 (C->A)}
-/{artist: }
+{comment://}

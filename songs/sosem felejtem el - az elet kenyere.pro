@@ -1,7 +1,6 @@
 {title:Sosem felejtem el}
 {subtitle:Az élet kenyere}
 {key:C}
-
 {comment:<Intro>}
 [E] [E4] / [F#] [A2]
 [C#m7] [B] [A2] [(E)]
@@ -75,4 +74,4 @@ Hallelujah, sosem felejtem e
 
 [key]
 Capo: 4 (->G)
-/{artist: EredetiCím }
+{comment:// EredetiCím}

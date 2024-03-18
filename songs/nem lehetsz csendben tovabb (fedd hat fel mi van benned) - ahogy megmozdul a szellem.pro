@@ -1,7 +1,6 @@
 {title:Nem lehetsz csendben tovább (Fedd hát fel mi van benned)}
 {subtitle:Ahogy megmozdul a Szellem}
 {key:G}
-
 {comment:<Intro>}
 Zengjük [G]ó- [G/B] [C] [D] [Em] [C] [G]
 
@@ -32,4 +31,4 @@ Aki [G]eltévedt újra hazatalál, és a [C]foglyok nyernek szabadulást
 Ugye [D]látod már, hogy milyen csodás, ahogy [C/E]éled a vi[C]lág
 
 [G]
-/{artist: World Outside Your Window | Hillsong }
+{comment:// World Outside Your Window | Hillsong}

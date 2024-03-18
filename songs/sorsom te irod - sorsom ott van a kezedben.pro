@@ -1,7 +1,6 @@
 {title:Sorsom Te írod}
 {subtitle:Sorsom ott van a Kezedben}
 {key:C}
-
 {comment:<Verse 1>}
 Sorsom [Em]ott van a Kezedben, Ismersz, [G]látod az életem
 Igéddel [C]gyújtasz fé[G]nyt utamo[Em]n
@@ -32,6 +31,6 @@ Nincs más [C]út, Te vagy az [G]egyetlen neke[D]m!
 [G] Te vagy az Úr, én el nem hagylak Téged!
 
 [C]
-/{artist: My Future Decided }
-/{artist: | Joel Houston, Jonathon Douglass (Hillsong) | Hunyadi Tamás}
+{comment:// My Future Decided}
+{comment:// | Joel Houston, Jonathon Douglass (Hillsong) | Hunyadi Tamás}
 {tag: Énekes füzet}

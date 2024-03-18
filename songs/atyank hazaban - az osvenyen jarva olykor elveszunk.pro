@@ -1,7 +1,6 @@
 {title:Atyánk házában}
 {subtitle:Az ösvényen járva olykor elveszünk}
 {key:C}
-
 {comment:<Intro>}
 [A#m] [G#] [C#/F] [F#]
 
@@ -40,4 +39,4 @@ A [F#/C#]szeretet átha[C#]tol, mikor [F#6/C#]Atyánk átka[C#]rol
 
 [C#]
 Capo: 1 (->C)
-/{artist: The Father's House | Bethel }
+{comment:// The Father's House | Bethel}

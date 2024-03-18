@@ -1,7 +1,6 @@
 {title:Új szív}
 {subtitle:Új szívvel egészen máshogyan érez az ember}
 {key:C}
-
 {comment:<Verse>}
 [Am] Új szívvel egészen m[G]áshogyan érez
 Az [F]ember, és másként [E]látja a dolgokat
@@ -29,4 +28,4 @@ Lüktessen benned új élet! [Am] [Dm] [E] [Am]
 Ezékiel 36: 26 RÚF
 Új szívet adok nektek, és új lelket adok belétek:
 eltávolítom testetekből a kőszívet, és hússzívet adok nektek.
-/{artist: }
+{comment://}

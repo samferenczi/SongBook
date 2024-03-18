@@ -1,7 +1,6 @@
 {title:Állj fel és kiáltsd}
 {subtitle:Állj fel és kiáltsd}
 {key:D}
-
 {comment:<Verse 1>}
 [D]Állj fel és kiáltsd, hogy szereted az Urat
 [D]Állj fel és kiáltsd, hogy szereted [A]Őt
@@ -22,4 +21,4 @@ Hogy [D]szereted, [A]szereted [D]Őt
 
 [D]
 
-/{artist: }
+{comment://}

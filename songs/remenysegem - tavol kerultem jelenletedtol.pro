@@ -1,7 +1,6 @@
 {title:Reménységem}
 {subtitle:Távol kerültem jelenlétedtől}
 {key:D}
-
 {comment:<Intro>}
 [D] [G] [D] [G]
 
@@ -31,6 +30,6 @@ Az első lé[D]legzet már azt hir[A]dette: Az élet [G]győz a [A]halál fe[Bm]
 Az élet [G]győz a [A]halál fe[D]lett!
 
 [D]
-/{artist: Living Hope }
-/{artist: | Phil Wickham | Pintér Béla}
+{comment:// Living Hope}
+{comment:// | Phil Wickham | Pintér Béla}
 {tag: Énekes füzet}

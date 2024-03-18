@@ -1,7 +1,6 @@
 {title:Égjen a láng}
 {subtitle:Burn In Me}
 {key:G}
-
 [Em] [Em] [D][Cmaj7]
 Égjen a láng, égjen a láng
 [D][Hm7] [Em] (C D)
@@ -18,4 +17,4 @@ Lángoló szellem, eméssz meg engem.
 {comment:#Szerző: Paul Wilbur}
 {comment:#Fordító: Kerekes Ernő}
 [G]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Győztes}
 {subtitle:Mighty To Save}
 {key:G}
-
 {comment:<Verse 1>}
 [C] Kell, hogy végre [G]érezd, hogy mennyire szeret (az) [Em]Isten
 Ke[D]gyelme éltet
@@ -30,4 +29,4 @@ Csak [D]Érted élek [C] [D] [C] [D]
 {comment:#Hunyadi Tamás (Dics-Suli 2008)}
 [G]
 
-/{artist: }
+{comment://}

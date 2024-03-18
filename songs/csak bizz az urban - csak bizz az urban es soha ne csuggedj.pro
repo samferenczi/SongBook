@@ -1,7 +1,6 @@
 {title:Csak bízz az Úrban}
 {subtitle:Csak bízz az Úrban és soha ne csüggedj}
 {key:D}
-
 [D/F#] [G] [Em] [A]
 Csak bízz az Úrban és soha ne csüggedj
 [D/F#] [G] [Em] [A]
@@ -36,4 +35,4 @@ Amin Ő ne vinne át!
 
 {comment:#Szerző: Pintér Béla}
 [D]
-/{artist: }
+{comment://}

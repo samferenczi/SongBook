@@ -1,7 +1,6 @@
 {title:Karácsony éjjelén}
 {subtitle:Karácsony éjjelén}
 {key:Bb}
-
 {comment:<Intro>}
 
 {comment:<Verse>}
@@ -28,4 +27,4 @@ Gyere, hadd [F]tudja meg a jó hírt a vi[Bb]lág
 [Bb]
 Capo: 3 (->G)
 
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Erősségem nékem az Úr}
 {subtitle:Erősségem nékem az Úr}
 {key:D}
-
 {comment:<Verse>}
 [D] [C] [D] [C]
 Erősségem nékem az Úr
@@ -24,4 +23,4 @@ Vesztébe rohan a gonosz, és az igaz örül
 {comment:#Fordító:}
 {comment:#Capo: }
 [key]
-/{artist: }
+{comment://}

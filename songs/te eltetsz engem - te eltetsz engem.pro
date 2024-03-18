@@ -1,7 +1,6 @@
 {title:Te éltetsz engem}
 {subtitle:Te éltetsz engem}
 {key:G}
-
 {comment:<Verse 1>}
 [G2] Te éltetsz [C]engem,[G2] Te éltetsz [C]engem
 [G2] Szent [D/F#]Jelenl[Em]éted [(D/F#)] [C2]bens[Em]őmben [D]él
@@ -17,6 +16,6 @@ Oly [G]na-[D/F#]a-[Em]agy [(D/F#)] szükségem [C2]van R[G]ád [D/F#]
 {end_of_chorus}
 
 [G]
-/{artist: Breathe }
-/{artist: | Marie Barnett (Vineyard) | ?}
+{comment:// Breathe}
+#{comment:// | Marie Barnett (Vineyard) | ?}
 {tag: Énekes füzet}

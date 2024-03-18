@@ -1,7 +1,6 @@
 {title:Ott a Via Dolorosán}
 {subtitle:Via Dolorosa}
 {key:F}
-
 {comment:<Verse>}
 [Dm] [Am/C] [Bb] [A]
 [Dm] [Am/C] [Bb]
@@ -23,4 +22,4 @@
 {comment:#Fordító: Németh S. Judit}
 {comment:#Capo: }
 [F]
-/{artist: }
+{comment://}

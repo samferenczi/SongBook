@@ -1,7 +1,6 @@
 {title:Hófehér karácsony éj}
 {subtitle:Az utcán lámpák fénye ég}
 {key:D}
-
 {comment:<Intro>}
 
 {comment:<Verse 1>}
@@ -27,4 +26,4 @@ Az [G]utolsó busz is elment régen, cs[A]illagok gyúlnak a sötét éjben
 [D]
 Capo: 4 (->G)
 
-/{artist: }
+{comment://}

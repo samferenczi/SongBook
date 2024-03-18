@@ -1,7 +1,6 @@
 {title:Futok kitárt karodba}
 {subtitle:Kitárom szívem ajtaját}
 {key:G}
-
 {comment:<Verse 1>}
 Ki[G]tárom szívem ajtaját, [C]hallgasd meg imám
 [G]Tölts be Szent Szellemeddel, [C]szomjazom Terád
@@ -23,6 +22,6 @@ Most [G]újra térdét hajtok én, i[C]mám trónodhoz ér
 [G]Mennyei dicsőséged [C]áraszd le közénk
 
 [G]
-/{artist: This Love }
-/{artist: | Mike Motley | Szentesiné Mészáros Andrea}
+{comment:// This Love}
+{comment:// | Mike Motley | Szentesiné Mészáros Andrea}
 {tag: Énekes füzet}

@@ -1,7 +1,6 @@
 {title:Legnagyobb ajándék}
 {subtitle:Greatest Gift}
 {key:C}
-
 {comment:<Intro>}
 [C5] [C5b] [C4] [C4]
 
@@ -35,4 +34,4 @@ A legnagyobb ajándé[F]k
 {comment:#Matt Redman, Peter Wilson (Hillsong London)}
 {comment:#Martini Edit (Dics-Suli 2009)}
 [C]
-/{artist: }
+{comment://}

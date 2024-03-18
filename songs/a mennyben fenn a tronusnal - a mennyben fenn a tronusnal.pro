@@ -1,7 +1,6 @@
 {title:A Mennyben fenn a trónusnál}
 {subtitle:A Mennyben fenn a trónusnál}
 {key:D}
-
 {comment:<Verse 1>}
 A Mennyben [D]fenn, a [G]trónus[D]nál a Krisztus [D]értem [Bm]közben[F#m]jár
 Nagy főpap,[G] ég[D]i k[A]eze[Bm]sem, örökre [G]biztos vé[A]del[D]mem
@@ -25,4 +24,4 @@ Ott fenn az [G]Isten trón[A]ján[D]ál
 
 [D]
 Capo: 2 (->C)
-/{artist: Before The Throne Of God Above }
+{comment:// Before The Throne Of God Above}

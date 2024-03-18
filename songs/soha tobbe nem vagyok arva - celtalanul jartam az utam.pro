@@ -1,7 +1,6 @@
 {title:Soha többé nem vagyok árva}
 {subtitle:Céltalanul jártam az utam}
 {key:F}
-
 {comment:<Intro>}
 [F] [Bb] [F] [Bb]
 
@@ -33,4 +32,4 @@
 
 [F]
 /{/comment:Capo: }
-/{artist: Mi Bendición | Fabricio Alvarando | Lajhó Ruben }
+{comment:// Mi Bendición | Fabricio Alvarando | Lajhó Ruben}

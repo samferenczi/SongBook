@@ -1,7 +1,6 @@
 {title:Minden nap}
 {subtitle:Everyday}
 {key:B}
-
 {comment:<Verse 1>}
 [E]Mit is [B]mondhatnék?[G#m] Te vagy, ki [F#]megváltottál
 [E]Drága [B]véreddel[G#m] hófeh[F#]érre mostál
@@ -26,7 +25,6 @@
 [B]Érted é[E]lek mi[G#m]nden na[F#]p
 [B]Érted é[E]lek mi[G#m]nden na[F#]p, Uram!
 
-{comment:Joel Houston (Hillsong)}
-{comment:Pintér Béla}
 [B]
-/{artist: }
+#{comment:Joel Houston (Hillsong)}{comment:Pintér Béla}
+{comment://}

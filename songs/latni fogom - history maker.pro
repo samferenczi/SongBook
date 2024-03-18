@@ -1,7 +1,6 @@
 {title:Látni fogom}
 {subtitle:History Maker}
 {key:C}
-
 {comment:<Intro>}
 [Am4] [Am] [Fmaj76/A] [Fmaj7/A]
 
@@ -36,4 +35,4 @@ A Tiéd va[C]gyok![G/B] [Am] [F]
 {comment:#Martin Smith (Delirious?)}
 {comment:#Bagyinszky Judit}
 [C]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Ki vagy Te}
 {subtitle:Who Is This}
 {key:D}
-
 {comment:Verse}
 
 K[D]i vagy T[D/C#]e? Hajnalfé[Bm]ny lángol[A]ó
@@ -38,4 +37,4 @@ Vonj magadhoz még, vonj magadhoz még
 {comment:#Capo: 2 (D->C)}
 [D]
 
-/{artist: }
+{comment://}

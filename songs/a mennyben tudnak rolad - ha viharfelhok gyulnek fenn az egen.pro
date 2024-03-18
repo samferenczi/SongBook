@@ -1,7 +1,6 @@
 {title:A Mennyben tudnak rólad}
 {subtitle:Ha viharfelhők gyűlnek fenn az égen}
 {key:A}
-
 {comment:<Intro>}
 [A] [D] [F#m] [E]
 
@@ -27,4 +26,4 @@ A [A]felhők fölött világít a [D]napfény, a [F#m]gondok között meg kell l
 
 [A]
 Capo: 2 (->G)
-/{artist: Pintér Béla }
+{comment:// Pintér Béla}

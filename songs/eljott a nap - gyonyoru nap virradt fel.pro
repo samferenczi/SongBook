@@ -1,7 +1,6 @@
 {title:Eljött a nap}
 {subtitle:Gyönyörű nap virradt fel}
 {key:C}
-
 {comment:<Intro>}
 [C] [F] [Am] [G]
 
@@ -35,4 +34,4 @@ Sem[G]mi nem kárhoz[C/E]tat [F] [Am] [G]
 [C]
 Capo: 5 (->G)
 
-/{artist: }
+{comment://}

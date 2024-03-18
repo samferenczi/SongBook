@@ -1,7 +1,6 @@
 {title:Jó barátom a Nap}
 {subtitle:Jó barátom a Nap}
 {key:E}
-
 {comment:<Verse 1>}
 [E]Jó barátom a [B]Nap, [E]világít nekem [B]minden[A]nap
 És [E]arról mesél, hogy [B]valaki [A]szeret [E]engem [B] [A]
@@ -18,4 +17,4 @@
 
 [E]
 
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Ha szól szava}
 {subtitle:}
 {key:B}
-
  Ha szól szól
 Ben Fields - Oceans will part (ford.: Horváth Balázs)
 
@@ -41,4 +40,4 @@ Nyári Dicsőítő
 Iskola 2013. Belső
 használatra!
 
-/{artist: }
+{comment://}

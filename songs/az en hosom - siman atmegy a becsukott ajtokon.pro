@@ -1,7 +1,6 @@
 {title:Az én hősöm}
 {subtitle:Simán átmegy a becsukott ajtókon}
 {key:E}
-
 {comment:<Verse 1>}
 [E] Simán átmegy a [A]becsukott [B]ajtó[E]kon, [E] és ha akar, a [A]tengeren [B]jár
 [F#m]Nem jelent számára [B]akadályt semmi, ha [A]kell, hát a [B]szeleken [E]jár
@@ -20,6 +19,6 @@ Hanem az [A]Ég és Föld Ki[C#m]rálya, igen, [B4]Ő a szívem [B]Sztárja!
 Igen, [B4]Ő a szívem [E]Sztárja!
 
 [E]
-/{artist: Pintér Béla }
+{comment:// Pintér Béla}
 {tag: Gyerekdal}
 {tag: Énekes füzet}

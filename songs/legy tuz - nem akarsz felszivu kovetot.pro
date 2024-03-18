@@ -1,7 +1,6 @@
 {title:Légy tűz}
 {subtitle:Nem akarsz félszívű követőt}
 {key:E}
-
 {comment:<Interlude>}
 [C#m] Nem akarsz félszív[A]ű követőt, [E] lényem ti[F#m]éd
 
@@ -26,6 +25,6 @@ Jöjj [C#m]légy karomra [A]tett örök pe[E]csét, [F#m]pecsét a szívemen
 
 [E]
 Capo: 4 (->C)
-/{artist: You Won't Relent | Jesus Culture }
+{comment:// You Won't Relent | Jesus Culture}
 # Misty Edwards (Jesus Culture)
 # Kerekes Ernő & KREDIT (Dics-Suli 2010)

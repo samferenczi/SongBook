@@ -1,7 +1,6 @@
 {title:Minden lehetséges}
 {subtitle:All Things Are Possible}
 {key:C}
-
 Int, Vers1, Int, Vers1, Vers2, Int, Vers1, Vers2, Chor, Vers2, Chor
 
 {comment:<Intro>}
@@ -33,4 +32,4 @@ Mert [Bm7]Nevedben [A]bízom é[G]n
 {comment:#Key:}
 [C]
 
-/{artist: }
+{comment://}

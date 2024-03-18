@@ -1,7 +1,6 @@
 {title:Ö már legyözte & Én eldöntöttem}
 {subtitle:A sátánt legyözték & Nem test és vér ellen harcolunk}
 {key:G}
-
 {comment:*** Ö már legyözte ***}
 
 {comment:<Verse 1>}
@@ -54,4 +53,4 @@ Hanem [Em]levegő égbeli [C]démoni [D]erőkk[Em]el
 
 [G]
 
-/{artist: }
+{comment://}

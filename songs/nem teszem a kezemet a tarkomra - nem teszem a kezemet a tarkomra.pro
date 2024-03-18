@@ -1,7 +1,6 @@
 {title:Nem teszem a kezemet a tarkómra}
 {subtitle:Nem teszem a kezemet a tarkómra}
 {key:E}
-
 {comment:<Chorus>}
 {start_of_chorus}
 [E]Nem teszem a kezemet a [A]tarkómra, jöhet [E]akármilyen [B]nagy próba
@@ -15,4 +14,4 @@ A [E]kapitány Jézus én [B]Rá figyelek, [B]minden nap új [E]csatát nyerek!
 [E]Igéje a fegyver, a [B]hitem a pajzs, [B]így aratok majd [E]nagy diadalt!
 
 [E]
-/{artist: Pintér Béla }
+{comment:// Pintér Béla}

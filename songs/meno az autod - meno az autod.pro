@@ -1,7 +1,6 @@
 {title:Menő az autód}
 {subtitle:Menő az autód}
-{key:}
-
+{key:C}
 [C]Menő az autód egy [F]600-as shell,
  [G]fedélzeti komputer meg [C]minden ami kell.
 Hidromasszás a [F]fürdőkádad,
@@ -35,4 +34,4 @@ angol font vagy bolgár leva.
 J[F]ézus drága v[C]ére a l[G]egnagyobb érték[C],
 n[F]e hasonlíts hoz[C]zá s[G]emmilyen pénzérmét
 
-/{artist: }
+{comment://}

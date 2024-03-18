@@ -87,14 +87,22 @@ def preprocess_pro(path_dir, filename):
     text_pro_out = text_pro_out.replace(text_subtitle, "")
     text_key = get_tag("key", text_pro_out, filename)
     text_pro_out = text_pro_out.replace(text_key, "")
-    text_pro_out = f"{text_title}\n{text_subtitle}\n{text_key}\n\n{text_pro_out}"
 
-    text_artist = get_tag("artist", text_pro_out, filename)
+    while "\n" == text_pro_out[0]:
+        text_pro_out = text_pro_out[1:]
+
+    text_title = text_title.replace(",", "")
+    text_title = text_title.replace("'", "")
+    text_subtitle = text_subtitle.replace(",", "")
+    text_subtitle = text_subtitle.replace("'", "")
+    text_pro_out = f"{text_title}\n{text_subtitle}\n{text_key}\n{text_pro_out}"
+
+    # text_artist = get_tag("artist", text_pro_out, filename)
     # text_artist_new = text_artist.replace('(', '| ')
     # text_artist_new = text_artist_new.replace(')', '')
     # text_pro_out = text_pro_out.replace(text_artist, text_artist_new)
-    if "{artist:" not in text_pro_out:
-        text_pro_out = f"{text_pro_out}\n/{text_artist}"
+    # if "{artist:" not in text_pro_out:
+    #     text_pro_out = f"{text_pro_out}\n/{text_artist}"
 
     # while "}\n\n" in text_pro_out:
     #    text_pro_out = text_pro_out.replace("}\n\n", "}\n")
@@ -116,17 +124,19 @@ def preprocess_pro(path_dir, filename):
     text_pro_out = text_pro_out.replace("Capo:", "Capo: ")
     text_pro_out = text_pro_out.replace("artist:", "artist: ")
 
-    if "/{artist:" in text_pro_out:
-        index_artist_closer = text_pro_out.index("}", text_pro_out.index("{artist:"))
-        text_pro_out = (
-            text_pro_out[:index_artist_closer]
-            + " "
-            + text_pro_out[index_artist_closer:]
-        )
-    else:
-        loginfo(f"INFO_6 The artist is missing in {filename}")
-    if 1 < text_pro_out.count("/{artist:"):
-        loginfo(f"INFO_7 The artist is multiplified in {filename}")
+    # if "/{artist:" in text_pro_out:
+    #     index_artist_closer = text_pro_out.index("}", text_pro_out.index("{artist:"))
+    #     text_pro_out = (
+    #         text_pro_out[:index_artist_closer]
+    #         + " "
+    #         + text_pro_out[index_artist_closer:]
+    #     )
+    # else:
+    #     loginfo(f"INFO_6 The artist is missing in {filename}")
+    # if 1 < text_pro_out.count("/{artist:"):
+    #     loginfo(f"INFO_7 The artist is multiplified in {filename}")
+    if "{comment://" not in text_pro_out:
+        text_pro_out = text_pro_out + "\n{comment://}"
 
     while "  " in text_pro_out:
         text_pro_out = text_pro_out.replace("  ", " ")

@@ -1,7 +1,6 @@
 {title:Ő a minden}
 {subtitle:Nincs más cél és nincs más út}
 {key:F}
-
 {comment:<Verse>}
 [Dm]Nincs más cél és ni[Bb]ncs más út, [F/A]nincs más kéz mi é[C]rtünk nyúlt
 Ha [Dm]szomjas vagy, ni[Bb]ncs más kút, [F/A]Jézus az egyet[C]len!
@@ -20,5 +19,5 @@ Beszéde [Dm]élet, szereteté[Bb]ben én is [F]elmerülhete[C]k
 
 [F]
 Capo: 5 (->C)
-/{artist: Pintér Béla | Dics-Suli 2014 }
+{comment:// Pintér Béla | Dics-Suli 2014}
 {tag: Énekes füzet}

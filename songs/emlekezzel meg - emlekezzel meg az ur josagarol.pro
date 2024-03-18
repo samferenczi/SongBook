@@ -1,7 +1,6 @@
 {title:Emlékezzél meg}
 {subtitle:Emlékezzél meg az Úr jóságáról}
 {key:D}
-
 {comment:<Verse 1>}
 [D]Emlékezzél meg az Úr jósá[G6]gá[G]ról
 [D]Emlékezzél meg oltam[F#m]áról
@@ -18,4 +17,4 @@ Oly' [Em7]messze veti el tőlünk bűne[D/A]in[A]ket
 
 [D]
 
-/{artist: }
+{comment://}

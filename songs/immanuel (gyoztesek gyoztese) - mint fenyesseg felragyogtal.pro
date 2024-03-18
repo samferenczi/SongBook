@@ -1,7 +1,6 @@
 {title:Immánuel (Győztesek győztese)}
 {subtitle:Mint fényesség felragyogtál}
 {key:F}
-
 {comment:<Intro>}
 [Bb] [F] [C] [Dm] [(Gm7)]
 
@@ -33,5 +32,5 @@ Immánu[Dm]el, [Bb] Immánu[F]el [C]
 [F] [E] [D] [C] [A] [G]
 
 [F]
-Capo: 5 (->C)
-/{artist: Emmanuel | Champion Of The World }
+Capo: 5 (F->C)
+{comment:// Emmanuel | Champion Of The World}

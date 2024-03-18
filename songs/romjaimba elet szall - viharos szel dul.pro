@@ -1,7 +1,6 @@
 {title:Romjaimba élet száll}
 {subtitle:Viharos szél dúl}
 {key:E}
-
 {comment:<Verse 1>}
 Viha[E]ros szél dúl, ez a Föld széth[B]ull de vel[C#m7]em vagy
 A vi[E]lág elmúlik, de kegyelmed[B]en lelkem sz[C#m7]árnyal
@@ -26,4 +25,4 @@ Elhagy a [E]bátorság, de erőt Bel[B]őled mer[C#m7]ítek
 
 [E]
 Capo: 4 (->C)
-/{artist: Glorious Ruins (Hillsong) }
+{comment:// Glorious Ruins (Hillsong)}

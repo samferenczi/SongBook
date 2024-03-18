@@ -1,7 +1,6 @@
 {title:Kegyelme átölel}
 {subtitle:Ki törte össze a bűn hatalmát}
 {key:A}
-
 {comment:<Intro>}
 [A] [D]
 
@@ -31,6 +30,6 @@ Letette élet[A]ét, hogy én szabad legy[D]ek
 
 [A]
 Capo: 2 (->G)
-/{artist: This Is Amazing Grace }
+{comment:// This Is Amazing Grace}
 # Phil Wickham
 {tag: Énekes füzet}

@@ -1,7 +1,6 @@
 {title:Nem tart fogva semmi már}
 {subtitle:Mikor körbefog gyönyörü dalod}
 {key:C#}
-
 {comment:<Verse 1>}
 Mikor körbef[C#]og gyönyörű dalod, bennem [F#]minden [G#]helyre[C#]áll
 Ha jön Szellem[C#]ed, bátorrá leszek, s a [F#]félelm[G#]em el[C#]száll
@@ -32,6 +31,6 @@ A világ hajna[C#]lán kiválasztottál, [F#]elhívt[G#]ál en[C#]gem
 
 [C#]
 Capo 1 (->C)
-/{artist: No Longer Slaves }
-/{artist: Jonathan David & Melissa Helser (Bethel)}
-/{artist: Orvos Nagy Borka, Horváth Balázs (Dics-Suli 2015)}
+{comment:// No Longer Slaves}
+{comment:// Jonathan David & Melissa Helser (Bethel)}
+{comment:// Orvos Nagy Borka, Horváth Balázs (Dics-Suli 2015)}

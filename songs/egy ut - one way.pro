@@ -1,7 +1,6 @@
 {title:Egy út}
 {subtitle:One Way}
 {key:B}
-
 {comment:<Verse 1>}
 [B] Leteszem az életem
 [G#m] Te legyél az egyetlen
@@ -34,4 +33,4 @@ Csak [F#m]érted élek én![E]
 {comment:#Jonathan Douglass, Joel Houston (Hillsong)}
 {comment:#Hegedűs Róbert (Dics-Suli 2006)}
 [B]
-/{artist: }
+{comment://}

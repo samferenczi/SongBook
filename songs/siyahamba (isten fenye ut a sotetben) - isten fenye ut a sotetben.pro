@@ -1,7 +1,6 @@
 {title:Siyahamba (Isten fénye út a sötétben)}
 {subtitle:Isten fénye út a sötétben}
 {key:C}
-
 {comment:<Zuluul>}
 Siya[G]hamb' ekukhanyen' kwenkhos', siya[D]hamb' ekukhanyen' kwenk[G]hos' /x2
 |
@@ -22,4 +21,4 @@ Isten [G]lelke az ki erőt ad, Isten [D]lelke az ki erőt [G]ad /2x
 Iste[G]nünknek nagy a hatalma, Iste[D]nünknek nagy a hatal[G]ma[G] /2x
 
 [G]
-/{artist: Siyahamba }
+{comment:// Siyahamba}

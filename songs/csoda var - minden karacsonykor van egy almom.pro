@@ -1,7 +1,6 @@
 {title:Csoda vár}
 {subtitle:Minden karácsonykor van egy álmom}
 {key:D}
-
 {comment:<Verse 1>}
 [D]Minden karácsonykor van egy [A]álmom
 Hogy [Bm7]egyszer békesség lesz a vi[F#m7]lágon
@@ -25,4 +24,4 @@ Csoda [A]vár karácsony éjjelén[D]
 
 {comment:#Pintér Béla}
 [D]
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Minden tettemben légy vezérem}
 {subtitle:Minden tettemben légy vezérem}
 {key:G}
-
 {comment:<Verse>}
 [G]Minden tettem[C]ben légy vezér[D]em, Te vagy az [C]élet Jézus
 [G]Benned élek, [C]Benned lélegz[D]em [C]
@@ -18,6 +17,6 @@
 [G]Miért tör[Am]ődsz vel[Bm7]em, nem[C] [D]érthetem!
 
 [G]
-/{artist: Every Move I Make }
-/{artist: | David Ruis (Vineyard) | ?}
+{comment:// Every Move I Make}
+{comment:// | David Ruis (Vineyard) | ?}
 {tag: Énekes füzet}

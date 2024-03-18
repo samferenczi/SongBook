@@ -1,7 +1,6 @@
 {title:Öröktől ismered}
 {subtitle:Öröktől ismered a szívem vágyát}
 {key:C}
-
 {comment:<Verse 1>}
 [C] Öröktöl ismered a szívem vágyát, [F] jól látsz Te mindent, mit ember nem lát
 [C] Ki sem kell mondjam, tudod, mit kérek, [F] hűséged az, ami [G]engem élte[C]t
@@ -27,4 +26,4 @@
 
 [C]
 Capo: 5 (->G)
-/{artist: Szabó Balázs | Dics-Suli 2009 }
+{comment:// Szabó Balázs | Dics-Suli 2009}

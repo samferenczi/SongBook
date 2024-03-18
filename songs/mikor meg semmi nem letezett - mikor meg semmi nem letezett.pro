@@ -1,7 +1,6 @@
 {title:Mikor még semmi nem létezett}
 {subtitle:Mikor még semmi nem létezett}
 {key:G}
-
 {comment:<Verse>}
 [G] Mikor még [C]semmi [D] nem léte[G]zett
 [G] Nemzetek, [C]népek, ki[D]rályok és böl[G]csek
@@ -22,4 +21,4 @@ Te [Am7]akkor már [Am7/G]szerettél en[D/F#]gem!
 {end_of_chorus}
 
 [G]
-/{artist: Above All | Paul Baloche }
+{comment:// Above All | Paul Baloche}

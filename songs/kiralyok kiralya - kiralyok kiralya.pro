@@ -1,7 +1,6 @@
 {title:Királyok királya}
 {subtitle:Királyok királya}
 {key:G}
-
 {comment:<Intro>}
 [Em] [G7] [CM] [B75#]
 
@@ -22,4 +21,4 @@
 {comment:#Szerző: Durkó Teofil}
 {comment:#Capo: 7 (C->C)}
 [G]
-/{artist: }
+{comment://}

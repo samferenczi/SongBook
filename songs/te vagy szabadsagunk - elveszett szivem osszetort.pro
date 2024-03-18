@@ -1,7 +1,6 @@
 {title:Te vagy szabadságunk}
 {subtitle:Elveszett szívem összetört}
 {key:B}
-
 {comment:<Intro>}
 [G#m] [B/D#] [E] [E] [G#m] [F#]
 
@@ -29,6 +28,6 @@ Egyszer [G#m]eltűnik [B/D#]a vil[E]ág, de tudom, [E]majd minden [G#m]szem megl
 Azért [G#m]élek, hogy [B/D#]hirdess[E]em Király[E]ságodat [G#m]szüntelen [F#]
 
 [B]
-/{artist: Alive }
-/{artist: Darlene Zschech, Israel Houghton, Kari Jobe}
-/{artist: ?}
+{comment:// Alive}
+{comment:// Darlene Zschech, Israel Houghton, Kari Jobe}
+{comment:// ?}

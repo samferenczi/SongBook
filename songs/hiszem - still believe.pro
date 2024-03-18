@@ -1,7 +1,6 @@
 {title:Hiszem}
 {subtitle:Still Believe}
 {key:G}
-
 {comment:<Intro>}
 [Am7] [C] [G] [D/F#]
 
@@ -32,4 +31,4 @@ A bűn [G]törvénye helyett szabadsá[A]g
 {comment:#Szerző: Kim Walker (Jesus Culture)}
 {comment:#Fordító: Lovas Judit (Dics-Suli 2012)}
 [G]
-/{artist: }
+{comment://}

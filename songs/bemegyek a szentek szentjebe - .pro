@@ -1,7 +1,6 @@
 {title:Bemegyek a Szentek Szentjébe}
 {subtitle:}
-{key:}
-
+{key:G}
 [Em] Bemegyek a Szentek Szentj[D]ébe
 [Am] Bemegyek a [D]Bárány vérén á[Em]t
 [Em] Bemegyek csak Téged dic[D]sérlek
@@ -12,4 +11,4 @@
 [C] Neved áldom [D]Szent vagy, S[Em]zent vagy Uram
 [C] Neved áldom [D]Szent vagy, S[Em]zent vagy Uram
 
-/{artist: }
+{comment://}

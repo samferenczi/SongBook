@@ -1,7 +1,6 @@
 {title:Nincsen más}
 {subtitle:Minden álmom és vele együtt a hitet adó remény}
 {key:C}
-
 {comment:<Verse>}
 [C] Minden álmom és vele együtt a hitet adó remény
 [Am] És minden amit az életben egy lapra tettem fel én
@@ -21,5 +20,5 @@ Nincsen [C]más!
 
 [C]
 Capo: 5 (->G)
-/{artist: Pintér Béla | Dics-Suli 2011 }
+{comment:// Pintér Béla | Dics-Suli 2011}
 {tag: Énekes füzet}

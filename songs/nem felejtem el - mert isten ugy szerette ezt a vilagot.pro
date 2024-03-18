@@ -1,7 +1,6 @@
 {title:Nem felejtem el}
 {subtitle:Mert Isten úgy szerette ezt a világot}
 {key:G}
-
 {comment:<Intro>}
 [G] [Em7] [D4] [C9] [Am] [Em] [D4] [D]
 
@@ -31,4 +30,4 @@ A kegyel[Am]med, az irgal[Em7]mad, Iste[D4]nem! [D]
 {comment:#Dobner Illés (Dics-Suli 2009)}
 [G]
 
-/{artist: }
+{comment://}

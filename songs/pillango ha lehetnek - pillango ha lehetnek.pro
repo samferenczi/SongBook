@@ -1,7 +1,6 @@
 {title:Pillangó ha lehetnék}
 {subtitle:Pillangó ha lehetnék}
-{key:}
-
+{key:C}
 {comment:<Verse 1>}
 [C]Pillangó ha lehetnék, [F]táncolnék, míg röpít a szél
 És ha [C]én lennék a cinege a fán, [G]dallal Istent dicsérném
@@ -34,4 +33,4 @@ vagy BAgolyként a fa tetején | PIros bicikliket dobálnék
 De gyermeked lettem, köszönöm, Istenem én
 
 [C]
-/{artist: If I Were A Butterfly }
+{comment:// If I Were A Butterfly}

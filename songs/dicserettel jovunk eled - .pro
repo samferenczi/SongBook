@@ -1,7 +1,6 @@
 {title:Dicsérettel jövünk eléd}
 {subtitle:}
-{key:}
-
+{key:A}
 [A] [A2] [E] [Esus4] [A] [A2] [G]
 Dicsérettel jövünk eléd, teljes lényünk legyen tiéd
 [F#m] [E] [Asus4] [A2] [A] [A2]
@@ -16,4 +15,4 @@ Vágyódunk érintésedre
 Vágyódunk dicsőségedbe
 Vágyódunk Isten kertjébe
 
-/{artist: }
+{comment://}

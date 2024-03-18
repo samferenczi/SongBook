@@ -1,7 +1,6 @@
 {title:Induljon a nép}
 {subtitle:Szabadon zengjen hangod}
 {key:C}
-
 {comment:<Intro>}
 [Am] [F] [C] [G]
 
@@ -32,5 +31,5 @@
 [Am] Kiáltsuk szent nevét,[F] zengje a mindenség, [C] Remegjen bele az [G]ég!
 
 [C]
-/{artist: Let My People Go }
+{comment:// Let My People Go}
 # Matt Redman | Orszáczky Tamás

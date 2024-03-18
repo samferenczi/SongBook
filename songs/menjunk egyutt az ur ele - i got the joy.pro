@@ -1,7 +1,6 @@
 {title:Menjünk együtt az Úr elé}
 {subtitle:I Got The Joy}
 {key:D}
-
 [D7/9#]
 Menjünk együtt az Úr elé
 Magasztaljuk az Ő nevét
@@ -31,4 +30,4 @@ Senki sem lehet ellenem
 {comment:#Szerző: Carman}
 {comment:#Fordító: György Ákos}
 [D]
-/{artist: }
+{comment://}

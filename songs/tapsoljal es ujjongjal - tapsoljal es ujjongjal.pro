@@ -1,7 +1,6 @@
 {title:Tapsoljál és ujjongjál}
 {subtitle:Tapsoljál és ujjongjál}
 {key:G}
-
 [Em]Tapsoljál és ujjongjál! [G]Hu! [D]Király a mi [Em]Istenünk
 [Em]Tapsoljál és ujjongjál! [G]Hu! [D]Király a mi [Em]Istenünk
 Ő [C]trónol és [D]uralko[Em]dik, Ő [C]trónol és [D]uralko[Em]dik
@@ -11,4 +10,4 @@
 
 [G]
 
-/{artist: }
+{comment://}

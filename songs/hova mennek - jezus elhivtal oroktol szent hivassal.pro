@@ -1,7 +1,6 @@
 {title:Hova mennék}
 {subtitle:Jézus elhívtál öröktől szent hívással}
 {key:D}
-
 {comment:<Verse1>}
 [D] [Em] [D/F#] [G] [Em] [D/A] [A]
 Jézus elhívtál öröktől szent hívással
@@ -30,4 +29,4 @@ Jé - é - zus, Jé - é - zus,
 Jé - é - zus, Jé - é - zus
 
 [D]
-/{artist: Ararat Worship }
+{comment:// Ararat Worship}

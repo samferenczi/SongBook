@@ -1,7 +1,6 @@
 {title:Isten jó}
 {subtitle:Minden nép Hozzád kiált}
 {key:B}
-
 {comment:<Intro>}
 [B] [E] [F#] [E]
 
@@ -32,6 +31,6 @@ Az [G#m7]Úr tö[F#]kéle[E]tes! [G#m7] [F#]
 
 [B]
 Capo: 2 (->G)
-/{artist: God Is Great }
-/{artist: | Marty Sampson (Hillsong) | Pintér Béla}
+{comment:// God Is Great (Hillsong)}
+{comment:// | Marty Sampson (Hillsong) | Pintér Béla}
 {tag: Énekes füzet}

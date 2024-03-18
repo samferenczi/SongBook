@@ -1,7 +1,6 @@
 {title:Karjaid közt}
 {subtitle:Boldly I Approach}
 {key:Bb}
-
 {comment:<Verse 1>}
 [Gm] Hogy bízhat[F4]tál rám oly kin[EbM7]cset, [Bb/D] mit angyalo[Gm]k sem kapnak [F]meg?
 [Gm] Féltőn hív[F4]tál, itt állok [EbM7]hát, [Bb/D] Isten kirá[Gm]lyi trónjá[F]nál
@@ -34,4 +33,4 @@ Szálljon fel [Eb]hála [Bb]és imá[F]dat, szívünkből [Eb]elmos [Bb]minden v
 {comment:#Fordító: Hunyadi Tamás}
 {comment:#Capo: 3 (Bb->G)}
 [Bb]
-/{artist: }
+{comment://}

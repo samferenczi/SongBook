@@ -1,7 +1,6 @@
 {title:Trónodnál}
 {subtitle:Te vagy a királyom}
 {key:A}
-
 {comment:<Intro>}
 [A] [D] [(Bm)] [(E4)] [(E)]
 
@@ -30,4 +29,4 @@ Most én megyek hoz[A]zád, és én ölellek [F#m]át
 {comment:#Capo: 2 (A->G)}
 [A]
 
-/{artist: }
+{comment://}

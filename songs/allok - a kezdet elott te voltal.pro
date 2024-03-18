@@ -1,7 +1,6 @@
 {title:Állok}
 {subtitle:A kezdet előtt Te voltál}
 {key:G}
-
 {comment:<Verse 1>}
 A [G]kezdet előtt Te voltál, az [C]örök idő Benned áll
 [G/B]Mozdult a Föld, mert Te sz[Em]óltál, s a lelkem kí[C]ván
@@ -33,6 +32,6 @@ Hisz' csak ez a sz[C]ívem van, [D] legyen hát Ti[Em]éd [(C)]
 Halle[G]luja, halle[C2]luja, halle[Em]luja, [D] Ő az [G]Úr
 
 [G]
-/{artist: The Stand }
-/{artist: | Joel Houston (Hillsong) | Zentai László}
+{comment:// The Stand}
+{comment:// | Joel Houston (Hillsong) | Zentai László}
 {tag: Énekes füzet}

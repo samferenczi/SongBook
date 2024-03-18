@@ -1,7 +1,6 @@
 {title:Országod építsd fel}
 {subtitle:Uralmad jöjjön el}
 {key:C}
-
 {comment:<Verse 1>}
 U[F]ralmad jöjjön [C]el a [F]szívünk mélyé[C]ben
 E[F]zért imádkoz[C]unk, fedd [G]fel miért vagyunk
@@ -36,6 +35,6 @@ A [F]né[C]ped va[G]gyunk, [F]új re[C]ményt a[G]dunk a Föld[C]nek
 [C] [Am] [C] [Am] [C] [F] [Am] [C]
 
 [C]
-/{artist: Build Your Kingdom Here }
-/{artist: | Rend Collective | Folk Iván}
+{comment:// Build Your Kingdom Here}
+{comment:// | Rend Collective | Folk Iván}
 {tag: Énekes füzet}

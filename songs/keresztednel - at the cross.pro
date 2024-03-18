@@ -1,7 +1,6 @@
 {title:Keresztednél}
 {subtitle:At The Cross}
-{key:}
-
+{key:E}
 Intro:
 [A] [E/G#] [A] [B] [A] [E/G#] [A] [B]
 
@@ -43,4 +42,4 @@ Verse 4:
 [E/G#] [A] [B] [C#m] [A] [E/B] [B]
 Ott állsz előttem, mert úgy szerettél, mindig szerettél.
 
-/{artist: }
+{comment://}

@@ -1,7 +1,6 @@
 {title:Eljöttünk}
 {subtitle:Eljöttünk imádni Téged}
 {key:C}
-
 {comment:<Chorus>}
 {start_of_chorus}
 [F]Eljöt[C]tünk imádni [G]Téged, [F]eljöt[C]tünk dicsérni [G]Téged!
@@ -18,4 +17,4 @@ Lelkem [F]áldd az Urat, és e[C]gész valóm Őt di[G]csérjed!
 
 [C]
 /{/comment:Capo: 3 (->G)}
-/{artist: We Have Come | Will Reagan | United Pursuit | Ferenczi Sámuel }
+{comment:// We Have Come | Will Reagan | United Pursuit | Ferenczi Sámuel}

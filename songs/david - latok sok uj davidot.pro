@@ -1,7 +1,6 @@
 {title:Dávid}
 {subtitle:Látok sok új Dávidot}
 {key:F}
-
 {comment:<Chorus>}
 {start_of_chorus}
 [Dm]Látok sok új [F]Dávidot, akik [Gm]egy akarattal [A]mennek a cél felé
@@ -33,4 +32,4 @@ Csak légy bátor és add át neki a szíved
 {comment:#Szerző: Pintér Béla}
 [F]
 
-/{artist: }
+{comment://}

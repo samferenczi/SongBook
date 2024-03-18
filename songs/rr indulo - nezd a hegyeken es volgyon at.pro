@@ -1,7 +1,6 @@
 {title:RR induló}
 {subtitle:Nézd a hegyeken és völgyön át}
 {key:D}
-
 {comment:<Intro>}
 [D] [A] [D]
 [G] [A] [D]
@@ -21,4 +20,4 @@ Hogy [D]Istent, gyüleke[A]ze[D]tet
 {comment:#Key:}
 [D]
 
-/{artist: }
+{comment://}

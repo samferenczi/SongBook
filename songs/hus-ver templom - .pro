@@ -1,7 +1,6 @@
 {title:Hús-vér templom}
 {subtitle:}
 {key:C}
-
 {comment:<Verse 1>}
 Nekem [Bm]nincs más [Em7]Rajtad [A]kívûl, [D]Jézus
 [Bm] Élet[Em7]em for[A]rása [D]vagy
@@ -28,4 +27,4 @@ Nekem [Dm]nincs más [Gm7]Rajtad [C]kívûl, [F]Jézus
 
 {comment:#Pintér Béla}
 [C]
-/{artist: }
+{comment://}

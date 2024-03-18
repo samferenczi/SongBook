@@ -1,7 +1,6 @@
 {title:Te harcolsz mellettem}
 {subtitle:Ha nem látok túl a harcon}
 {key:A}
-
 {comment:<Intro>}
 [A] [A] [A] [A4]
 
@@ -32,6 +31,6 @@ Te fény vagy az [A]éjben, a harcokban gy[E]őztes, semmi sem [F#m]állíthat m
 
 [A]
 Capo: 2 (->G)
-/{artist: Battle Belongs }
+{comment:// Battle Belongs}
 # Phil Wickham, Brian Johnson | PZM
 {tag: Énekes füzet}

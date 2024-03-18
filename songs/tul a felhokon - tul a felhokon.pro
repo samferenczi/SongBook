@@ -1,7 +1,6 @@
 {title:Túl a felhőkön}
 {subtitle:Túl a felhőkön}
 {key:A}
-
 {comment:<Verse 1>}
 [A] Túl a felhőkön,[F#m] a csillagerdőkön, [D] túl az égbolton, ott vársz [E/G#]rám
 [A] Túl az árnyakon,[F#m] hol nincsen fájdalom, [D] túl az éjszakán, ott vársz [E/G#]rám
@@ -29,4 +28,4 @@ Ha [D]Te nem lennél [A/C#]itt neke[E]m?
 
 [A]
 Capo: 2 (->G)
-/{artist: Dobner Illés }
+{comment:// Dobner Illés}
