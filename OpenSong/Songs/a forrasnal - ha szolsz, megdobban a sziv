@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>a forrasnal - ha szolsz, megdobban a sziv</title>
+  <author>/ Pintér Béla</author>
+  <copyright>Ha szólsz, megdobban a szív</copyright>
+  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <capo print="">2</capo>
+  <tempo>100</tempo>
+  <time_sig>4/4</time_sig>
+  <duration>0</duration>
+  <predelay></predelay>
+  <ccli></ccli>
+  <theme></theme>
+  <alttheme></alttheme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <beatbuddysong></beatbuddysong>
+  <beatbuddykit></beatbuddykit>
+  <key>A</key>
+  <keyoriginal>A</keyoriginal>
+  <aka></aka>
+  <midi></midi>
+  <midi_index></midi_index>
+  <notes></notes>
+  <lyrics>;Ha szólsz, megdobban a szív
+
+;&lt;Intro&gt;
+.G   Bm/F#   Em   Bm/F#
+
+;(Verse)
+.   G                   Bm/F#             Em
+ Ha szólsz, megdobban a szív,  kiszárad a száj
+.           G/D           C               D      G    (D)
+ Téged akar minden porcikám, egész lényem vágyik Rád!
+.G                  Bm/F#               Em
+ Úgy, mint egy kisfiú     ki várja apja mit hozott
+.    G/D          C         D      G
+ Egy hosszú út után, odarohanok hozzád
+
+;Chorus
+.        G          D             Am        C             D
+ A forrásnál szívem inni kér, élő víz fakad     s ömlik rám
+.        G           D             Am         C               D
+ A forrásnál lelkünk összeér, újra az vagyok,     akinek álmodtál!
+[]
+;(Bridge)
+[Bb]
+.           Em
+ Élő Kútfő,
+.              C
+ áldott Jézus,
+.      D
+ forrá
+.           G
+ sunk Te va
+ gy!
+[Bb]
+.             Em
+ Minden élet,
+.             C
+ minden áldás
+.       D
+ belőle
+.       G
+ d faka
+ d
+
+[Bb]</lyrics>
+  <pad_file>auto</pad_file>
+  <custom_chords></custom_chords>
+  <link_youtube></link_youtube>
+  <link_web></link_web>
+  <link_audio></link_audio>
+  <loop_audio></loop_audio>
+  <link_other></link_other>
+  <abcnotation></abcnotation>
+  <abctranspose>0</abctranspose>
+</song>

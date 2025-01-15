@@ -3,7 +3,7 @@
 {key:C}
 {comment:<Intro>}
 
-{comment:<Verse1>}
+{comment:<Verse 1>}
 
 {comment:<PreChorus>}
 
@@ -12,10 +12,11 @@
 
 {end_of_chorus}
 
-{comment:<Verse2>}
+{comment:<Verse 2>}
 
 {comment:<Bridge>}
 
 [key]
-{comment:Capo: (->)}
-{comment:OriginalTitle} {comment:// Szerző | Fordító}
+Capo: (->)
+{comment:// OriginalTitle}
+# Szerző | Fordító
