@@ -1,4 +1,4 @@
-{title:Ez az a nap}
+{title:Ez az a nap ((Medley))}
 {subtitle:Ez az a nap}
 {comment:<Ez az a nap>}
 [D]Ez az a nap, ez az a nap, mit az [A]Úr szerzett, mit az Úr szerzett
@@ -19,7 +19,7 @@ Egy szívvel mondjuk, hogy jöjj vissza már, egy szívvel mondjuk, hogy jöjj v
 Hogy [G]dicsérjük szent ne[D]vét, hogy di[G]csérjük szent ne[D]vét
 [D]Isten ezt a napot azért adta nekünk, hogy di[G]csérjük [A]szent ne[D]vét
 
-Isten ezt a napot azért adta nekünk, hogy szeressük mi egymást
+Isten ezt a napot azért adta nekünk, hogy szeressük mi egymást...
 
 {comment:<Olyan örömöt mint a forrás>}
 Olyan [D]békét, mint a [D7]folyó, olyan [G]békét, mint a [D]folyó
@@ -28,5 +28,5 @@ Olyan [D]békét, mint a [D7]folyó, olyan [G]békét, mint a [D]folyó
 Olyan [Bm7]békét kaptam Tőled a [A]lelkem[D]be
 
 Olyan örömöt, mint a forrás...
-Olyan szeretetet, mint a tenger…
-Olyan hitet, mint a szikla… 
+Olyan szeretetet, mint a tenger...
+Olyan hitet, mint a szikla...

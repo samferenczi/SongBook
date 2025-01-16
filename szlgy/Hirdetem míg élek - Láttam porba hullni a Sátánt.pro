@@ -1,4 +1,4 @@
-{title:Hírdetem míg élek}
+{title:Hirdetem míg élek}
 {subtitle:Láttam porba hullni a Sátánt}
 {key:B}
 {comment:<Intro>}
