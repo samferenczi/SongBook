@@ -1,5 +1,5 @@
 {title:Mily nagy az Isten szerelme}
-{subtitle:How Deep the Fathers Love for Us}
+{subtitle:Mily nagy az Isten szerelme}
 {key:E}
 {comment:<Intro>}
 [E] [A2/C#] [E2] [B/E] [A/E]
@@ -34,4 +34,5 @@ Mi[E/G#]ért kapok ju[A/C#]tal[E/B]má[A]ból?
 Csak [E]azt tudja a [F#m]szí[E/G#]vem [A2]jól
 Hogy [E/B]vére folyt én[B]ér[E]tem [A2/C#] [E2] [B/E] [A/E]
 
-{comment:// Stuart Townend | Dobrocsi Gábor}
+{comment:// How Deep the Fathers Love for Us}
+# Stuart Townend | Dobrocsi Gábor

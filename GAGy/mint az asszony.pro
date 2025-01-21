@@ -1,5 +1,5 @@
 {title:Mint az asszony}
-{subtitle:Mint az asszony}
+{subtitle:Mint az asszony az Ő ruhája szegélyét}
 {key:A}
 {comment:<Verse>}
 Mint az [A]asszony az Ő [E/G#]ruhája szegé[F#m]lyét

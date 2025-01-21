@@ -1,5 +1,5 @@
 {title:Uram itt vagyok}
-{subtitle:Power Of Your Love}
+{subtitle:Uram itt vagyok változtasd meg szívemet}
 {key:A}
 {comment:<Verse 1>}
 [A] Uram [E/G#]itt vagyo[F#m]k, változtasd meg [C#m7]szíveme[F#m7]t
@@ -26,4 +26,4 @@ E[F#m7]rős jo[E]bbod le[D]gyen [E]minden [D/A]nap vele[A]m
 {comment:#Fordító:}
 {comment:#Capo: 2 (A->G)}
 [A]
-{comment://}
+{comment:// Power Of Your Love}

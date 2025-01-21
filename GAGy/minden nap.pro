@@ -1,5 +1,5 @@
 {title:Minden nap}
-{subtitle:Everyday}
+{subtitle:Mit is mondhatnék}
 {key:B}
 {comment:<Verse 1>}
 [E]Mit is [B]mondhatnék?[G#m] Te vagy, ki [F#]megváltottál
@@ -26,5 +26,5 @@
 [B]Érted é[E]lek mi[G#m]nden na[F#]p, Uram!
 
 [B]
-#{comment:Joel Houston (Hillsong)}{comment:Pintér Béla}
-{comment://}
+{comment:// Everyday}
+# Joel Houston (Hillsong) | Pintér Béla

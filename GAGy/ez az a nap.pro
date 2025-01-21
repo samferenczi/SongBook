@@ -1,5 +1,6 @@
 {title:Ez az a nap ((Medley))}
 {subtitle:Ez az a nap}
+{key:}
 {comment:<Ez az a nap>}
 [D]Ez az a nap, ez az a nap, mit az [A]Úr szerzett, mit az Úr szerzett
 [A7]Ez az a nap, ez az a nap, mit az [D]Úr szerzett, mit az [D7]Úr szerzett
@@ -30,3 +31,5 @@ Olyan [Bm7]békét kaptam Tőled a [A]lelkem[D]be
 Olyan örömöt, mint a forrás...
 Olyan szeretetet, mint a tenger...
 Olyan hitet, mint a szikla...
+
+{comment://}

@@ -1,4 +1,4 @@
-{title:Szent vagy}
+{title:Szent vagy (Agnus Dei)}
 {subtitle:Halleluja}
 {key:G}
 {comment:<Verse>}

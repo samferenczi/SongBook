@@ -1,5 +1,5 @@
 {title:Ki vagy Te}
-{subtitle:Who Is This}
+{subtitle:Ki vagy Te}
 {key:D}
 {comment:Verse}
 
@@ -37,4 +37,4 @@ Vonj magadhoz még, vonj magadhoz még
 {comment:#Capo: 2 (D->C)}
 [D]
 
-{comment://}
+{comment:// Who Is This}

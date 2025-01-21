@@ -1,7 +1,6 @@
 {title:Amazing grace (My chains are gone)}
 {subtitle:Amazing grace how sweet the sound}
 {key:D}
-
 {comment:<Verse 1>}
 [D] [G/D] [D] [A/D]
 Amazing grace, how sweet the sound, that saved a wretch like me
@@ -36,3 +35,4 @@ But God who called me here below, will be forever mine
 
 [D]
 Capo 2 (->C)
+{comment://}
