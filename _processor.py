@@ -211,7 +211,11 @@ def process_folder(path_dir):
 
 ####################################################################################################
 
-process_folder(PATH_SCRIPT_DIR / "songs")
+process_folder(PATH_SCRIPT_DIR / "English")
+process_folder(PATH_SCRIPT_DIR / "GAGy")
+process_folder(PATH_SCRIPT_DIR / "Karacsonyi")
+process_folder(PATH_SCRIPT_DIR / "Ranger")
+process_folder(PATH_SCRIPT_DIR / "zNew")
 
 path_log = PATH_SCRIPT_DIR / "_processor.log"
 with open(path_log, "w", encoding="utf-8") as file_log:
