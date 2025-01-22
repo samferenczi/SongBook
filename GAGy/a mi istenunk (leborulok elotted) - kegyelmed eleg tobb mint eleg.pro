@@ -1,4 +1,4 @@
-{title:Leborulok előtted (A mi Istenünk)}
+{title:A mi Istenünk (Leborulok előtted)}
 {subtitle:Kegyelmed elég több mint elég}
 {key:E}
 {comment:<Verse 1>}
