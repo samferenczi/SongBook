@@ -1,36 +1,36 @@
 {title:Futunk}
 {subtitle:Bátran kilépünk a sorból}
-{key:A}
+{key:G}
+[G]
+
 {comment:<Verse 1>}
-[A]Bátran kilépünk a [D]sorból, s [F#m]máris látjuk mi vár [D]ránk
-[A]Nemzetünk majd feléd [D]fordul, [F#m]ez a nap már közel jár
-Megállni [D]nem fo[A]gunk! [D] Megállni nem fo[F#m]gunk! [D]
+[G]Bátran kilépünk a [C]sorból, s [Em]máris látjuk mi vár [C]ránk
+[G]Nemzetünk majd feléd [C]fordul, [Em]ez a nap már közel jár
+Megállni [C]nem fo[G]gunk! [C] Megállni nem fo[Em]gunk! [C]
 
 {comment:<Verse 2>}
-A [A]hibákat nem tartod [D]számon, a [F#m]láncokat Te tépted [D]szét
-[A]Minden a miénk, a [D]szíveinkben ég egy [F#m]olthatatlan szenvedély
-Megállni [D]nem fo[A]gunk! [D] Megállni nem fo[F#m]gunk! [D]
+A [G]hibákat nem tartod [C]számon, a [Em]láncokat Te tépted [C]szét
+[G]Minden a miénk, a [C]szíveinkben ég egy [Em]olthatatlan szenvedély
+Megállni [C]nem fo[G]gunk! [C] Megállni nem fo[Em]gunk! [C]
 
 {comment:<Chorus>}
 {start_of_chorus}
-És csak [A]futu-u-[D]unk! [F#m]Áttörünk a sötét[D]ségen
-Hozzád [A]futu-u-[D]unk! [F#m]Te vagy egyedül minden, amit [D]akarunk!
+És csak [G]futu-u-[C]unk! [Em]Áttörünk a sötét[C]ségen
+Hozzád [G]futu-u-[C]unk! [Em]Te vagy egyedül minden, amit [C]akarunk!
 {end_of_chorus}
 
 {comment:<Verse 3>}
-[A]Minden, hitben megtett [D]lépés [F#m]országodhoz visz kö[D]zel
-[A]Győztesek leszünk, mindent [D]egy lapra teszünk, [F#m]vissza sose fordulunk
-Megállni [D]nem fo[A]gunk! [D] Megállni nem fo[F#m]gunk! [D]
+[G]Minden, hitben megtett [C]lépés [Em]országodhoz visz kö[C]zel
+[G]Győztesek leszünk, mindent [C]egy lapra teszünk, [Em]vissza sose fordulunk
+Megállni [C]nem fo[G]gunk! [C] Megállni nem fo[Em]gunk! [C]
 
 {comment:<Interlude>}
-[Bm] [D] [A] [E] [Bm] [D] [A] [E]
+[Am] [C] [G] [D] [Am] [C] [G] [D]
 Ó - ó - ó
 
 {comment:<Bridge>}
-[Bm]Túlnézünk saját ma[D]gunkon, a [A]Menny csókja betölti az [E]életünk
-[Bm]Eláraszt minket az [D]égből ez a szere[A]lem, ez a szere[E]lem
+[Am]Túlnézünk saját ma[C]gunkon, a [G]Menny csókja betölti az [D]életünk
+[Am]Eláraszt minket az [C]égből ez a szere[G]lem, ez a szere[D]lem
 
-[A]
-Capo: 2 (->G)
-{comment:// Running}
+{comment:// Running | Hillsong}
 # Hillsong

@@ -1,6 +1,12 @@
 {title:Szóljon halleluja}
 {subtitle:Szóljon halleluja ha ellenségem bekerít}
+{Capo-Guitar:1}
 {key:C#}
+[C#]
+
+{comment:<Intro> // I , V1 , C , Ix2 , V2 , C , Ix4 , B , B-V1 , B-V2 , Cx2 , V-}
+[C#]
+
 {comment:<Verse 1>}
 [C#]Szóljon halleluja, ha [F#]ellenségem bekerít
 [A#m]Szóljon halleluja, ha [G#]kétkedésem elvakít
@@ -12,7 +18,7 @@
 [F#]Nem rémít el, ha [C#]zúg a vad vihar
 [A#m]Imádom Jézust, dalom [G#]egyre hangosabb
 A [F#]sűrű homályon [C#]remény tőr át
-A [A#m]halál legyőzve, mert [G#]él a Király
+A [A#m]halál legyőzve, mert [G#]él a Király [(G#)]
 {end_of_chorus}
 
 {comment:<Verse 2>}
@@ -22,12 +28,10 @@ A [A#m]halál legyőzve, mert [G#]él a Király
 [A#m]Szóljon halleluja, [G#]távozz tőlem félelem
 
 {comment:<Bridge>}
-[C#]Szóljon a dicséret, [G#]szóljon a dicséret
-[A#m]Szóljon a dicséret, [F#]szóljon a dicséret
+[C#]Szóljon a dicséret (szóljon a dicséret), [G#]szóljon a dicséret (szóljon a dicséret)
+[A#m]Szóljon a dicséret (szóljon a dicséret), [F#]szóljon a dicséret (szóljon a dicséret) [(F#)]
 
-[C#]
-Capo: 1 (->C)
-{comment:// Raise A Hallelujah}
+{comment:// Raise A Hallelujah (Bethel)}
 #{comment:// | Jonathan David Helser, Melissa Helser (Bethel)}
 #{comment:// | Orvos-Nagy Borka, Horváth Balázs, Vajda Gábor (Dics-Suli 2019)}
 {tag: Énekes füzet}

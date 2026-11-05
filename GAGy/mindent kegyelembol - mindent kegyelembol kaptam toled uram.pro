@@ -1,5 +1,6 @@
 {title:Mindent kegyelemből}
 {subtitle:Mindent kegyelemből kaptam Tőled Uram}
+{Capo-Guitar2:5}
 {key:F}
 {comment:<Intro>}
 [F/C] [Gm7] [Bb/C] [F] [Bb/D] [C/E]

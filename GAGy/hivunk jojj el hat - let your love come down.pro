@@ -1,9 +1,15 @@
 {title:Hívunk jöjj el hát}
 {subtitle:Let Your Love Come Down}
+{zoom-ipad: 1.947217}
 {key:C}
+[C]
+
+{comment:<Intro>}
+[Am] [Am/C] [G9] [Fmaj7]
+
 {comment:<Chorus>}
 {start_of_chorus}
-O[Am]h,[Am/C] (o[G9]h,) oh[Fmaj7] , [Am](o[Am/C]h,)
+O[Am]h, [Am/C] (o[G9]h,) oh[Fmaj7] , [Am](o[Am/C]h,)
 Hí[G]vunk, jöjj el hát
 {end_of_chorus}
 
@@ -19,9 +25,6 @@ B[F]egyóg[C]yít minden [G]sebet
 A[F]z utcán most még a [Am]harag az Úr, de[F] eltűnik a félelem n[Am]yomtalanul
 Sz[F]eretet lelke[Am] hívunk, jöjj el [G]hát!
 
-{comment:#Szerző: Noel Richard}
-{comment:#Fordító: Beregszászi Csaba}
-{comment:#Capo: }
-{comment:#Key: C}
 [C]
-{comment://}
+{comment:// Let Your Love Come Down (Noel Richards)}
+#Szerző: Noel Richards, #Fordító: Beregszászi Csaba

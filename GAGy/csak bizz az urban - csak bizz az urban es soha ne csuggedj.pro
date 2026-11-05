@@ -36,3 +36,4 @@ Amin Ő ne vinne át!
 {comment:#Szerző: Pintér Béla}
 [D]
 {comment://}
+{tag: OT2026}

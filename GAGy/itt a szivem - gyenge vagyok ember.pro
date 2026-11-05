@@ -1,5 +1,6 @@
 {title:Itt a szívem}
 {subtitle:Gyenge vagyok ember}
+{Capo:1}
 {key:Db}
 {comment:<Verse 1>}
 [Db] Gyenge vagyok, [Gb]ember, [Bbm] [Ab4] [Ab] [Db] megkavar az [Gb]élet [Bbm] [Ab4] [Ab]

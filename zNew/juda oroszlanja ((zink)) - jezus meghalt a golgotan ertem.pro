@@ -2,7 +2,7 @@
 {subtitle:Jézus meghalt a Golgotán értem}
 {key:D}
 {comment:<Verse 1>}
-Jézus [Bm]meghalt a Golgotán értem, Ő [G]legyőzte Pokolt s ha[D]lált
+Jézus ki [Bm]meghalt a Golgotán értem, Ő [G]legyőzte Pokolt s ha[D]lált
 Ő aki [Bm]elvette a bűneinket, az Ő [G]uralma [F#]örökké [Bm]áll
 Ő aki [Bm]legyőzte végleg a halált, és [G]nincs többé hatalma [D]már
 Jézus a [Bm]világnak dicső királya, Ő [G]Júda o[F#]roszlán[Bm]ja

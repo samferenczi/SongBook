@@ -1,7 +1,8 @@
 {title:Éneklem a Te jóságodat}
 {subtitle:Úgy szeretlek mert kegyelmed sose csal meg}
+{Capo-Guitar:1}
 {key:Ab}
-{Capo: 1}
+[Ab]
 
 {comment:<Vamp>}
 [Ab] [Ab4] [Ab]
@@ -26,8 +27,6 @@ Fiaddá fo[Fm]gadtál, [Db] barátként kí[Ab]sérsz, [Eb/G] [Fm] úgy élvez[D
 Lete[Ab/C]szek mindent a Te [Db]lábadhoz, [Eb]áta[(C/E)]dom Nek[Fm]ed
 [Ab/C] Jóságod [Db]nem hagy el, [Eb]nem hagy el sos[Ab]em
 
-[Ab]
-Capo: 1 (->G)
 {comment:// Goodness of God | Bethel}
 # Jenn Johnson, Jason Ingram, Ben Fielding, Ed Cash, Brian Johnson (Bethel)
 # Földesi Péter

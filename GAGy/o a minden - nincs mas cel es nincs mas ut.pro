@@ -1,23 +1,24 @@
 {title:Ő a minden}
 {subtitle:Nincs más cél és nincs más út}
-{key:F}
+{Capo-Guitar:3}
+{key:D#}
+[D#]
+
 {comment:<Verse>}
-[Dm]Nincs más cél és ni[Bb]ncs más út, [F/A]nincs más kéz mi é[C]rtünk nyúlt
-Ha [Dm]szomjas vagy, ni[Bb]ncs más kút, [F/A]Jézus az egyet[C]len!
-Egy [Dm]pillantása[Bb] mindent lát, egy [F/A]értintése á[C]tformál
-Elég, ha [Dm]szól egy szót és [Bb]porba hull a [F/A]súlyos lá[C]nc
+[Cm]Nincs más cél és ni[G#]ncs más út, [D#/G]nincs más kéz mi é[A#]rtünk nyúlt
+Ha [Cm]szomjas vagy, ni[G#]ncs más kút, [D#/G]Jézus az egyet[A#]len!
+Egy [Cm]pillantása[G#] mindent lát, egy [D#/G]értintése á[A#]tformál
+Elég, ha [Cm]szól egy szót és [G#]porba hull a [D#/G]súlyos lá[A#]nc
 
 {comment:<Chorus>}
 {start_of_chorus}
-Ő a [Dm]minden Akire né[Bb]zve az Ég és [F]Föld teremtete[C]tt
-Beszéde [Dm]élet, szereteté[Bb]ben én is [F]elmerülhete[C]k
+Ő a [Cm]minden Akire né[G#]zve az Ég és [D#]Föld teremtete[A#]tt
+Beszéde [Cm]élet, szereteté[G#]ben én is [D#]elmerülhete[A#]k
 {end_of_chorus}
 
 {comment:<Bridge>}
-[Dm]Értem jö[Bb]tt, [F]rám talá[C]lt, szeretve [Dm]felkaro[Bb]lt en[C]gem
-[Dm]Minden szí[Bb]v, [F]minden szá[C]j, vallja [Dm]Jézus az [Bb]egyet[C]len
+[Cm]Értem jö[G#]tt, [D#]rám talá[A#]lt, szeretve [Cm]felkaro[G#]lt en[A#]gem
+[Cm]Minden szí[G#]v, [D#]minden szá[A#]j, vallja [Cm]Jézus az [G#]egyet[A#]len
 
-[F]
-Capo: 5 (->C)
-{comment:// Pintér Béla | Dics-Suli 2014}
+{comment:| Pintér Béla (Dics-Suli 2014)}
 {tag: Énekes füzet}

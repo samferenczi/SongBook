@@ -25,5 +25,5 @@ Hoz[Em]zád [G] [D] [Am]
 [Am] [G] [D]
 
 {comment:// We Cry Out}
-{comment:// | Brian Johnson (Bethel) | Debreceni István (Dics-Suli 2009)}
+# Brian Johnson (Bethel) | Debreceni István (Dics-Suli 2009)
 {tag: Énekes füzet}

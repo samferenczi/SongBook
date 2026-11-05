@@ -1,5 +1,6 @@
 {title:Míly nagy Istenünk}
 {subtitle:How Great Is Our God}
+{Capo-Guitar:1}
 {key:Ab}
 {comment:<Verse>}
 [Ab] [Fm] [Db]
@@ -32,4 +33,4 @@ a szívem énekel: mily' nagy Istenünk!
 {comment:#Capo: 1 (Ab->G)}
 {comment:#Capo: 4 (Ab->E)}
 [Ab]
-{comment://}
+{comment://kopo2}

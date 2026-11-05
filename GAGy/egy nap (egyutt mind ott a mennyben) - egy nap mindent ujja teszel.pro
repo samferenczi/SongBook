@@ -1,36 +1,36 @@
 {title:Egy nap (Együtt mind ott a Mennyben)}
 {subtitle:Egy nap mindent újjá teszel}
-{key:Bb}
-{comment:<Intro>}
+{Capo-Guitar:2}
+{key:A}
+[A]
 
 {comment:<Verse1>}
-[Bb]Egy nap mindent [Cm]újjá tesz[Gm]el, Jézus
-[Cm]Egy nap minden [Ebmaj7]sebünk bef[Fsus4]orr
-A [Eb]régiek mind [F]eltűnnek [Gm]ott, [Cm]nincs [Bb/D]több [F]könny
+[A]Egy nap mindent [Bm]újjá tesz[F#m]el, Jézus
+[Bm]Egy nap minden [Dmaj7]sebünk bef[Esus4]orr
+A [D]régiek mind [E]eltűnnek [F#m]ott, [Bm]nincs [A/C#]több [E]könny
 
 {comment:<Verse2>}
-[Bb]Ott majd minden [Cm]értelmet [Gm]nyer, Jézus
-[Cm]Minden kérdés [Ebmaj7]választ tal[Fsus4]ál
-[Eb]Gyötrő érzés [F]nem kínoz m[Gm]ár, nincs [Cm]fé[Bb/D]le[F]lem
+[A]Ott majd minden [Bm]értelmet [F#m]nyer, Jézus
+[Bm]Minden kérdés [Dmaj7]választ tal[Esus4]ál
+[D]Gyötrő érzés [E]nem kínoz m[F#m]ár, nincs [Bm]fé[A/C#]le[E]lem
 
 {comment:<Chorus>}
 {start_of_chorus}
-Együtt [Bb]mind [Bbsus4] ott a [Bbadd2]Mennyben egész [Gm]lényünk az [Eb]öröm járja [F]át
-Köztünk [Bb/D]áll majd [Eb]Jézus és [Bb/F]harsogjuk a [F]győzelem da[Bb]lát
+Együtt [A]mind [Asus4] ott a [Aadd2]Mennyben egész [F#m]lényünk az [D]öröm járja [E]át
+Köztünk [A/C#]áll majd [D]Jézus és [A/E]harsogjuk a [E]győzelem da[A]lát
 {end_of_chorus}
 
 {comment:<Verse3>}
-[Bb]Színről színre [Cm]láthatunk m[Gm]ár, Jézus
-[Cm]Megváltásunk [Ebmaj7]teljessé v[Fsus4]ált
-Új [Eb]létezésre [F]változunk [Gm]át, [Cm]lesz [Bb/D]egy [F]nap
+[A]Színről színre [Bm]láthatunk m[F#m]ár, Jézus
+[Bm]Megváltásunk [Dmaj7]teljessé v[Esus4]ált
+Új [D]létezésre [E]változunk [F#m]át, [Bm]lesz [A/C#]egy [E]nap
 
 {comment:<Verse4>}
-[Bb]Mindörökké [Cm]szabadok lesz[Gm]ünk, Jézus
-[Cm]Végetér a [Ebmaj7]szüntelen h[Fsus4]arc
-[Eb]Dicsőséged [F]feltárul m[Gm]ajd, [Cm]lesz [Bb/D]egy [F]nap
+[A]Mindörökké [Bm]szabadok lesz[F#m]ünk, Jézus
+[Bm]Végetér a [Dmaj7]szüntelen h[Esus4]arc
+[D]Dicsőséged [E]feltárul m[F#m]ajd, [Bm]lesz [A/C#]egy [E]nap
 
-{comment:<Bridge>}
+{comment:One Day | Matt Redman}
+# Szerző | Fordító
 
-[Bb]
-{comment:Capo: (->1)}
-{comment:OriginalTitle}{comment:// Szerző | Fordító}
+{tag: OT2026}

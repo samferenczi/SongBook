@@ -1,29 +1,30 @@
 {title:Szóljon az ének}
-{subtitle:Ancient of Days (Ron Kenoly)}
+{subtitle:Szóljon az ének}
+{zoom-android-SM-T830:0.5000508}
 {key:C}
-Szóljon az ének, áldás, dicséret, Néked Örökkévaló.
-Nemzetek népek, ifjak és vének imádjanak Mindenható!
+[C]
 
-Hirdessék Neved fenségét Mennyen és Földön,
-énekeljék, hogy szent az Úr örökkön!
-Zengjék egy szívvel hatalmad,
-mert jó és kegyelmes vagy,mi Istenünk, ó Mindenható!
+{comment:<Verse>}
+[C]Szóljon az [F]én[C]ek, [C]áldás, di[F]csér[C]et
+[C]Néked Ör[F]ökk[C]évaló [Am] [Am2] [Am]
+[C]Nemzetek [F]népe[C]k, [C]ifjak és [F]vén[C]ek
+[C]Imádjanak [F]Mind[C]enható [Am] [Am2] [Am]
 
-Királyságod megáll örökké, trónszéked nem mozdul el.
-S a nép, amelyet teremtettél magasztalja nagy Nevedet!
+{comment:<Chorus>}
+{start_of_chorus}
+[F]Hirdessék Neved fenség[G]ét
+Mennyen és Földön [F]énekeljék, hogy szent az [G]Úr Ö[Am]rök[G]ké
+[F]Zengjék egy szívvel hatalm[G]ad
+Mert jó és [F]kegyelmes vagy, mi Isten[G]ünk
+Ó Mindenhat[C]ó
+{end_of_chorus}
 
-[C] [(F)] [C] [C] [(F)] [C]
-[C] [Am]
+{comment:<Bridge>}
+Ki[C]rályságod megáll örökké
+[Bb]Trónszéked [F]nem mozdul [C]el
+S a [C]nép, amelyet teremtettél
+[Bb]Magasztalja [F]nagy Neve[C]det
 
-[F] [G]
-[F] [G] [Am] [G] [F]
-[F] [G]
-[F] [G]
-
-[C] [Bb] [F] [C]
-[C] [Bb] [F] [C]
-
-{comment:#Szerző: Gary Sadler, Jamie Harvill}
-{comment:#Fordító: Németh S. Judit}
-{comment:#Capo: 3 (C->A)}
-{comment://}
+{comment://Ancient Of Days (Ron Kenoly)}
+#Szerző: Gary Sadler, Jamie Harvill
+#Fordító: Németh S. Judit

@@ -1,18 +1,16 @@
 {title:Nem szűnik meg szerelme}
 {subtitle:Adj hálát az Úrnak a királynak}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
-Adj [G]hálát az Úrnak, a Királynak,
-[G]nem szűnik (meg) szerelme
-Mert [C]Isten jó, mindent Ő teremtett,
-[C]nem szűnik (meg) szere[G]lme
+Adj [G]hálát az Úrnak, a Királynak, [G]nem szűnik (meg) szerelme
+Mert [C]Isten jó, mindent Ő teremtett, [C]nem szűnik (meg) szere[G]lme
 Áldd [D]Őt, Ő[C/E]t áldd
 
 {comment:<Verse 2>}
-A [G]karját kinyújtva csodát tesz,
-[G]nem szűnik (meg) szerelme
-Mert [C]újjászült Szellemével,
-[C]nem szűnik (meg) szere[G]lme
+A [G]karját kinyújtva csodát tesz, [G]nem szűnik (meg) szerelme
+Mert [C]újjászült Szellemével, [C]nem szűnik (meg) szere[G]lme
 Áldd [D]Őt, Ő[C/E]t áldd
 
 {comment:<Pre-Chorus>}
@@ -28,13 +26,10 @@ Mert [C]újjászült Szellemével,
 [G] [C] [Em7] [D] [C]
 
 {comment:<Verse 3>}
-Kora [G]reggeltől napestig,
-[G]nem szűnik (meg) szerelme
-[C]Kegyelme újra továbbvisz,
-[C]nem szűnik (meg) szere[G]lme
+Kora [G]reggeltől napestig, [G]nem szűnik (meg) szerelme
+[C]Kegyelme újra továbbvisz, [C]nem szűnik (meg) szere[G]lme
 Áldd [D]Őt, Ő[C/E]t áldd
 
-[G]
-{comment:// Forever}
+{comment:// Forever ((Chris Tomlin))}
 #{comment:// | Chris Tomlin | Vass Tímea, Maros Zsu}
 {tag: Énekes füzet}

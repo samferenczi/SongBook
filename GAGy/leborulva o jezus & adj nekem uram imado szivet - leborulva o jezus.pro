@@ -1,5 +1,6 @@
 {title:Leborulva ó Jézus & Adj nekem Uram imádó szívet}
 {subtitle:Leborulva ó Jézus}
+{Capo-Guitar:4}
 {key:E}
 {comment:>>> Leborulva, ó, Jézus <<<}
 

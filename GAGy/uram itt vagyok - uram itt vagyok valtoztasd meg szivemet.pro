@@ -1,13 +1,14 @@
 {title:Uram itt vagyok}
 {subtitle:Uram itt vagyok változtasd meg szívemet}
+{Capo:2}
 {key:A}
 {comment:<Verse 1>}
 [A] Uram [E/G#]itt vagyo[F#m]k, változtasd meg [C#m7]szíveme[F#m7]t
 Mert [F#m]Tőled [E]árad [D]rám a [E]kegye[F#m]lem [E]
 [A] Uram be[E/G#]ismere[F#m]m, hogy gyengeség van [C#m7]még ben[F#m7]nem
 De [F#m7]van [E]szabadí[D]tó [E]féltő szeretet[D/A]ed [A]
-
 {comment:<Chorus>}
+
 {start_of_chorus}
 [D]Jöjj köze[E]l, tarts jelenlé[D/A]ted[A]ben
 [D]Áraszd [E]rám szent kenete[A]det! [A/C#]

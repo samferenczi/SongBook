@@ -1,5 +1,8 @@
 {title:Nem tart fogva semmi már}
 {subtitle:Mikor körbefog gyönyörü dalod}
+{zoom-android-SM-T830:0.44691452}
+{Capo:1}
+{Capo-Guitar:1}
 {key:C#}
 {comment:<Verse 1>}
 Mikor körbef[C#]og gyönyörű dalod, bennem [F#]minden [G#]helyre[C#]áll
@@ -30,7 +33,6 @@ A világ hajna[C#]lán kiválasztottál, [F#]elhívt[G#]ál en[C#]gem
 [A#m] Megmentet[G#]tél, fennhangon [C#]zengem [Fm]hát: Fi[F#]ad vagy[G#]ok Aty[C#]ám!
 
 [C#]
-Capo 1 (->C)
 {comment:// No Longer Slaves}
 {comment:// Jonathan David & Melissa Helser (Bethel)}
 {comment:// Orvos Nagy Borka, Horváth Balázs (Dics-Suli 2015)}

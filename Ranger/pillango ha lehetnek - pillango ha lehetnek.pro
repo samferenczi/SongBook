@@ -1,6 +1,8 @@
 {title:Pillangó ha lehetnék}
 {subtitle:Pillangó ha lehetnék}
 {key:C}
+[C]
+
 {comment:<Verse 1>}
 [C]Pillangó ha lehetnék, [F]táncolnék, míg röpít a szél
 És ha [C]én lennék a cinege a fán, [G]dallal Istent dicsérném
@@ -26,13 +28,11 @@ Krokodilként, ha utaznék, nem sírnék csak nevetnék
 Ha én lennék a borzos medve bocs, számolnék, mert a medve mind okos
 De gyermeked lettem, köszönöm, Istenem én
 
-{comment:<Verse 4>}
-HA egy bálna lehetnék | AZ erdőben sétálnék
-és ha NYUszikaként élhetnék | SOK mindent megkérdeznék
-vagy BAgolyként a fa tetején | PIros bicikliket dobálnék
-De gyermeked lettem, köszönöm, Istenem én
-
-[C]
+# comment:<Verse 4>}
+# HA egy bálna lehetnék | AZ erdőben sétálnék
+# és ha NYUszikaként élhetnék | SOK mindent megkérdeznék
+# vagy BAgolyként a fa tetején | PIros bicikliket dobálnék
+# De gyermeked lettem, köszönöm, Istenem én
 {comment:// If I Were A Butterfly}
 
 {tag: Gyerekdal}

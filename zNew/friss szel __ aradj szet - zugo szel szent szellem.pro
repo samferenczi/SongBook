@@ -33,15 +33,5 @@ Mint [F]hegy szirtjén a [C]városfény, [G]lámpásként [Am]lángunk ég
 [F]Mozdulj közöttünk, ahogy [Am]együtt dicsérünk
 [C]Halljuk: fúj a szél, süv[G]ít, süvít, süvít!
 
-{comment:<Instrumental>}
-[F] [Am] [C] [G4]
-
-{comment:<Áradj szét>}
-[F] Jöjj, Szent Szellem, [Am] jöjj, Szent Szellem,
-[C] Áradj szét köztünk, [G] áradj szét köztünk!
-
-{comment:<Árassz el>}
-[Am] [F] [C] [G]
-
 [C]
-{comment:// Fresh Wind __ Fill The Room}
+{comment:// Fresh Wind}

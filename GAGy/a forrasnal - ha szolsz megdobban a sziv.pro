@@ -1,6 +1,8 @@
 {title:A forrásnál}
 {subtitle:Ha szólsz megdobban a szív}
 {key:A}
+[A]
+
 {comment:<Intro>}
 [A] [C#m/G#] [F#m] [C#m/G#]
 
@@ -20,5 +22,4 @@ A forrás[A]nál lelkünk [E]összeér, újra [Bm]az vagyok,[D] akinek álmod[E]
 [A]Élő Kútfő, [F#m]áldott Jézus, [D]forrá[E]sunk Te va[A]gy!
 [A]Minden élet, [F#m]minden áldás [D]belőle[E]d faka[A]d
 
-[A]
-{comment:// (Pintér Béla)}
+{comment:| Pintér Béla}

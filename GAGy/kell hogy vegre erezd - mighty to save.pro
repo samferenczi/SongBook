@@ -1,6 +1,9 @@
-{title:Kell hogy végre érezd}
-{subtitle:Mighty To Save}
+{title:Győztes (Kell hogy végre érezd)}
+{subtitle:Kell hogy végre érezd}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Verse 1>}
 [D] Kell, hogy végre [A]érezd, hogy mennyire szeret [F#m]Isten
 Ke[E]gyelme éltet
@@ -25,8 +28,7 @@ Csak [E]Érted élek [D] [E] [D] [E]
 [D] Életünkkel[A] mondjuk el, hogy[E] élsz [F#m] hírdetjük
 [D] Megváltónk[A] dicsősé[E]gét [F#m] Jézus
 
+{comment:// Mighty To Save / Hillsong}
 {comment:#Reuben Morgan, Ben Fielding (Hillsong)}
 {comment:#Hunyadi Tamás (Dics-Suli 2008)}
-[A]
-
-{comment://}
+# A

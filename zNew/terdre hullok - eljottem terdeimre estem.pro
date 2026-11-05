@@ -1,5 +1,6 @@
 {title:Térdre hullok}
 {subtitle:Eljöttem térdeimre estem}
+{Capo-Guitar:3}
 {key:D#}
 {comment:<Intro>}
 [Cm] [D#] [A#] [G#]

@@ -1,32 +1,32 @@
 {title:Barátom lett az Úr}
 {subtitle:Ki vagyok én hogy figyelsz rám ó Isten}
-{key:G}
+{Capo-Guitar:3}
+{key:Bb}
 {metronome:129}
+[Bb]
 
 {comment:<Verse>}
-[G]Ki vagyok én, hogy figyelsz rám, ó I[Em7]sten,
-ha hívlak Té[C/A]ged, meghallga[G]tsz
-[G]Felém fordulsz, mert nagyon szeretsz e[Em7]ngem
-Teljes szí[C/A]vvel, ezért á[F]ldlak
+[Bb]Ki vagyok én, hogy figyelsz rám, ó I[Gm7]sten,
+ha hívlak Té[Eb/C]ged, meghallga[Bb]tsz
+[Bb]Felém fordulsz, mert nagyon szeretsz e[Gm7]ngem
+Teljes szí[Eb/C]vvel, ezért á[Ab]ldlak
 
 {comment:<Chours>}
 {start_of_chorus}
-[G]Barátom lett az Úr, [Em7]barátom lett az Úr
-[C/A]Barátom lett az Ú[(D)]r, barátnak hí[G]v [(A/G)]
+[Bb]Barátom lett az Úr, [Gm7]barátom lett az Úr
+[Eb/C]Barátom lett az Ú[(F)]r, barátnak hí[Bb]v [(C/Bb)]
 {end_of_chorus}
 
 {comment:<Instrumental>}
-[Csus2] [Gmaj7/B] [Am7] [Csus2]
+[Ebsus2] [Bbmaj7/D] [Cm7] [Ebsus2]
 
 {comment:<Bridge>}
-[Csus2]Mindenható, [Gmaj7/B]hű Megváltó,
-[Am7]Barátodnak hí[Csus2]vsz
+[Ebsus2]Mindenható, [Bbmaj7/D]hű Megváltó,
+[Cm7]Barátodnak hí[Ebsus2]vsz
 
-{comment:<Instrumental>}
-[Csus2] [Gmaj7/B] [C] [G]
+# {comment:<Instrumental>}
+# [Ebsus2] [Bbmaj7/D] [Eb] [Bb]
 
-[G]
-{comment:Capo: 3 (Bb->G)}
-{comment:Friend Of God (Israel Houghton)}
-#{comment:// Israel Houghton, Michael Gungor | Pocsiné-Maros Zsúzsana}
-
+{comment:Friend Of God | Israel Houghton}
+# Israel Houghton, Michael Gungor | Pocsiné-Maros Zsúzsana
+{tag: OT2026}

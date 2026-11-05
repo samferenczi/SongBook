@@ -1,6 +1,8 @@
 {title:Jézus jöjj és töltsd be a szívem hittel (Tiéd Uram)}
 {subtitle:Jézus jöjj és töltsd be a szívem hittel}
 {key:G}
+[G]
+
 {comment:<Intro>}
 [G4] [G]
 
@@ -14,7 +16,5 @@ Mert nincs [C]szebb, nincs jobb Te[G]nálad, csak [Bm]szólj, s megyek u[Em]tán
 Minden [C]álmom és a[G]mim van, Tiéd U[D4]ram [D]
 {end_of_chorus}
 
-[G]
-Capo: 2 (->G)
-
-{comment://}
+{comment:// Ararat Worship}
+{tag: OT2026}

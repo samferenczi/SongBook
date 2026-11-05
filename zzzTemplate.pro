@@ -3,7 +3,10 @@
 {key:C}
 {comment:<Intro>}
 
+{comment:<Verse>}
 {comment:<Verse 1>}
+{comment:<Verse 2>}
+{comment:<Verse 3>}
 
 {comment:<PreChorus>}
 
@@ -11,8 +14,6 @@
 {start_of_chorus}
 
 {end_of_chorus}
-
-{comment:<Verse 2>}
 
 {comment:<Bridge>}
 

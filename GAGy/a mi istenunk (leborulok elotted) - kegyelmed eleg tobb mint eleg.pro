@@ -1,6 +1,9 @@
 {title:A mi Istenünk (Leborulok előtted)}
 {subtitle:Kegyelmed elég több mint elég}
+{Capo-Guitar:2}
 {key:E}
+[E]
+
 {comment:<Verse 1>}
 [E] Kegyelmed elé[G#m]g, több, mint elé[C#m]g, Igé[A]dben bízok é[E]n
 Így várok Rá[G#m]d, Vonj közel megi[C#m]nt, Szelleme[A]d újítson me[B]g!
@@ -25,6 +28,5 @@ Mily' nagy szerete[F#m]t, mit adott nekü[C#m]nk a mi [A]Istenü[E]nk!
 A halálból fö[E]lemeltettél, életed le[B]tt nekünk a fény
 Szolga- Kirá[F#m]ly, szabadító[C#m], a mi [A]Istenü[E]nk!
 
-[E]
-Capo: 4 (E->C)
 {comment:// This Is Our God | Hillsong}
+# E

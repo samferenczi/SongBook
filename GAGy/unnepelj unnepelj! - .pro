@@ -1,20 +1,20 @@
-{title:Ünnepelj ünnepelj!}
-{subtitle:}
-{key:E}
-[E] [C#m7] [F#m7] [B7] [E]
-Ünnepelj, ünnepelj mert Ő feltámadott
-Ünnepelj, ünnepelj, mert Ő a Megváltó
-
-[A] [B] [E] [C#m] [F#m] [B] [E]
-Ő Jézus, Isten Szent Fia,
-ég és föld dicsőséges Ura
-
-[F#m] [B] [E] [F#m7] [B7] [E]
-Áldás van, öröm, ahol Ő jelenvan
-Áldás van öröm
-[F#m] [B] [E] [F#m7] [B7]
-jobbján gyönyörűségek örökké
-
+{title: Ünnepelj ünnepelj mert Ő feltámadott}
+{subtitle:Ünnepelj ünnepelj mert Ő feltámadott}
+{key: E}
 [E]
+
+{comment:<Chorus>}
+{start_of_chorus}
+[E]Ünnepelj, [C#m7]ünnepelj, mert [F#m7]Ő feltámadott
+[B7]Ünnepelj, ünnepelj, mert [E]Ő a Megváltó
+Ő [A]Jé[B]zus, [E]Isten Szent Fi[C#m]a
+Ég és [F#m7]föld di[B]csőséges U[E]ra
+{end_of_chorus}
+
+{comment:<Bridge>}
+Ál[F#m7]dás [B]van, ö[E]röm
+A[F#m7]hol [B]Ő je[E]len van
+Ál[F#m7]dás [B]van ö[E]röm
+Jobb[F#m7]ján gyönyörűségek örök[B7]ké
 
 {comment://}

@@ -1,6 +1,8 @@
 {title:Hadd halljam hangod}
 {subtitle:Nem a sok szó amit tőlem vársz}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 [G] Nem a sok szó, amit tőlem [C]vársz
 [Em] Mikor csendben [D]vágyom [C]Rád
@@ -21,7 +23,6 @@
 [G] Nekidőlve útjaimból [C]félreteszem bűneimet
 [Em] Hogy jutalmam,[D] jutalmam megkapja[C]m
 
-[G]
 {comment:// I Want To Know You}
 {comment:// | Andy Park (Vineyard) | Varga Eszter, Bagyinszki Judit}
 {tag: Énekes füzet}

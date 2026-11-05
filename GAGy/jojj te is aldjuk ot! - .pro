@@ -21,6 +21,5 @@ Méltó, hogy áldjuk
 [Bm7] [Bb5] [Am7] [Bm7] [Em]
 Jézust az egyszülött Fiút
 
-{comment:#Capo: 5 (G->D)}
 [G]
 {comment://}

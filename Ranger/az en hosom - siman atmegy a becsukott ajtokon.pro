@@ -22,3 +22,4 @@ Igen, [B4]Ő a szívem [E]Sztárja!
 {comment:// Pintér Béla}
 {tag: Gyerekdal}
 {tag: Énekes füzet}
+{tag: OT2026}

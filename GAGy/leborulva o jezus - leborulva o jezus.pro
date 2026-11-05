@@ -1,5 +1,6 @@
 {title:Leborulva ó Jézus}
 {subtitle:Leborulva ó Jézus}
+{Capo:4}
 {key:E}
 {comment:<Verse>}
 Le[E]borulva, ó, [B]Jé[C#m]zus, koro[A]nánk le[B]vesszük

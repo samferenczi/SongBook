@@ -1,35 +1,27 @@
-{title:Több mint a földi gazdagság}
-{subtitle:Better Than Life}
-{key:Ab}
+{title: Több mint a földi gazdagság}
+{subtitle: Több mint a földi gazdaság}
+{key: G}
+[G]
+
 {comment:<Verse>}
-[Ab] [Eb] [Fm] [Db]
-Több, mint a földi gazdagság, több, mint akármelyik barátom
-[Ab] [Eb] [Fm] [Db]
-Szívem titkos álmait Ő tudja jól
-[Ab] [Bbm7] [Fm] [Db]
-Betölti minden szükségem, teljes életet élhetek Benne
-[Ab] [Eb] [Fm] [Db]
-Csodás szerelme, mindennél többet ad
+[G]Több, mint a földi [D]gazdagság, [Em]több, mint akárme[C]lyik barátom
+[G]Szívem titkos [D]álmait Ő [Em]tudja j[C]ól
+[G]Betölti minden [Am]szükségem, [Em]teljes életet [C]élhetek Benne
+[G]Csodás szerelme, [D]mindennél [Em]többet [C]ad
 
 {comment:<PreChorus>}
-[Ab] [Bbm7] [Ab/C] [Db] [Eb] [Fm] [Db]
-Karjaid tartanak, tudom sosem engedsz el
+Karja[G]id tarta[Am]nak, tu[G/B]dom [C]sosem engedsz [D]el [Em] [C]
 
 {comment:<Chorus>}
 {start_of_chorus}
-[Ab] [Eb] [Fm7] [Db]
-Te alkottad a napfényt, az égen a holdat
-[Ab] [Eb] [Fm7] [Db]
-Te adtál nekem életet, Téged áldalak, Uram!
-[Ab] [Eb] [Fm] [Db] [Fm]
-Szerelmed sohasem múlik el, ez a szeretet tartja az életem
-[Ab] [Eb] [Fm] [Db] [Fm] [Db] [Eb]
-Szerelmed sohasem múlik el, ez a szeretet tartja az életem
+[G]Te alkottad a [D]napfényt, az [Em]égen a [C]holdat
+[G]Te adtál nekem [D]életet, [Em]Téged álda[C]lak, Uram!
+[G] Szerelmed [D]sohasem múlik el, [Em] ez a szeretet [C]tartja az életem
 {end_of_chorus}
 
-[Ab]
-Capo: 1 (->G)
-{comment:#Szerző: Marty Sampson}
-{comment:#Fordító: Pintér Béla}
+{comment:<Interlude>}
+[Em] [C] [D] [D] [/2x]
 
-{comment://}
+{comment:// Better Than Life (Hillsong)} 
+#Szerző: Marty Sampson
+#Fordító: Pintér Béla

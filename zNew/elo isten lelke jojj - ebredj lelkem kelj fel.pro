@@ -1,5 +1,6 @@
 {title:Élő Isten lelke jöjj}
 {subtitle:Ébredj lelkem kelj fel}
+{Capo-Guitar:4}
 {key:E}
 {comment:<Verse 1>}
 [E]Ébredj l[A]elkem, k[E]elj fel[A], [E]szomjazz, [A]éhezz és [C#m]láss [A]

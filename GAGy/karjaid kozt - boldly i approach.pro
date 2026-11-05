@@ -1,36 +1,36 @@
 {title:Karjaid közt}
-{subtitle:Boldly I Approach}
-{key:Bb}
+{subtitle:Hogy bízhattál rám oly kincset}
+{Capo-Guitar:1}
+{key:Ab}
+[Ab]
+
 {comment:<Verse 1>}
-[Gm] Hogy bízhat[F4]tál rám oly kin[EbM7]cset, [Bb/D] mit angyalo[Gm]k sem kapnak [F]meg?
-[Gm] Féltőn hív[F4]tál, itt állok [EbM7]hát, [Bb/D] Isten kirá[Gm]lyi trónjá[F]nál
-És [Bb/D]int felé[Eb]m két [F]sebzett [Gm]kéz, [Eb] a Megvál[F4]tó karjába [Bb]zár! [Bb4] [Bb] [F/A]
+[Fm] Hogy bízhat[Eb4]tál rám oly kin[DbM7]cset, [Ab/C] mit angyalo[Fm]k sem kapnak [Eb]meg?
+[Fm] Féltőn hív[Eb4]tál, itt állok [DbM7]hát, [Ab/C] Isten kirá[Fm]lyi trónjá[Eb]nál
+És [Ab/C]int felé[Db]m két [Eb]sebzett [Fm]kéz, [Db] a Megvál[Eb4]tó karjába [Ab]zár! [Ab4] [Ab] [Eb/G]
 
 {comment:<Verse 2>}
-[Gm] Ha szíved [F4]vádlás döfné [EbM7]át, [Bb/D] ha Sátán [Gm]bűnömmel kí[F]sért
-[Gm] Egy szó, és [F4]gyászom szétreb[EbM7]ben, [Bb/D] az Úr van i[Gm]tt az Egyet[F]len
-Ó, [Bb/D]áldom [Eb]Őt, ki [F]küzd és [Gm]győz, [Eb] biztos bás[F4]tya lelkem vá[Bb]rán [Bb4] [Bb] [F/A]
+[Fm] Ha szíved [Eb4]vádlás döfné [DbM7]át, [Ab/C] ha Sátán [Fm]bűnömmel kí[Eb]sért
+[Fm] Egy szó, és [Eb4]gyászom szétreb[DbM7]ben, [Ab/C] az Úr van i[Fm]tt az Egyet[Eb]len
+Ó, [Ab/C]áldom [Db]Őt, ki [Eb]küzd és [Fm]győz, [Db] biztos bás[Eb4]tya lelkem vá[Ab]rán [Ab4] [Ab] [Eb/G]
 
 {comment:<Chorus>}
 {start_of_chorus}
-[Gm]Itt állok most [Eb]trónod[F]nál, [Gm]Nincs több bűn meg[Eb]váltot[F]tál
-[Bb/D]Jézus vérén [Eb]át bát[F]ran lépek Hoz[Gm]zád, szent [Eb]karjaid közt [F]otthon [Bb]vár
+[Fm]Itt állok most [Db]trónod[Eb]nál, [Fm]Nincs több bűn meg[Db]váltot[Eb]tál
+[Ab/C]Jézus vérén [Db]át bát[Eb]ran lépek Hoz[Fm]zád, szent [Db]karjaid közt [Eb]otthon [Ab]vár
 {end_of_chorus}
 
 {comment:<Verse 3>}
-[Gm] A feltá[F4]madt Jézust lá[EbM7]tom, [Bb/D] meghalt ér[Gm]tem, hogy megvált[F]son
-[Gm] Ártatlan [F4]bűntelen szent[EbM7]ség, [Bb/D] szépség, mit [Gm]szem nem látott [F]még
-Ó száz [Bb/D]és száz [Eb]szó, száz [F]és száz [Gm]dal [Eb] nem írhat[F4]ja le fensé[Bb]gét [Bb4] [Bb] [F/A]
+[Fm] A feltá[Eb4]madt Jézust lá[DbM7]tom, [Ab/C] meghalt ér[Fm]tem, hogy megvált[Eb]son
+[Fm] Ártatlan [Eb4]bűntelen szent[DbM7]ség, [Ab/C] szépség, mit [Fm]szem nem látott [Eb]még
+Ó száz [Ab/C]és száz [Db]szó, száz [Eb]és száz [Fm]dal [Db] nem írhat[Eb4]ja le fensé[Ab]gét [Ab4] [Ab] [Eb/G]
 
 {comment:<Instrumental>}
-[Bb]
+[Ab]
 
 {comment:<Bridge>}
-Szálljon fel [Eb]hála [Bb]és imá[F]dat, szívünkből [Eb]elmos [Bb]minden vá[F]dat
-Ó [Eb]áldjuk Ő[Bb]t, [F]áldjuk Ő[Gm]t, ki [Eb]vérét adta [F]bűnün[Bb]kért
+Szálljon fel [Db]hála [Ab]és imá[Eb]dat, szívünkből [Db]elmos [Ab]minden vá[Eb]dat
+Ó [Db]áldjuk Ő[Ab]t, [Eb]áldjuk Ő[Fm]t, ki [Db]vérét adta [Eb]bűnün[Ab]kért
 
-{comment:#Szerző: Rend Collective}
-{comment:#Fordító: Hunyadi Tamás}
-{comment:#Capo: 3 (Bb->G)}
-[Bb]
-{comment://}
+{comment:// Boldly I Aproach / Rend Collective}
+# Fordító: Hunyadi Tamás

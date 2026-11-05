@@ -1,6 +1,10 @@
 {title:Legjobb helyen}
 {subtitle:A múlt még visszahúz}
+{Capo-Guitar2:1}
+{Capo-Guitar:1}
 {key:Ab}
+[Ab]
+
 {comment:<Intro>}
 [Dbmaj7] [Eb/G] [Ab]
 
@@ -12,7 +16,7 @@ Itt va[Db]gyok a [Eb]legjobb hely[Ab]en
 {comment:<Verse 2>}
 Kezed[Dbmaj7]ben az [Eb]élet[Ab]em, bizton[Dbmaj7]ságot [Eb]adsz nek[Ab]em
 S Ha rágó[Dbmaj7]dok is [Eb]miértek[Fm]en, [Eb/G] [Ab/C]
-Itt va[Db]gyok a [Eb]legjobb hely[Ab]en
+Itt va[Db]gyok a [Eb]legjobb hely[Ab]en (itt vagyok a legjobb helyen)
 
 {comment:<Chorus>}
 {start_of_chorus}
@@ -26,7 +30,5 @@ Terhem [Db]lábad[Eb]hoz tesz[Ab]em, most már [Db]végleg e[Eb]lenged[Ab]em
 Jézus [Db]mindent [Eb]átad[Fm]ok [Eb/G] nek[Ab/C]ed
 Mert nálad [Db]van a [Eb]legjobb hely[Ab]en
 
-[Ab]
-Capo: 1 (->G)
-{comment:// Nyári Attila, Hellinger András | Dics-Suli 2020}
+# Nyári Attila, Hellinger András | Dics-Suli 2020
 {tag: Énekes füzet}

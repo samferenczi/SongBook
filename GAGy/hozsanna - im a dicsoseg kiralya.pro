@@ -1,6 +1,6 @@
 {title:Hozsánna}
 {subtitle:Ím a dicsőség királya}
-{key:E}
+{key:E}[E]
 {comment:<Intro>}
 [C#m] [E] [F#m] [G#m]
 
@@ -34,7 +34,4 @@ H[E/G#]ozsánn[A]a, ho[B]zsán[C#m]na, ho[A]zsánna a ma[B]gasság[E]ban[(C#m)]
 [E]Mindent megteszek Király[C#m]ságodért
 A [A]Földön át a Menny fe[B]lé, örök[C#m]ké!
 
-{comment:#Brooke Fraser (Hillsong)}
-{comment:#Varga Csilla}
-[E]
-{comment://}
+{comment:#Brooke Fraser (Hillsong)}{comment:#Varga Csilla}

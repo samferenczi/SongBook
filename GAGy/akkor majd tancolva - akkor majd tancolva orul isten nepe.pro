@@ -1,9 +1,11 @@
 {title:Akkor majd táncolva}
 {subtitle:Akkor majd táncolva örül Isten népe}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 [B7]Akkor majd táncolva [Em]örül Isten népe,
-az [Am]ifjak és a vénekkel [B7]együtt
+az [Am]ifjak is a vénekkel [B7]együtt
 [B7]La-[Em]la-[Am]la-[B7]la
 
 {comment:<Verse 2>}
@@ -14,5 +16,4 @@ az [Am]ifjak és a vénekkel [B7]együtt
 [Am]Ujjongó [D]szívet adok, [G]egy utat,
 [C]boldogságot, [Am]igen, mert [B7]szeretem [Em]őket!
 
-[G]
 {comment://}

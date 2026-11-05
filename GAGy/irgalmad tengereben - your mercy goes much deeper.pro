@@ -1,7 +1,7 @@
 {title:Irgalmad tengerében}
 {subtitle:Your Mercy Goes Much Deeper}
+{Capo-Guitar:3}
 {key:Eb}
-{Capo: 3}
 
 {comment:<Intro>}
 [Cm] [Ab2] [Eb/Bb] [Bb]
@@ -24,6 +24,3 @@ Hisz' [Gm7]két karod [Cm]vár re[Fm7]ám, ez nekem e[G4]lég [G]
 
 {comment:#Szerző: Lindell Cooley, Lenny LeBlanc}
 {comment:#Fordító: Szentesiné M. Andrea (Dics-Suli 2005)}
-{comment:#Capo: 3 (Eb->C)}
-{comment://
-/{artist: }

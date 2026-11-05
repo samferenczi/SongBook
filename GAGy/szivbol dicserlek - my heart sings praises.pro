@@ -1,6 +1,9 @@
 {title:Szívből dicsérlek}
 {subtitle:My Heart Sings Praises}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Verse>}
 Szívből di[A2]csérlek, Neved ma[C#m2]gasztalom
 Szerelmed [Dmaj7]mélyebb, mint el[D]mond[E4]ha[E]tom
@@ -21,8 +24,4 @@ Lelkemb[F#m]en a trón a Ti[E]éd,
 Szívből di[A2]csérlek
 
 {comment:#Szerző: Russell Fragar (Hillsong)}
-{comment:#Fordító:}
-{comment:#Capo: }
-[A]
-
 {comment://}

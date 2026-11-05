@@ -1,6 +1,8 @@
 {title:Győztes leszel}
-{subtitle:Destined to Win}
+{subtitle:Isten így szól mindenkihez}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 [G] Isten így szól mi[D/G]ndenkihez ki [C/G]fényt hord szívében és [D/G]szeretetet:
 [G] Nem kell többé re[D/G]ttegnetek, ha a [C/G]hegyektől nem látjá[C]tok az ege[D]t
@@ -29,7 +31,6 @@ Mert [C]van, a[(G)]ki le[(C)]csendesí[(G)]ti a te[D]nger vizét
 [Am]Mindi[G/B]g [C]győzte[D]s, [Am]Mindi[G/B]g [C]győzte[D]s
 [Am]Mindi[G/B]g [C]győzte[D]s lesze[Eb]l! [F] [G]
 
-{comment:#Eddie DeGarmo, Dana Key}
-{comment:#Haulik Emese (Dics-Suli 2009)}
-[G]
-{comment://}
+{comment:// Destined To Win}
+#Eddie DeGarmo, Dana Key
+#Haulik Emese (Dics-Suli 2009)

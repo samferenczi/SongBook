@@ -1,7 +1,7 @@
 {title:Kismadárkák a réten}
 {subtitle:}
 {key:}
-[C] [G] [F]
+[A] [E] [D]
 Verse1
 Kis madárkák a réten
 zengedeznek oly szépen

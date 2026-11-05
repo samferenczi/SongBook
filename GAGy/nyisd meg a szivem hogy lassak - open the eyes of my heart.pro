@@ -1,41 +1,42 @@
 {title:Nyisd meg a szívem hogy lássak}
 {subtitle:Open The Eyes Of My Heart}
-{key:C}
+{Capo-Guitar:2}
+{key:D}
 {comment:<Verse>}
-[C]
+[D]
 Nyisd meg a szívem, hogy lássak
-[Am]
+[Bm]
 Nyisd meg a szívemet
-[F] [G]
+[G] [A]
 Látni akarlak
-[C]
+[D]
 Látni akarlak
 
 {comment:<Chorus>}
 {start_of_chorus}
-[G] [Am]
+[A] [Bm]
 Ahogy hatalmas erővel
-[F] [G]
+[G] [A]
 Ragyogsz dicsőségben
-[G] [Am]
+[A] [Bm]
 Áraszd ki szeretetet
-[F] [G]
+[G] [A]
 Ahogy énekeljük néked:
 {end_of_chorus}
 
 {comment:<Bridge>}
-[C]
+[D]
+Szent, szent, szent vagy
+[A]
 Szent, szent, szent vagy
 [G]
 Szent, szent, szent vagy
-[F]
-Szent, szent, szent vagy
-[C]
+[D]
 Látni akarlak
 
 {comment:#Szerző:}
 {comment:#Fordító:}
 {comment:#Capo: }
 {comment:#Key:}
-[C]
+[D]
 {comment://}

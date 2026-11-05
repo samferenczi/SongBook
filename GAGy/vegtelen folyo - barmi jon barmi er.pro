@@ -1,6 +1,8 @@
 {title:Végtelen folyó}
 {subtitle:Bármi jön bármi ér}
 {key:C}
+[C]
+
 {comment:<Verse 1>}
 [Am] Bármi jön,[G] bármi ér, [C] nekem már[F] az elég
 Hogy [Am]hűséges v[G]agy, [C]hűséges v[F]agy
@@ -28,6 +30,5 @@ Mert [Am]hűséges v[G]agy, [C]hűséges v[F]agy
 [C/E] [F] Nem számít, mit mond a világ [Am] [G] én elmerülök
 [C/E] [F] Nem állíthad meg más [Am] [G] dicsérem Őt!
 
-[C]
-{comment:// River (Planetshakers)}
+{comment:// River | Planetshakers}
 # Joth Hunt (Planetshakers) | Fridvalszki Gréta

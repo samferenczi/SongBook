@@ -1,14 +1,13 @@
 {title:Velem vagy a harcban Jézus}
 {subtitle:Velem vagy a harcban Jézus}
+{Capo-Guitar:2}
 {key:A}
+
 {comment:<Verse 1>}
 Velem vagy a [A]harcban Jézus, velem vagy a [D]harcban Jézus
 
 {comment:<Verse 2>}
-[A] Erős váram, [D]oltalmam, Veled [E]mindig győztes vagy[F#m]ok
-
-{comment:<Background Notes>}
-[E] [F#] [G#] [A]
+[A(/E)] Erős váram, [D(/F#)]oltalmam, Veled [E(/G#)]mindig győztes vagy[F#m(/A)]ok
 
 [A]
 Capo: 2 (A->G)

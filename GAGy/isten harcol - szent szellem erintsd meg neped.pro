@@ -1,5 +1,6 @@
 {title:Isten harcol}
 {subtitle:Szent Szellem érintsd meg néped}
+{Capo-Guitar:5}
 {key:C}
 {comment:<Verse1>}
 [Dm7]Szent Szellem érintsd meg néped,[Fmaj7] tanítsd meg nekünk útjaidat 

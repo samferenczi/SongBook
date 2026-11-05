@@ -1,5 +1,6 @@
 {title:Jöjj el}
 {subtitle:Én már döntöttem így jó tudom}
+{zoom-android-SM-T830:0.44691452}
 {key:E}
 {comment:<Intro>}
 [E] [E4]

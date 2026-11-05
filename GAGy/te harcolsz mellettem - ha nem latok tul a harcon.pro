@@ -1,6 +1,9 @@
 {title:Te harcolsz mellettem}
 {subtitle:Ha nem látok túl a harcon}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Intro>}
 [A] [A] [A] [A4]
 
@@ -29,8 +32,6 @@ Minden [D]félel[A]mem leteszem, [E] a Te [F#m]lábad elé, [D] ó, U[A]ram, Te 
 Teremtő [A]Isten, Te jársz el[E]őttem, semmi sem [F#m]érhet fel a [E]jelenléted[D]del
 Te fény vagy az [A]éjben, a harcokban gy[E]őztes, semmi sem [F#m]állíthat meg, [E]hatalmas Is[D]ten [(E)]
 
-[A]
-Capo: 2 (->G)
 {comment:// Battle Belongs}
 # Phil Wickham, Brian Johnson | PZM
 {tag: Énekes füzet}

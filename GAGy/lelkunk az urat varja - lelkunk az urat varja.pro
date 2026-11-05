@@ -1,6 +1,8 @@
 {title:Lelkünk az Urat várja}
 {subtitle:Lelkünk az Urat várja}
 {key:G}
+[G]
+
 {comment:<Verse>}
 [Em] [F#7]
 Lelkünk az Urat várja, ő a segítségünk
@@ -33,7 +35,4 @@ Más lett az értékrend
 Isten országa eljött közénk
 {end_of_chorus}
 
-{comment:#Szerző: Pintér Béla}
-{comment:#Capo: 7 (G->C}
-[G]
-{comment://}
+{comment:| Pintér Béla}

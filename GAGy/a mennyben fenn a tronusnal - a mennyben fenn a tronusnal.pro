@@ -1,27 +1,28 @@
 {title:A Mennyben fenn a trónusnál}
 {subtitle:A Mennyben fenn a trónusnál}
-{key:D}
+{Capo:3}
+{key:Bb}
 {comment:<Verse 1>}
-A Mennyben [D]fenn, a [G]trónus[D]nál a Krisztus [D]értem [Bm]közben[F#m]jár
-Nagy főpap,[G] ég[D]i k[A]eze[Bm]sem, örökre [G]biztos vé[A]del[D]mem
-Markába [G]véste neve[D]met, szívébe [G]írta [A]nem fe[Bm]led
-Örökké [G]Ő lesz [A]pártfo[Bm]góm, elnémul [G]minden vá[A]do[Bm]lóm
-Elnémul [G]minden vá[A]do[D]lóm
+A Mennyben [Bb]fenn, a [Eb]trónus[Bb]nál a Krisztus [Bb]értem [Gm]közben[Dm]jár
+Nagy főpap,[Eb] ég[Bb]i k[F]eze[Gm]sem, örökre [Eb]biztos vé[F]del[Bb]mem
+Markába [Eb]véste neve[Bb]met, szívébe [Eb]írta [F]nem fe[Gm]led
+Örökké [Eb]Ő lesz [F]pártfo[Gm]góm, elnémul [Eb]minden vá[F]do[Gm]lóm
+Elnémul [Eb]minden vá[F]do[Bb]lóm
 
 {comment:<Verse 2>}
-Mikor a [D]sátán [G]megkí[D]sért, és vádol [D]megbánt [Bm]bűnö[F#m]kért
-Jézusra [G]né[D]zek, [A]áldom [Bm]Őt, a bűne[G]imből meg[A]men[D]tőt
-Ő halt meg [G]minden vétke[D]mért, a bűnte[G]len a [A]bűnö[Bm]sért
-Isten a [G]bíró [A]fölmen[Bm]tett, Krisztusra [G]nézve en[A]ge[Bm]dett
-Krisztusra [G]nézve en[A]ge[D]dett
+Mikor a [Bb]sátán [Eb]megkí[Bb]sért, és vádol [Bb]megbánt [Gm]bűnö[Dm]kért
+Jézusra [Eb]né[Bb]zek, [F]áldom [Gm]Őt, a bűne[Eb]imből meg[F]men[Bb]tőt
+Ő halt meg [Eb]minden vétke[Bb]mért, a bűnte[Eb]len a [F]bűnö[Gm]sért
+Isten a [Eb]bíró [F]fölmen[Gm]tett, Krisztusra [Eb]nézve en[F]ge[Gm]dett
+Krisztusra [Eb]nézve en[F]ge[Bb]dett
 
 {comment:<Verse 3>}
-Íme a [D]bárány, [G]Ő van [D]ott, feltámadt [D]és üd[Bm]vöt ho[F#m]zott
-Ő mondta [G]meg[D]vál[A]tód va[Bm]gyok, nem vonja [G]vissza, mit [A]ad[D]ott
-A bárány [G]vére volt az [D]ár, Őnála [G]többé [A]nincs ha[Bm]lál
-Krisztusban [G]üdvöm [A]készen [Bm]vár, ott fenn az [G]Isten trón[A]ján[Bm]ál
-Ott fenn az [G]Isten trón[A]ján[D]ál
+Íme a [Bb]bárány, [Eb]Ő van [Bb]ott, feltámadt [Bb]és üd[Gm]vöt ho[Dm]zott
+Ő mondta [Eb]meg[Bb]vál[F]tód va[Gm]gyok, nem vonja [Eb]vissza, mit [F]ad[Bb]ott
+A bárány [Eb]vére volt az [Bb]ár, Őnála [Eb]többé [F]nincs ha[Gm]lál
+Krisztusban [Eb]üdvöm [F]készen [Gm]vár, ott fenn az [Eb]Isten trón[F]ján[Gm]ál
+Ott fenn az [Eb]Isten trón[F]ján[Bb]ál
 
-[D]
+[Bb]
 Capo: 2 (->C)
 {comment:// Before The Throne Of God Above}

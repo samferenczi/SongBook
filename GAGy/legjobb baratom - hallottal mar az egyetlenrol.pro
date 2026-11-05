@@ -1,7 +1,8 @@
 {title:Legjobb barátom}
 {subtitle:Hallottál már az Egyetlenről}
 {key:Bb}
-{Capo: 3}
+{Capo-Guitar:3}
+[Bb]
 
 {comment:<Intro>}
 [Bb] [F] [Eb] [F]
@@ -27,8 +28,6 @@ Istennel me[Eb]gbékített!
 [F] Senki sem á[Eb]llhat már közénk
 [Bb] Semmi nem á[Gm]llhat közénk! [F] [Eb]
 
-[Bb]
-Capo: 3 (->G)
 {comment:// My Best Friend}
 {comment:// Joel Houston, Marty Sampson (Hillsong)}
 {comment:// Pintér Béla}

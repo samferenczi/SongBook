@@ -1,6 +1,8 @@
 {title:Jézus jövök}
 {subtitle:Szükségem van most Rád}
 {key:C}
+[C]
+
 {comment:<Vamp>}
 [F] [Am] [C/E] [G]
 
@@ -26,8 +28,7 @@ Jézus jövö[Am]k, Hozzád jövö[F]k
 [C]Drá[G]ga [Dm]Jé[Am]zus [F]ahogy vagyok, jö[C]vök
 [C]Hal[G]le[Dm]lu[Am]ja [F]szerete[G]ted be[C]tölt
 
-[C]
-Capo: 3 (->G)
-{comment:// Jesus I Come}
-{comment:// | Steven Furtick, Chris Brown (Elevation Worship) | Tóth Máté Tamás}
+{comment:// Jesus I Come | Elevation Worship}
+# Steven Furtick, Chris Brown (Elevation Worship) | Tóth Máté Tamás}
 {tag: Énekes füzet}
+{tag: OT2026}

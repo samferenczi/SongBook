@@ -1,6 +1,8 @@
 {title:Kérhetnék sok mindent}
 {subtitle:Kérhetnék sok mindent de nem teszem}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 Kérhetnék sok [Am7]mindent, de (most) [Bm7]nem tesz[Em]em
 Jelenléted [Am7]szüntel[Bm7]en keres[Em]em
@@ -20,7 +22,5 @@ Attól kezdve [Am7]mind[D7]ig veled [G]jár [D/F#] [Em7]
 [Am7]Megnyílik a hat[B7]ár
 
 Na-na
-
-[G]
 
 {comment://}

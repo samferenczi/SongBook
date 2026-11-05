@@ -1,6 +1,8 @@
 {title:Futok kitárt karodba}
 {subtitle:Kitárom szívem ajtaját}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 Ki[G]tárom szívem ajtaját, [C]hallgasd meg imám
 [G]Tölts be Szent Szellemeddel, [C]szomjazom Terád
@@ -18,10 +20,9 @@ Mindenem Te [Am]vagy [Am/B]né[C]ke[D]m Atyá[(G)]m
 {end_of_chorus}
 
 {comment:<Verse 2>}
-Most [G]újra térdét hajtok én, i[C]mám trónodhoz ér
+Most [G]újra térdet hajtok én, i[C]mám trónodhoz ér
 [G]Mennyei dicsőséged [C]áraszd le közénk
 
-[G]
 {comment:// This Love}
-{comment:// | Mike Motley | Szentesiné Mészáros Andrea}
+# Mike Motley | Szentesiné Mészáros Andrea
 {tag: Énekes füzet}

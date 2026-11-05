@@ -1,6 +1,8 @@
 {title:Adventi hírnök}
 {subtitle:}
-{key:}
+{key:C}
+[C]
+
 [C]Adventi hírnök, f[Dm]riss fenyőág.
 [C]Lobog az első [Dm]gyertyaláng!
 [C]Karácsonyt várva [Dm]lázban a föld,

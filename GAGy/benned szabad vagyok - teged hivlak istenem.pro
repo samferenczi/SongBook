@@ -1,6 +1,8 @@
 {title:Benned szabad vagyok}
 {subtitle:Téged hívlak Istenem}
 {key:C}
+[C]
+
 {comment:<Intro>}
 [F] [G] [Am] [C/E] [F] [G] [Am] [Am]
 
@@ -19,13 +21,13 @@ S megm[F]entse lelkem [G]és szív[Am]em [G]
 {end_of_chorus}
 
 {comment:<Interlude1>}
-[F] [G] [Am] [C/E]
+[F] [G] [Am] [C/E]        [    /x1]
 
 {comment:<Verse2>}
 [F] Dicsérlek [G]én, Isten[Am]em, [C/E] [F] Benned pih[G]en az élet[Am]em [Am]
 
 {comment:<Interlude2>}
-[C] [G] [Am] [F]
+[C] [G] [Am] [F]        [/x2]
 
 {comment:<Bridge>}
 [F] Benned szabad vagyok [C]már, Benned szabad vagyok [Am]már

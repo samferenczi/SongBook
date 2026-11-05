@@ -1,6 +1,8 @@
 {title:Minden amit alkotott jó}
 {subtitle:Isten alkotta az oroszlánokat}
 {key:D}
+[D]
+
 {comment:<Verse 1>}
 [D]Isten alkotta az [G]oroszlánokat, a [A]medvét, a [D]kengurut
 [D]Isten alkotta a [G]tevéket is, a [A]tehenet, a [D]tigrist
@@ -18,8 +20,6 @@
 {comment:<Verse 3>}
 [D]Emeld föl kezed, [G]álljál fél lábra, [A]mosolyogj az [D]Úrnak
 [D]Csípd meg orrodat, [G]görbítsd az ujjad, [A]fordulj körbe és [D]zengd:
-
-[D]
 
 {comment://}
 {tag: Gyerekdal}

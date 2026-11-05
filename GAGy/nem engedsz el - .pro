@@ -1,6 +1,9 @@
 {title:Nem engedsz el}
-{subtitle:}
+{subtitle:Te vagy a szívem királya}
+{zoom-android-SM-T830:0.4027558}
 {key:D}
+[D]
+
 {comment:<Verse 1 (5/8)>}
 [D]Te vagy a szívem[F#m/D] királya, Tiéd[Em/D] mindenem [A/D]
 [D]Minden helyzetben[F#m/D] sorsom kezedben [Em/D] Istenem [A/D]
@@ -8,8 +11,10 @@ Ha [D]fájdalmak, könnyek,[F#m/D] harcok jönnek Tié[Em/D]d vagyok [A/D]
 Ha [D]sötét van fényed[F#m/D] annál erőse[Em/D]bben ragyog [A/D]
 
 {comment:<Pre-Chorus (6/8)>}
-[G]Segíts, hogy Rád nézzek, s[A/G] nem arra mit érzek, vagy[D/F#] éppen milyen kedvem [Em7]van
-[G]Segíts hitben járnom[A/G] Istenem, barátom, [D/F#]segíts Rád bíznom maga[A]m [A4]
+[G]Segíts, hogy Rád nézzek, s[A/G] nem arra mit érzek, 
+vagy[D/F#] éppen milyen kedvem [Em7]van
+[G]Segíts hitben járnom[A/G] Istenem, 
+barátom, [D/F#]segíts Rád bíznom maga[A]m [A4]
 
 {comment:<Chorus (6/8)>}
 {start_of_chorus}
@@ -30,6 +35,5 @@ A [D]vihar hevében [F#m/D] Te őrzöd meg az[Em/D] életem [A/D]
 [D] Hűséges[A/D] vagy, megvigasz[Em]talsz és fegyelme[A4]zel
 [Bm]Nem engedsz el, [A4]nem engedsz el, soha [G9]nem engedsz el
 
-[D]
-{comment://}
+{comment:// Dobner Illés (Dics-Suli 2007)}
 # Szerző: Dobner Illés (Dics-Suli 2007)

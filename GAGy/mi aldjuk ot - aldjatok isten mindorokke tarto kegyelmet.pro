@@ -1,7 +1,7 @@
 {title:Mi áldjuk Őt}
 {subtitle:Áldjátok Isten mindörökké tartó kegyelmét}
 {key:E}
-{title:Áldjátok Isten mindörökké tartó kegyelmét}
+[E]
 
 {comment:<Intro>}
 [E] [B/E] [D/E] [A/E]
@@ -25,5 +25,5 @@ Mi [E]áldjuk [B]Őt örök[C]ké! [D]
 {comment:<Bridge>}
 Ő az [E]Úr, [G]örökk[A]é hirdet[E]jük [D]kegyelm[A/C#]ét!
 
-[E]
 {comment:// You Are Good | Israel Houghton}
+{tag: OT2026}

@@ -1,6 +1,9 @@
 {title:Halleluja kegyelme esőként hull rám}
 {subtitle:Az Úr irgalma végtelen}
-{key:E}
+{Capo:4}
+{key:C}
+[E]
+
 {comment:<Verse 1>}
 Az [C#m]Úr ir[A]galma [E]végte[B]len, ezt [C#m]folyton [A]érzem [E]én [B]
 Ha[C#m]bár nincs [A]semmi [E]érde[B]mem, Ő [C#m]mégis [A]hord ke[E]zén [B]
@@ -19,8 +22,6 @@ Ha [C#m]lanka[A]dok, Ő [E]szárnyat [B]ad, és [C#m]terhem [A]mind le[E]hull [B
 Sok [C#m]itt a [A]bűn és [E]küzde[B]lem, az [C#m]orkán [A]zúgva [E]dúl [B]
 De [C#m]minden [A]vészben, [E]tenge[B]ren, meg[C#m]tart, meg[A]véd az [E]Úr [B]
 
-[E]
-Capo: 4 (->C)
 {comment:// Grace Like Rain}
-{comment:// | Chris Collins, Edwin O. Excell, John Newton, Todd Agnew | Dobner Illés}
+# Chris Collins, Edwin O. Excell, John Newton, Todd Agnew | Dobner Illés
 {tag: Énekes füzet}

@@ -1,11 +1,13 @@
 {title:A szívem Tiéd}
 {subtitle:Ha kételkednék hogy szeretsz-e még}
 {key:G}
-{comment:<Verse 1>}
+[G]
+
+{comment:<Verse>}
 Ha [G]kételkednék, hogy [Em]szeretsz-e még a [C]keresztre kell csak n[D]éznem
 A [G]szégyen s a vér, mit [Em]értem tűrtél [C]feltárja szíved el[D]őttem!
 
-{comment:<Verse 2>}
+{comment:<Pre-Chorus>}
 Ha az [Bm]ég s a föld elm[C]úlnak, a szegek [Bm]helye megmar[C]ad
 Szavak [Bm]nélkül hirdet[C]ik, hogy szeretsz [D]engem, ezért [C/D]éneklem:
 
@@ -14,5 +16,4 @@ Szavak [Bm]nélkül hirdet[C]ik, hogy szeretsz [D]engem, ezért [C/D]éneklem:
 A [G]szívem tiéd, [Em]mindörökké, [C]szeretlek, Érted [D]élek
 {end_of_chorus}
 
-[G]
 {comment:// The Nails In Your Hands (MercyMe)}

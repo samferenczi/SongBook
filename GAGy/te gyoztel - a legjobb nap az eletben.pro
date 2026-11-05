@@ -33,5 +33,6 @@ Minde[G]n bűnt elvetté[C/E]l [F] [Am] [G]
 [C]
 Capo: 5 (->G)
 {comment:// Happy Day}
-{comment:// | Tim Hughes, Ben Cantelon | Szerdi Szilárd (Dics-Suli 2009)}
+# {comment:// | Tim Hughes, Ben Cantelon | 
+# Szerdi Szilárd (Dics-Suli 2009)}
 {tag: Énekes füzet}

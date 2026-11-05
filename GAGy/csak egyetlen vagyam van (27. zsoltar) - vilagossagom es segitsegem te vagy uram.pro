@@ -1,6 +1,8 @@
 {title:Csak egyetlen vágyam van (27. Zsoltár)}
 {subtitle:Világosságom és segítségem Te vagy Uram}
 {key:C}
+[C]
+
 {comment:<Intro>}
 [C] [F] [Am] [G]
 
@@ -29,6 +31,5 @@ Ha ellenség támadna [G]meg, tudom, (Te) mellettem [(Am)]állsz! [F]
 {comment:<Ending>}
 Örök[G]ké, [F/A] örök[G/B]ké, [F/C] örök[G/D]ké, [F] örök[C]ké
 
-[C] eredei C#
 {comment:// Szabó Balázs}
 {tag: Énekes füzet}

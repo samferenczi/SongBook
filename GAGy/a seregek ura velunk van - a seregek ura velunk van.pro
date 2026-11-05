@@ -1,5 +1,6 @@
 {title:A seregek Ura velünk van}
 {subtitle:A seregek Ura velünk van}
+{Capo-Sam:1}
 {key:Ab}
 {comment:<Verse 1>}
 [Fm] A seregek Ura velünk van, Jákob [Bbm]Istene a mi várunk

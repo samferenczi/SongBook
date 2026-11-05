@@ -7,5 +7,15 @@
 [C]Úgy van Ő [F]szeret, [C]Ő szeret [G]nagyon
 [C7]Úgy van Ő [F]szeret, I[C/G]géjé[G7]ből tu[C]dom
 
+Jézus értem szenvedett,
+Megnyitotta az eget,
+Bűnömtől megtisztított,
+Gyermekévé fogadott.
+
+Jézus szeret, velem van,
+Őriz minden utamban,
+Mennybe viszi gyermekét,
+Ott dicsérem szent Nevét.
+
 [C]
 {comment:// Jesus Loves Me, This I Know}

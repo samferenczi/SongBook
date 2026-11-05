@@ -1,35 +1,35 @@
 {title:Reménységem}
 {subtitle:Távol kerültem jelenlétedtől}
-{key:D}
+{key:C}
 {comment:<Intro>}
-[D] [G] [D] [G]
+[C] [F] [C] [F]
 
 {comment:<Verse 1>}
-Távol ke[D]rültem jelenlé[A]tedtől, nem volt re[G]mény, hogy[Bm] elérje[A]lek
-Kétségbe [D]esve kerestem [A]arcod, segítsé[G]gül hív[A]tam ne[D]ved
-Szerelmed [G]áttört a sötét[D]ségen, megérintet[Bm]ted lelke[A]met
-Ott, a ke[D]reszten meghaltál [A]értem, minden el[G]végez[A]te[D]tett
+Távol ke[C]rültem jelenlé[G]tedtől, nem volt re[F]mény, hogy[Am] elérje[G]lek
+Kétségbe [C]esve kerestem [G]arcod, segítsé[F]gül hív[G]tam ne[C]ved
+Szerelmed [F]áttört a sötét[C]ségen, megérintet[Am]ted lelke[G]met
+Ott, a ke[C]reszten meghaltál [G]értem, minden el[F]végez[G]te[C]tett
 
 {comment:<Verse 2>}
-Felfogha[D]tatlan, szerelmes [A]Isten, ki érthet[G]né meg[Bm] szándéka[A]it
-Dicsősé[D]géről lemondott [A]értem, magára [G]véve [A]bűne[D]im
-Meg lett bo[G]csátva az összes [D]vétkem, saját fi[Bm]ának hív en[A]gem
-Csodás Meg[D]váltóm, mit is mond[A]hatnék, benned [G]van re[A]ménysé[D]gem
+Felfogha[C]tatlan, szerelmes [G]Isten, ki érthet[F]né meg[Am] szándéka[G]it
+Dicsősé[C]géről lemondott [G]értem, magára [F]véve [G]bűne[C]im
+Meg lett bo[F]csátva az összes [C]vétkem, saját fi[Am]ának hív en[G]gem
+Csodás Meg[C]váltóm, mit is mond[G]hatnék, benned [F]van re[G]ménysé[C]gem
 
 {comment:<Chorus>}
 {start_of_chorus}
-Halle[G]lu[D]ja, dicsé[A]rem az egyet[Bm]lent
-Halle[G]lu[D]ja, minde[A]nért, mit értem [Bm]tett
-[(A)] Semmi [G]nem tart fogva [D]már, elsza[A]kítva minden [Bm]lánc
-[(A)] Jézus[G]ban van a [A]győzel[D]mem! [(Bm)] [(D/F#)]
+Halle[F]lu[C]ja, dicsé[G]rem az egyet[Am]lent
+Halle[F]lu[C]ja, minde[G]nért, mit értem [Am]tett
+[(G)] Semmi [F]nem tart fogva [C]már, elsza[G]kítva minden [Am]lánc
+[(G)] Jézus[F]ban van a [G]győzel[C]mem! [(Am)] [(C/E)]
 {end_of_chorus}
 
 {comment:<Verse 3>}
-Eljött az a [D]reggel, összetört [A]teste a sír mé[G]lyéből[Bm] életre [A]kelt
-Az első lé[D]legzet már azt hir[A]dette: Az élet [G]győz a [A]halál fe[Bm]lett! [D/F#]
-Az élet [G]győz a [A]halál fe[D]lett!
+Eljött az a [C]reggel, összetört [G]teste a sír mé[F]lyéből[Am] életre [G]kelt
+Az első lé[C]legzet már azt hir[G]dette: Az élet [F]győz a [G]halál fe[Am]lett! [C/E]
+Az élet [F]győz a [G]halál fe[C]lett!
 
-[D]
+[C]
 {comment:// Living Hope}
 {comment:// | Phil Wickham | Pintér Béla}
 {tag: Énekes füzet}

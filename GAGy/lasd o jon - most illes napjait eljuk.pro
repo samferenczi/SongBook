@@ -1,6 +1,9 @@
 {title:Lásd Ő jön}
 {subtitle:Most Illés napjait éljük}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Intro>}
 [A] [D] [A] [E]
 
@@ -26,7 +29,5 @@ De [A]hangunk kiáltja a [D]pusztákon át: [A]készítsétek [E]el az Úr út[A
 [A] Nincs senki Hozzá méltó, [D] nincs senki hozzá méltó
 [A] Nincs senki Hozzá méltó, [E] nincs senki hozzá méltó
 
-[A]
-Capo: 2 (A->G)
 {comment:// Days of Elijah}
 # Szerző | Fordító

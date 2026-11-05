@@ -3,24 +3,24 @@
 {key:G}
 {comment:<Verse 1>}
 [Em] [Em9] [F#sus] [F#7]
-Én még mit sem tudtam rólad, te már akkor szerettél
+[Em]Én még mit sem tudtam rólad, te már [F#]akkor szerettél
 [B] [B7] [Em]
-Anyám méhétől fogva rám gondot viseltél
+A[B]nyám méhétől fogva rám [Em]gondot viseltél
 [Em] [Em9] [F#sus] [F#7]
-A magam útját jártam mikor szelíden hívtál
+A [Em]magam útját jártam mikor [F#]szelíden hívtál
 [B] [B7] [Em]
-A szívemre beszéltél, és megváltoztattál
+A [B]szívemre beszéltél, és [Em]megváltoztattál
 
 {comment:<Chorus>}
 {start_of_chorus}
 [Am] [D] [G] [D/F#] [Em]
-Jézus te vagy minden álmom, éjszakám és nappalom
+Jézus, [Am]Te vagy minden [D]álmom, éjsza[G]kám és [D/F#]nappa[Em]lom
 [Am] [D] [Bsus] [B7]
-Te vagy igaz szó a számban, az én hajnalcsillagom,
+Te vagy [Am]igaz szó a [D]számban, az én [B]hajnalcsillagom
 [Am] [D] [G] [D/F#] [Em]
-Jézus Te vagy minden kincsem, sokat jelentesz nekem,
+Jézus [Am]Te vagy minden [D]kincsem, sokat [G]jelen[D/F#]tesz ne[Em]kem
 [Am] [D] [Bsus] [B7]
-Köszönöm, hogy mindennap megtart a kegyelem.
+[Am]Köszönöm, hogy mindennap meg[B]tart a kegyelem
 {end_of_chorus}
 
 {comment:<Instrumental>}
@@ -28,13 +28,13 @@ Köszönöm, hogy mindennap megtart a kegyelem.
 
 {comment:<Verse 2>}
 [Em] [Em9] [F#sus] [F#7]
-Engedd meg hogy mindig itt maradjak lábaid előtt
+Engedd [Em]meg hogy mindig itt maradjak [F#]lábaid előtt
 [B] [B7] [Em]
-Hogy nézhesselek téged, és nyerjek új erőt
+Hogy [B]nézhesselek téged, és [Em]nyerjek új erőt
 [Em] [Em9] [F#sus] [F#7]
-Meggyógyul a lelkem, megváltozik életem
+[Em]Meggyógyul a lelkem, megvál[F#]tozik életem
 [B] [B7] [Em]
-Ha jelenlétedben ruhádat megérinthetem
+Ha [B]jelenlétedben ruhádat [Em]megérinthetem
 
 {comment:#Szerző: Pintér Béla}
 {comment:#Fordító:}

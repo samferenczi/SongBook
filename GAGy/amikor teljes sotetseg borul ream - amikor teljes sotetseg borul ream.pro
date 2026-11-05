@@ -1,6 +1,8 @@
 {title:Amikor teljes sötétség borul reám}
 {subtitle:Amikor teljes sötétség borul reám}
 {key:F}
+[Dm]
+
 {comment:<Verse 1>}
 Amikor [Dm]teljes sötétség bo[Bb]rul reám
 és mik[Gm]or kialszik mind[A]en fény
@@ -24,14 +26,13 @@ A mi [A]Urunk, Jézus Krisztus[Dm]ban
 {end_of_chorus}
 
 {comment:<Verse 2>}
-[Dm] [Bb]
+[Dm][C]                                  [Bb]
 Meg vagyok győződve, hogy sem halál, sem élet
 [Gm] [A]
 Sem démonok és semmilyen hatalmasság
-[Dm] [Bb]
+[Dm] [C] [Bb]
 Sem amik most vannak, sem amik jönni fognak
 [Gm] [A] [A4]
 Sem magasság, sem mélység többé már
 
-Capo: 5 (->C)
 {comment://}

@@ -1,5 +1,6 @@
 {title:Jöjj csak Benned bízom én (Maranatha)}
 {subtitle:Te vagy az égi fény}
+{Capo-Guitar:3}
 {key:Eb}
 {comment:<Verse>}
 [Cm] Te vagy az égi fény, [Ab] Benned van üdvösségem, [Eb]szívem Téged vá[Bb]r!

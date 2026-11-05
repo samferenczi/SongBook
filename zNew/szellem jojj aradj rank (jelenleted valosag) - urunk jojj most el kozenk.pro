@@ -1,5 +1,6 @@
 {title:Szellem jöjj áradj ránk (Jelenléted valóság)}
 {subtitle:Urunk jöjj most el közénk}
+{Capo-Guitar:3}
 {key:Bb}
 {comment:<Intro>}
 

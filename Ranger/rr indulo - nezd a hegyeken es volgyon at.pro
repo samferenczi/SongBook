@@ -1,6 +1,8 @@
 {title:RR induló}
 {subtitle:Nézd a hegyeken és völgyön át}
 {key:D}
+[D]
+
 {comment:<Intro>}
 [D] [A] [D]
 [G] [A] [D]
@@ -17,8 +19,6 @@ A [G]lehető [D]legjobbat [A]teljesítem
 Hogy [D]Istent, gyüleke[A]ze[D]tet
 És [G]társaimat [A]szolgál[D]jam
 
-{comment:#Key:}
-[D]
-
 {comment://}
 {tag: Gyerekdal}
+{tag: OT2026}

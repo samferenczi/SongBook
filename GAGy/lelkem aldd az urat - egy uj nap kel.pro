@@ -1,5 +1,6 @@
 {title:Lelkem áldd az Urat}
 {subtitle:Egy új nap kél}
+{Capo:2}
 {key:A}
 {comment:<Chorus>}
 {start_of_chorus}

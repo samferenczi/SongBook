@@ -1,29 +1,29 @@
 {title:Eljöttem hogy áldjam}
 {subtitle:Eljött hozzám}
-{key:E}
+{key:C}
 {comment:<Verse>}
-[E]Eljött hoz[B]zám mikor [F#m7]még bűnben éltem
-[E]Felnyitot[B]ta a sze[A2]mem
-[E]Szolgává [B]lett ma[F#m7]gát megalázva
-[E]Bűnei[B]mért szenve[A2]dett
+[C]Eljött hoz[G]zám mikor [Dm7]még bűnben éltem
+[C]Felnyitot[G]ta a sze[F2]mem
+[C]Szolgává [G]lett ma[Dm7]gát megalázva
+[C]Bűnei[G]mért szenve[F2]dett
 
 {comment:<Chorus>}
 {start_of_chorus}
-Eljöttem, hogy [E]áldjam, csodáljam i[B/D#]mádjam
-Azt ki értem [E/G#]adta önma[A]gát
-Csodálatos [E]Isten, dicsőséges [B/D#]bárány
-Fogadd el szí[E/G#]vem imáda[A2]tát
+Eljöttem, hogy [C]áldjam, csodáljam i[G/B]mádjam
+Azt ki értem [C/E]adta önma[F]gát
+Csodálatos [C]Isten, dicsőséges [G/B]bárány
+Fogadd el szí[C/E]vem imáda[F2]tát
 {end_of_chorus}
 
 {comment:<Bridge 1>}
-Sos[B]em fog[E/G#]om megt[A]udni azt
-Mily[B]en nagy v[E/G#]olt az [A]áldozat
+Sos[G]em fog[C/E]om megt[F]udni azt
+Mily[G]en nagy v[C/E]olt az [F]áldozat
 
 {comment:<Bridge 2>}
-[E]Hívd segítségül nev[B]ét, és megmenek[C#m]ülsz [A]
-[E]Hívd segítségül nev[B]ét, és megmenek[C#m]ülsz [A]
+[C]Hívd segítségül nev[G]ét, és megmenek[Am]ülsz [F]
+[C]Hívd segítségül nev[G]ét, és megmenek[Am]ülsz [F]
 
-[E]
+[C]
 Capo: 4 (->C)
 
 {comment://}

@@ -1,10 +1,12 @@
 {title:Jó barátom a Nap}
 {subtitle:Jó barátom a Nap}
 {key:E}
+[E]
+
 {comment:<Verse 1>}
-[E]Jó barátom a [B]Nap, [E]világít nekem [B]minden[A]nap
+[E]Jó barátom a [B]Nap ((lányok)), [E]világít nekem [B]minden[A]nap
 És [E]arról mesél, hogy [B]valaki [A]szeret [E]engem [B] [A]
-[E]Jó barátom a [B]Hold, [E]világít nekem [B]minden[A]hol
+[E]Jó barátom a [B]Hold ((fiúk)), [E]világít nekem [B]minden[A]hol
 És [E]arról mesél, hogy [B]valaki [A]szeret [E]engem
 
 {comment:<Chorus>}
@@ -15,6 +17,5 @@
 [E]jó barátom a [B]nevetés, mert [A]mint ró[B]lad mes[E]él
 {end_of_chorus}
 
-[E]
-
 {comment://}
+{tag: OT2026}

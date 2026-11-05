@@ -1,30 +1,26 @@
 {title:Karácsony éjjelén}
 {subtitle:Karácsony éjjelén}
-{key:Bb}
-{comment:<Intro>}
+{Capo-Guitar:1}
+{key:G#}
+[G#]
 
 {comment:<Verse>}
-Karácsony [Bb]éjjelén örül a nagyvilág, és angyal[Bb]kórus hangja töri át az éj falát
-Mert jön az új r[Cm]eggel, [F] együtt van Isten és [Bb]ember [Gm] [C] [F]
-Karácsony [Bb]ünnepén a szívem énekel, az angya[Bb]lokkal együtt zengem én, hogy van remény
-Mert itt az új r[Cm]eggel, [F] együtt van Isten és [Bb]ember
-
-{comment:<PreChorus>}
+Karácsony [G#]éjjelén örül a nagyvilág
+És angyal[G#]kórus hangja töri át az éj falát
+Mert jön az új r[A#m]eggel, [D#] együtt van Isten és [G#]ember [Fm] [A#] [D#]
+Karácsony [G#]ünnepén a szívem énekel
+Az angya[G#]lokkal együtt zengem én, hogy van remény
+Mert itt az új r[A#m]eggel, [D#] együtt van Isten és [G#]ember
 
 {comment:<Chorus>}
 {start_of_chorus}
-Barátom, [F]jöjj, ne késs, mert itt a perc, az Isten átö[Bb]lel
-Ne félj, a [Gm]hajnal fénye itt van már kö[C]zel
-Remélj, az [F]Úr velünk van, ő Immánu[Bb]el
-Ó, hát, [F]jöjj velem, és ünnepeljük ezt az éjsza[Bb]kát
-Vele, ki [Gm]minden emberért a földre [C]szállt
-Gyere, hadd [F]tudja meg a jó hírt a vi[Bb]lág
+Barátom, [D#]jöjj, ne késs, mert itt a perc, az Isten átö[G#]lel
+Ne félj, a [Fm]hajnal fénye itt van már kö[A#]zel
+Remélj, az [D#]Úr velünk van, ő Immánu[G#]el
+Ó, hát, [D#]jöjj velem, és ünnepeljük ezt az éjsza[G#]kát
+Vele, ki [Fm]minden emberért a földre [A#]szállt
+Gyere, hadd [D#]tudja meg a jó hírt a vi[G#]lág
 {end_of_chorus}
 
 {comment:<Ending>}
-[Bb] Hogy Isten értünk küldte el a földre egyszülött fi[Bb]át
-
-[Bb]
-Capo: 3 (->G)
-
-{comment://}
+[G#] Hogy Isten értünk küldte el a földre egyszülött fi[G#]át

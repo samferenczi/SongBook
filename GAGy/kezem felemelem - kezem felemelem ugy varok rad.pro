@@ -1,6 +1,9 @@
 {title:Kezem felemelem}
 {subtitle:Kezem felemelem úgy várok Rád}
+{zoom-android-SM-T830:0.43859002}
 {key:C}
+[C]
+
 {comment:<Verse>}
 [Am] Kezem [F]felemelem[G], úgy várok Rád
 [Am] Neved [F]vigasz nekem[G], úgy várok Rád
@@ -25,7 +28,6 @@ Kérlek, [C]jöjj, várunk Rá[F]d
 Kezem [G]felemelem, Neved [F]vigasz ne[C]kem
 Ugye [G]eljössz hozzám, kegyel[F]meddel, A[C]tyám?
 
-[C]
 {comment:// It Is You (Newsboys)}
 # Peter Furler (Newsboys) | Braun Olga, Fuchs Ágnes, Vadon Eszter}
 {tag: Énekes füzet}

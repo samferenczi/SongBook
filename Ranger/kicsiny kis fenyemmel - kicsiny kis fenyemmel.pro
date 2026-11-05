@@ -9,10 +9,7 @@
 Elrejtsem-e fényemet? NEM! Világítani fogok...
 A Sátán sem állíthat meg? NEM! Világítani fogok...
 Így teszek míg Jézus jön? IGEN! Világítani fogok...
-
 [G]
 {comment:// This Little Light Of Mine}
 {comment:// ?}
-{comment:// ?}
-
 {tag: Gyerekdal}

@@ -1,5 +1,6 @@
 {title:Romjaimba élet száll}
 {subtitle:Viharos szél dúl}
+{Capo-Guitar:4}
 {key:E}
 {comment:<Verse 1>}
 Viha[E]ros szél dúl, ez a Föld széth[B]ull de vel[C#m7]em vagy

@@ -5,16 +5,12 @@
 [Am4] [Am] [Fmaj76/A] [Fmaj7/A]
 
 {comment:<Verse 1>}
-Vajon [Am]így van még? Hogyha [F]néped kér
-Fent megnyí[Am]lik az ég, hatal[F]mad elér
-Én elhisze[G]m és teljes szí[F]vvel
-A Tiéd va[C]gyok![G/B] [Am] [F]
+Vajon [Am]így van még? Hogyha [F]néped kér, Fent megnyí[Am]lik az ég, hatal[F]mad elér
+Én elhisze[G]m és teljes szí[F]vvel, A Tiéd va[C]gyok![G/B] [Am] [F]
 
 {comment:<Verse 2>}
-Vajon [Am]így van még? Hogyha [F]néped kér
-A vak [Am]látást nyer, a holt [F]újból él
-Én elhisze[G]m és teljes szí[F]vvel
-A Tiéd va[C]gyok![G/B] [Am] [F]
+Vajon [Am]így van még? Hogyha [F]néped kér, A vak [Am]látást nyer, a holt [F]újból él
+Én elhisze[G]m és teljes szí[F]vvel, A Tiéd va[C]gyok![G/B] [Am] [F]
 
 {comment:<Chorus>}
 {start_of_chorus}
@@ -25,12 +21,9 @@ Tiéd va[C]gyok[G/B]! Tiéd va[Am7]gyok![F]
 {end_of_chorus}
 
 {comment:<Verse 3>}
-Igen [Am]így van még, ha felá[F]ll a nép
-Igazsá[Am]godban jár és tüze[F]dben ég
-Megtört szí[Am]vűek, újjászüle[F]tnek
-Megválto[Am]ztatod történe[F]lmünket
-Én elhisze[G]m és teljes szí[F]vvel
-A Tiéd va[C]gyok![G/B] [Am] [F]
+Igen [Am]így van még, ha felá[F]ll a nép, Igazsá[Am]godban jár és tüze[F]dben ég
+Megtört szí[Am]vűek, újjászüle[F]tnek, Megválto[Am]ztatod történe[F]lmünket
+Én elhisze[G]m és teljes szí[F]vvel, A Tiéd va[C]gyok![G/B] [Am] [F]
 
 {comment:#Martin Smith (Delirious?)}
 {comment:#Bagyinszky Judit}

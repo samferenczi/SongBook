@@ -1,5 +1,6 @@
 {title:Ő nem ereszt el}
 {subtitle:Körülvesz a völgy hol a halál sötét árnyékot vet}
+{Capo:2}
 {key:A}
 {comment:<Verse 1>}
 Körülvesz a [A]völgy, hol a halál sötét árnyékot vet, de [D]szeretete őriz és véd

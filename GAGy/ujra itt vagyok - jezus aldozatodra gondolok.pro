@@ -1,6 +1,9 @@
 {title:Újra itt vagyok}
 {subtitle:Jézus áldozatodra gondolok}
+{Capo-Guitar:2}
 {key:D}
+[D]
+
 {comment:<Verse 1>}
 [D]Jézus, áldozatodra gondolok
 [G]Meghaltál é[D/F#]rtem [Em]a Golgotá[A]n
@@ -24,7 +27,6 @@ Hisz [G]csak Te vagy mé[D/F#]ltó, [Em]Megváltó Ú[A]r
 [G]Köszönöm Ne[A]ked, [D]köszönöm Ne[Bm]ked
 [G]Köszönöm Ne[A(sus)]ked a [A]keresz[D]tet! [(A)]
 
-[D]
-Capo 2 (D->C)
-{comment:// Once Again (Matt Redman)}
+{comment:// Once Again | Matt Redman}
 # Matt Redman | Marika Payne
+# D

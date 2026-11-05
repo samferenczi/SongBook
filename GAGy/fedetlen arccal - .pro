@@ -1,38 +1,38 @@
 {title:Fedetlen arccal}
 {subtitle:}
-{key:E}
+{key:D}
 {comment:<Verse 1>}
-[C#2] [C#m] [C#2] [C#m]
+[B2] [Bm] [B2] [Bm]
 Fedetlen arccal, mint egy tükörben
-[B/A] [B2] [B/A] [B2]
+[A/G] [A2] [A/G] [A2]
 Gyönyörködünk dicsőségedben
-[C#2] [C#m] [C#2] [C#m]
+[B2] [Bm] [B2] [Bm]
 Változtass át a Te képmásodra
-[B/A] [B2] [B/A] [B2]
+[A/G] [A2] [A/G] [A2]
 Dicsőségről dicsőségre!
 
 {comment:<Chorus>}
 {start_of_chorus}
-[F#m] [A2] [C#2] [C#m] [C#2] [C#m]
+[Em] [G2] [B2] [Bm] [B2] [Bm]
 Szent Szellem, kérlek, formálj át!
 
-[F#m] [A2] [C#2] [C#m] [C#2] [C#m]
+[Em] [G2] [B2] [Bm] [B2] [Bm]
 Szent Szellem, kérlek, formálj át!
 
 {end_of_chorus}
 
 {comment:<Verse 2>}
-[C#2] [C#m] [C#2] [C#m]
+[B2] [Bm] [B2] [Bm]
 Mint az agyag a mester műhelyében
-[B/A] [B2] [B/A] [B2]
+[A/G] [A2] [A/G] [A2]
 Átformálódunk az Úr jelenlétében
-[C#2] [C#m] [C#2] [C#m]
+[B2] [Bm] [B2] [Bm]
 Mint aranyat az izzó kemencében
 
-[B/A] [B2] [B/A] [B2]
+[A/G] [A2] [A/G] [A2]
 Megtisztít minket a próbák hevében
 
 {comment:#Szerző: Kertész Tamás}
 {comment:#Capo: }
-[E]
+[D]
 {comment://}

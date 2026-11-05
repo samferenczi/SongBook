@@ -1,6 +1,9 @@
 {title:Kegyelme átölel}
 {subtitle:Ki törte össze a bűn hatalmát}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Intro>}
 [A] [D]
 
@@ -15,7 +18,7 @@
 Kegyelme átöl[A]el, szerelme nem fogy [D]el
 Átvette a hely[F#m]em, hordta a kereszt[E]em
 Letette élet[A]ét, hogy én szabad legy[D]ek
-[F#m] Jézus éneklem,[E] mindazt, amit tett[A]él!
+Ó-ó-ó [F#m] Jézus éneklem,[E] mindazt, amit tett[A]él!
 {end_of_chorus}
 
 {comment:<Verse 2>}
@@ -28,8 +31,6 @@ Letette élet[A]ét, hogy én szabad legy[D]ek
 [A]Méltó a megölt Bárány, [D]méltó a Király, legyőzte a sírt
 [F#m]Méltó a megölt Bárány, [D]méltó a Király, legyőzte a sírt
 
-[A]
-Capo: 2 (->G)
-{comment:// This Is Amazing Grace}
-# Phil Wickham
+{comment:// This Is Amazing Grace | Phil Wickham}
 {tag: Énekes füzet}
+{tag: OT2026}

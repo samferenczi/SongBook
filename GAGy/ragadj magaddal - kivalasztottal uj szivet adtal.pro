@@ -1,5 +1,6 @@
 {title:Ragadj magaddal}
 {subtitle:Kiválasztottál új szívet adtál}
+{Capo-Guitar:2}
 {key:A}
 {comment:Intro}
 [A2] [D2] [A2] [E] [A] [D] [F#m] [E]

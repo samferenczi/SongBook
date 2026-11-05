@@ -2,13 +2,16 @@
 {subtitle:Add hogy a szívemmel lássak}
 {key:D}
 {comment:<Verse>}
-[D]Add, hogy a szívemmel lássak, [Bm]add meg, hogy láthassalak
+[D]Add, hogy a szívemmel lássak, 
+[Bm]add meg, hogy láthassalak
 Látni a[G]karlak[A], látni a[D]karlak
 
 {comment:<Chorus>}
 {start_of_chorus}
-Kérlek [A]nyisd meg most szem[Bm]em, egy [G]pillantást hadd vessek a M[A]ennybe
-Hogy [A]valóban lással[Bm]ak miközben [G]énekeljük sz[A]ent vagy
+Kérlek [A]nyisd meg most szem[Bm]em, 
+egy [G]pillantást hadd vessek a M[A]ennybe
+Hogy [A]valóban lással[Bm]ak miközben 
+[G]énekeljük sz[A]ent vagy
 {end_of_chorus}
 
 {comment:<Bridge>}

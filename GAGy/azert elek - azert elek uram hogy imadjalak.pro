@@ -1,5 +1,6 @@
 {title:Azért élek}
 {subtitle:Azért élek Uram hogy imádjalak}
+{Capo:3}
 {key:Bb}
 {comment:<Intro>}
 [Bb] [Cm/Bb] [F4/Bb] [Bb]

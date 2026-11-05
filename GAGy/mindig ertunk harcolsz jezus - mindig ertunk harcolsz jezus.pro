@@ -1,6 +1,8 @@
 {title:Mindig értünk harcolsz Jézus}
 {subtitle:Mindig értünk harcolsz Jézus}
 {key:C}
+[C]
+
 {comment:<Vamp>}
 [F] [C] [G] [Dm] [F] [C] [G]
 
@@ -37,7 +39,6 @@ ma is [Dm]éltet kegyelme[Dm/C]d ezért á[G(4)]ldlak
 Ott a [Am]kereszten meghaltá[G/B]l, minden [C]elvégeztetett,
 de a [Dm]sír sem tartott fogva, mert Te [F]mindig győzte[C]s vagy!
 
-[C]
-{comment:// Victor's Crown}
-{comment:// Darlene Zschech, Israel Houghton, Kari Jobe}
-{comment:// Orvos-Nagy Borka, Kerekes Ernő, Velkey-Solvberg Anna, Horváth Balázs (Dics-Suli 2014)}
+{comment:// Victor's Crown | Darlene Zschech}
+# Darlene Zschech, Israel Houghton, Kari Jobe
+# Orvos-Nagy Borka, Kerekes Ernő, Velkey-Solvberg Anna, Horváth Balázs (Dics-Suli 2014)

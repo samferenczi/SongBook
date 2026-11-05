@@ -1,6 +1,9 @@
 {title:A legnagyobb ajándék}
 {subtitle:Vártam egy ajándékot mi boldoggá tehet}
+{Capo-Guitar:2}
 {key:D}
+[D]
+
 {comment:<Verse>}
 [D]Vártam egy ajándékot, mi [G]boldoggá tehet[A]
 Olyan [D]jó volt várni és örülni annak mit [G]nem is reméltem[A]
@@ -13,5 +16,4 @@ Mert a [G]legnagyobb aján[D]dék, mit [G]én kap[A]tam tő[D]led
 A [G]legnagyobb aján[D]dék, hogy [Em]értem [A]jöttél [D]el
 {end_of_chorus}
 
-[D]
 {comment:// (Palánta; 4D Új Dimenzió)}

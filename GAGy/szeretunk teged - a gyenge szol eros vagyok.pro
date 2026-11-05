@@ -1,6 +1,8 @@
 {title:Szeretünk Téged}
 {subtitle:A gyenge szól erős vagyok}
 {key:C}
+[C]
+
 {comment:<Intro>}
 [Am] [G/B] [C]
 
@@ -27,7 +29,6 @@ Elküldted Fi[C]ad, hogy vigye kereszt[Am]jét, Ő bűnhő[G]dött minden bűnü
 Szeretlek Ur[C]am, imádlak Jé[Am]zus, a remény tüze [G]ég, hitem szárnyat [C]bont
 Fogadd el tő[C]lem egész éle[Am]tem, Téged magasz[G]tal minden ben[C]nem
 
-[C]
-{comment:// Saviour King}
-{comment:// Mia Fieldes, Marty Sampson (Hillsong)}
-{comment:// Pintér Béla (Dics-Suli 2008)}
+{comment:// Saviour King | Hillsong}
+# Mia Fieldes, Marty Sampson (Hillsong)
+# Pintér Béla (Dics-Suli 2008)

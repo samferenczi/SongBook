@@ -1,6 +1,8 @@
 {title:A mennyei tábor ma mellettünk áll}
 {subtitle:A mennyei tábor ma mellettünk áll}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 A [Em]mennyei tábor ma mellettünk áll, a [C]harcban a [D]győztes az [Em]Úr
 A [Em]gonoszság bástyája proba száll, a [C]harcban a [D]győztes az [Em]Úr
@@ -19,5 +21,4 @@ Egy [Em]ellened készült fegyver sem szerencsés, a [C]harcban a [D]győztes az
 Ha [Em]ellenség gúnyol, szidalmaz és vádol, a [C]harcban a [D]győztes az [Em]Úr
 Az [Em]oroszlán szája egyszer csak bezárul, a [C]harcban a [D]győztes az [Em]Úr
 
-[G]
 {comment:// The Battle Belongs To The Lord (Kent Henry)}

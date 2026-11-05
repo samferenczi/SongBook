@@ -1,9 +1,13 @@
-{title:Újjá tette szívem (Megváltóm él)}
+{title:Megváltóm él}
 {subtitle:Újjá tette szívem}
 {key:E}
+[E]
+
 {comment:<Verse>}
-[E7] Újjá [A7]tette szívem, [E7] vére [A7]elrejt engem, elhi[E7]szem, [A7] elhi[E7]szem [A7]
-[E7] Bűntől [A7]szabad vagyok, [E7] Ő már [A7]meggyógyított, elhi[E7]szem, [A7] elhi[E7]szem [A7]
+[E7] Újjá [A7]tette szívem, [E7] vére [A7]elrejt engem
+Elhi[E7]szem, [A7] elhi[E7]szem [A7]
+[E7] Bűntől [A7]szabad vagyok, [E7] Ő már [A7]meggyógyított
+Elhi[E7]szem, [A7] elhi[E7]szem [A7]
 
 {comment:<PreChorus>}
 [B] Zászlóm lobogjon, [A] mert Ő le[F#m]győzte a [B]sírt
@@ -17,4 +21,5 @@ Meg[E]váltóm [A]él, meg[C#m]váltóm [B]él!
 [D] Terhem levetted, [A/C#] fölemeltél
 Hát [E/B]táncolok, míg [F#m]eljön majd ki[E/G#]rályságod ham[B4]ar [B]
 
-{comment:My Redeemer Lives}{comment:// My Redeemer Lives}
+{comment:// My Redeemer Lives (Hillsong)}
+# E

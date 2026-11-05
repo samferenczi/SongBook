@@ -1,6 +1,11 @@
 {title:Ébredés}
 {subtitle:Amilyen érték az arany és édes a méz}
 {key:D}
+[D]
+
+{comment:<Intro> // I , V1 , PC , V2 , PC , C , I , V2 , PC , C , C-V1 , C-V2}
+[D] [/x4]
+
 {comment:<Verse 1>}
 Amilyen [D]érték az arany és [G]édes a [A]méz
 Olyan [D]drága szívednek [G]minden [D]nép
@@ -18,12 +23,6 @@ Mint egy távoli mennydörgés
 Terhem könnyű már
 [G]Terhem [A]könnyű [D]már
 
-{comment:<Chorus>}
-{start_of_chorus}
-Hát [D]jöjj el, jöjj [Bm]tűzzel
-És [G]hozd el már az ébre[D]dést /2x
-{end_of_chorus}
-
 {comment:<Verse 2>}
 Minden [D]fásult, kié[G]gett lel[A]kész
 Minden [D]Menny után só[G]várgó [D]szív
@@ -34,7 +33,10 @@ Minden gyermek és minden szülő
 Érzem csontjaimban már az ébredést
 S hogy minden tékozló fiú visszatér
 
-[D]
-Capo: 2 (D->C)
+{comment:<Chorus>}
+{start_of_chorus}
+Hát [D]jöjj el, jöjj [Bm]tűzzel, és [G]hozd el már az ébre[D]dést  /2x
+{end_of_chorus}
+
 {comment:// Revival}
-# Szerző | Fordító
+# Mark Robin | Debreceni István

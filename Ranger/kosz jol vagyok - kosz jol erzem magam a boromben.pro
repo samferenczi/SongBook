@@ -1,6 +1,9 @@
 {title:Kösz jól vagyok}
 {subtitle:Kösz jól érzem magam a bőrömben}
+{Capo-Guitar:2}
 {key:D}
+[D]
+
 {comment:<Verse 1>}
 [D] Kösz, jól érzem magam a [G]bőrömb[A]en, [D] nem hordom a jókedvemet [G]bőröndb[A]en
 [D] Fülig ér a szám és a [G]szemem ragy[A]og, [G] amióta tudom, azt hogy [A]kié vagy[D]ok
@@ -21,8 +24,5 @@
 [D] Amikor meglátnak az [G]ember[A]ek, azt mondják: [D] Nézzétek, tiszta apja [G]ez a gyer[A]ek!
 Nekem meg [D] fülig ér a szám és a [G]szemem ragy[A]og, [G] mert látják rajtam azt, hogy [A]kié vagy[D]ok
 
-[D]
-Capo: 2 (->C)
 {comment:// Pintér Béla}
-
 {tag: Gyerekdal}

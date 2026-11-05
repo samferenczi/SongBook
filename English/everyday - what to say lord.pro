@@ -1,33 +1,30 @@
 {title:Everyday}
 {subtitle:What to say Lord}
-{key:D}
+{Capo-Guitar:2}
+{key:A}
+[A]
+
 {comment:<Verse 1>}
-[D] [A] [F#m] [E]
-What to say, Lord? It's You who gave me life and I
-Can't explain just how much you mean to me now
-That you have saved me, Lord, I give all that I am to you that
-Everyday I can be a light that shines your name
+[D]{soh}WHAT{eoh} to [A]say, Lord? It's || [F#m]{soh}YOU{eoh} who [E]gave me life and I
+{soh}CAN'T{eoh} explain just how || {soh}MUCH{eoh} You mean to me now
+(that) {soh}YOU{eoh} have saved me, Lord || I {soh}GIVE{eoh} all that I am to You
+(that) {soh}EV{eoh}eryday I can || {soh}BE{eoh} a light that shines Your name
 
 {comment:<Verse 2>}
-[D] [A] [F#m] [E]
-Everyday, Lord, I'll learn to stand upon your word
-And I pray that I that I might come to know you more
-That you would guide me with every single step I take, that
-Everyday I can be your light unto the world
+[D]{soh}EV{eoh}ery[A]day, Lord, I'll || [F#m]{soh}LEARN{eoh} to [E]stand upon your word
+(and) {soh}I{eoh} pray that I || (that) {soh}I{eoh} might come to know You more
+(that) {soh}YOU{eoh} would guide me with || {soh}EV{eoh}ery single step I take
+(that) {soh}EV{eoh}eryday I can || {soh}BE{eoh} Your light unto the world
 
 {comment:<Chorus>}
 {start_of_chorus}
-[A] [D] [F#m] [E]
-Everyday, it's you I live for
-Everyday, I'll follow after you
-Everyday, I'll walk with you
-My lord
+[A]Every[D]day, it's [F#m]You I [E]live for
+Everyday, I'll follow after You
+Everyday, I'll walk with You
+My Lord
 {end_of_chorus}
 
 {comment:<Bridge>}
-[A] [D] [F#m] [E]
-It's you I live for, everyday
+It's [A]You I l[D]ive for, [F#m]everyd[E]ay
 
-[D]
-Capo 2 (->C)
-{comment://}
+{comment:// Hillsong}

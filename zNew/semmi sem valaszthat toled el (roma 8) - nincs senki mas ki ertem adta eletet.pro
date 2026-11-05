@@ -1,6 +1,8 @@
 {title:Semmi sem választhat Tőled el (Róma 8)}
 {subtitle:Nincs senki más ki értem adta életét}
 {key:G}
+[G]
+
 {comment:<Verse 1>}
 [G/B] Nincs senki m[C2]ás, [Em] ki értem ad[D]ta életét, [G/B] véred volt az [C2]ár, [Em] hogy Veled él[D]jek örökké
 [G/B] Meghalt[C2]ál, [Em] szenvedtél min[D]den bűnömért, [G/B] Messi[C2]ás, [Em] Te százszor is [D]újra megtennéd [(G)]
@@ -25,6 +27,5 @@ Sem magasság, m[Em7]élys[D/F#]ég, nem szakíthat [G]el sze[D/F#]relmedt[C]ől
 [Am] Ha feladnám v[G/B]égképp, [C] az ad rem[D]ényt, nem engedsz el
 [Am] Mert Szívedbe v[G/B]éstél, [C] Kezedben [D]őrzöd az életem!
 
-[G]
 {comment:// Andelic Jonathan}
 {tag: Énekes füzet}

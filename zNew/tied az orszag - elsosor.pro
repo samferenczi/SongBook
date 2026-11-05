@@ -1,31 +1,32 @@
-{title:Tiéd az ország}
-{subtitle:ElsőSor}
-{key:F#}
+{title: Tiéd az ország}
+{subtitle: Tiéd az ország}
+{Capo-Guitar:3}
+{key:Bb}
 {comment:<Intro>}
-[B] [F#/A#] [G#m7]
+[Eb] [Bb/D] [Cm7]
 
 {comment:<Verse>}
-[B] Tiéd az [F#/A#]ország, minden [D#m]áldás és di[C#]csőség örökké
-[B] Nincs más [F#/A#]név amire meg[D#m]hajlik minden [C#]térd
-[B] Halált megt[F#/A#]örted, bűnt le[D#m]győzted, a Menny [C#]nyitva áll előt[B]tem
-[B] Semmi sem [F#/A#]győzheti le [C#]szent neved erejét
+[Eb] Tiéd az [Bb/D]ország, minden [Gm]áldás és di[F]csőség örökké
+[Eb] Nincs más [Bb/D]név amire meg[Gm]hajlik minden [F]térd
+[Eb] Halált megt[Bb/D]örted, bűnt le[Gm]győzted, a Menny [F]nyitva áll előt[Eb]tem
+[Eb] Semmi sem [Bb/D]győzheti le [F]szent neved erejét
 
 {comment:<PreChorus>}
-Hős kirá[D#m]lyunk, teljes [B]szívvel Rád vá[F#/A#]runk
-Örök [C#]Isten, aki cso[G#m7]dákat tesz, nagy csodákat tesz
+Hős kirá[Gm]lyunk, teljes [Eb]szívvel Rád vá[Bb/D]runk
+Örök [F]Isten, aki cso[Cm7]dákat tesz, nagy csodákat tesz
 
 {comment:<Chorus>}
 {start_of_chorus}
-És a [B]földön min[F#]den nyelv Téged dí[C#]csér
-Mindörökké [B]Téged il[F#]let a hála [C#]és tisztes[D#m]ség
-Mert [B]ott vol[F#]tál a keresz[D#m]ten, [C#]mindörökre
-A [B]győzel[F#]met megszerez[B]ted [F#/A#] [G#m7]
+És a [Eb]földön min[Bb]den nyelv Téged dí[F]csér
+Mindörökké [Eb]Téged il[Bb]let a hála [F]és tisztes[Gm]ség
+Mert [Eb]ott vol[Bb]tál a keresz[Gm]ten, [F]mindörökre
+A [Eb]győzel[Bb]met megszerez[Eb]ted [Bb/D] [Cm7]
 {end_of_chorus}
 
 {comment:<PreChorus variant>}
-Hős kirá[D#m]lyunk, teljes [B]szívvel Rád vá[F#/A#]runk
-Örök [C#]Isten, aki cso[D#m]dákat [B]tesz, nagy cso[F#/A#]dákat [C#]tesz
+Hős kirá[Gm]lyunk, teljes [Eb]szívvel Rád vá[Bb/D]runk
+Örök [F]Isten, aki cso[Gm]dákat [Eb]tesz, nagy cso[Bb/D]dákat [F]tesz
 
-[F#]
+[Bb]
 Capo: 4 (->G)
 {comment:// Yours Is The Kingdom | Hillsong}

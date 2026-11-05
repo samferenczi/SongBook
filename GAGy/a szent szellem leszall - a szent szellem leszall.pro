@@ -1,6 +1,7 @@
 {title:A Szent Szellem leszáll}
 {subtitle:A Szent Szellem leszáll}
-{key:C}
+{Capo-Guitar:2}
+{key:D}
 {comment:<Intro>}
 
 {comment:<Verse 1>}

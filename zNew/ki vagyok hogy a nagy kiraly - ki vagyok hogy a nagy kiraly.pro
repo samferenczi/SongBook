@@ -1,5 +1,6 @@
 {title:Ki vagyok hogy a nagy Király}
 {subtitle:Ki vagyok hogy a nagy Király}
+{Capo-Guitar:2}
 {key:A}
 {comment:<Intro>}
 [A] [F#m] [E] [A]

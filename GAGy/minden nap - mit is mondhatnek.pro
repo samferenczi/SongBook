@@ -1,6 +1,9 @@
 {title:Minden nap}
 {subtitle:Mit is mondhatnék}
+{Capo-Guitar:2}
 {key:B}
+[B]
+
 {comment:<Verse 1>}
 [E]Mit is [B]mondhatnék?[G#m] Te vagy, ki [F#]megváltottál
 [E]Drága [B]véreddel[G#m] hófeh[F#]érre mostál
@@ -25,6 +28,6 @@
 [B]Érted é[E]lek mi[G#m]nden na[F#]p
 [B]Érted é[E]lek mi[G#m]nden na[F#]p, Uram!
 
-[B]
 {comment:// Everyday}
 # Joel Houston (Hillsong) | Pintér Béla
+# B

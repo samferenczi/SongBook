@@ -1,6 +1,9 @@
 {title:Érezd és lásd}
 {subtitle:Érezd és lásd hogy az Úr olyan jó hozzád}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Verse>}
 É[A]rezd és [F#m]lásd, hogy az [E]Úr olyan [D]jó hozzád!
 É[A]rezd és [F#m]lásd, hogy az [E]Úr olyan [D]jó hozzád!
@@ -20,8 +23,6 @@ U[A]ram, Iste[F#m]nem, csak [E]Téged áldal[D]ak!
 Előt[E]ted táncol[D]ok, Hozzád [E]száll az éne[D]kem
 (Hozzád [D]száll az énekem!)
 
-[A]
-{comment:Capo 2}
 {comment:// O Taste And See}
 {comment:// | Jenn Johnson, Brian Johnson (Bethel) | ?}
 {tag: Énekes füzet}

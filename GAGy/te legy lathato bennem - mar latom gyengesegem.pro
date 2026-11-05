@@ -1,7 +1,7 @@
 {title:Te légy látható bennem}
 {subtitle:Már látom gyengeségem}
 {key:G}
-{metronome:137}
+[G]
 
 {comment:<Verse 1>}
 Már [G]látom gyengeségem, ke[D]gyelmed elborít, mit [C]elrontottam, Nálad megja[G]vul
@@ -9,7 +9,7 @@ Már [G]látom gyengeségem, ke[D]gyelmed elborít, mit [C]elrontottam, Nálad m
 {comment:<Verse 2>}
 A [G]szívem már Tiéd lett, a [D]Lelked bennem él, mit [C]elrontottam, Nálad megja[G]vul
 
-{comment:<Verse 3>}
+{comment:<PreChorus 1>}
 Csak [G]Rólad szól az álmom, ke[D]zedben van jövőm, ez az [C]élet nem ér semmit, csak ha Rólad [G]szól
 
 {comment:<PreChorus 2>}
@@ -19,7 +19,7 @@ Arra [Em]vágyom [G]én, hogy [C]jöjjön [D]el Ki[Em]rályságod a F[D]öldre
 {comment:<Chorus>}
 {start_of_chorus}
 [G] Te légy látható ben[D]nem, emelkedj fel, s én [C]eltűnök, mert Te vagy aki bennem [G]élsz
-Te vagy az [G]Úr, ki felemel csak Te [D]vagy, fényed vezet, és [C]minden bennem csak [G]Érted él!
+Te vagy az [G]Úr, ki felemel csak Te [D]vagy, fényed vezet, és [C]minden bennem csak Érted [G]él!
 {end_of_chorus}
 
 {comment:<Verse 4>}
@@ -28,7 +28,7 @@ Te [G]tégy engem igazzá, fé[D]nyed ragyogjon be, és [C]minden dicsőség leg
 {comment:<Interlude>}
 [Em] [G] [C] [D] [Em] [D] [C]
 
-[G]
 {comment:// You | Hillsong}
 # Joel Houston (Hillsong) | Lakatos Péter
+# metronome:137
 {tag: Énekes füzet}

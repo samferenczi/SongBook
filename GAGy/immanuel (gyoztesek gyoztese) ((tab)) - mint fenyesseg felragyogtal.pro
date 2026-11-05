@@ -1,5 +1,5 @@
 {title:Immánuel (Győztesek győztese) ((tab))}
-{subtitle:Mint fényesség felragyogtál}
+{subtitle:Fényeddel felragyogtál}
 {key:F}
 Key: F
 {start_of_tab}

@@ -1,6 +1,9 @@
 {title:A Mennyben tudnak rólad}
 {subtitle:Ha viharfelhők gyűlnek fenn az égen}
+{Capo-Guitar:2}
 {key:A}
+[A]
+
 {comment:<Intro>}
 [A] [D] [F#m] [E]
 
@@ -24,6 +27,4 @@ A [A]felhők fölött világít a [D]napfény, a [F#m]gondok között meg kell l
 [D] Tudom, van az [F#m]úgy, hogy rögös az [E]út, [F#m]oh - [E]oh
 [D] Nem adhatod f[F#m]el, míg élsz, küzdeni k[E]ell! [D]Oh - [E]oh
 
-[A]
-Capo: 2 (->G)
-{comment:// (Pintér Béla)}
+{comment:// A Mennyben tudnak rólad - Pintér Béla}

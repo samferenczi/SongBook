@@ -1,36 +1,37 @@
 {title:Isten jó}
 {subtitle:Minden nép Hozzád kiált}
-{key:B}
+{key:A}
+[A]
+
 {comment:<Intro>}
-[B] [E] [F#] [E]
+[A] [D] [E] [D]
 
 {comment:<Verse 1>}
-[B] Minden [E]nép Hozzád kiá[F#]lt, [B] szellembe[E]n, igazságban, imá[F#]d
-[G#m7] Dicső[E]ség a Király[F#]nak, [G#m7]Isten [F#]Fiá[E]nak! [F#] [E] [F#]
+[A] Minden [D]nép Hozzád kiá[E]lt, [A] szellembe[D]n, igazságban, imá[E]d
+[F#m7] Dicső[D]ség a Király[E]nak, [F#m7]Isten [E]Fiá[D]nak! [E] [D] [E]
 
 {comment:<Verse 2>}
-[B] Minden [E]nemzet meghajo[F#]l, [B] Hozzád [E]jön, s Eléd boru[F#]l
-[G#m7] Nincsen [E]Rajtad kívül [F#]más, [G#m7]Te vagy a [F#]nagy Kirá[E]ly! [F#] [E] [F#]
+[A] Minden [D]nemzet meghajo[E]l, [A] Hozzád [D]jön, s Eléd boru[E]l
+[F#m7] Nincsen [D]Rajtad kívül [E]más, [F#m7]Te vagy a [E]nagy Kirá[D]ly! [E] [D] [E]
 
 {comment:<Chorus>}
 {start_of_chorus}
-Isten [B]jó, megtar[E]tó, hűsé[F#]ges, erős [E]harcos, nagysze[B]rű, minden[G#m7]ben tökéle[F#]tes
-Isten [B]jó, megtar[E]tó, hűsé[F#]ges, erős [E]harcos, nagysze[B]rű, minden[G#m7]ben tökéle[F#]tes
-Az [G#m7]Úr tö[F#]kéle[E]tes! [G#m7] [F#]
+Isten [A]jó, megtar[D]tó, hűsé[E]ges, erős [D]harcos, nagysze[A]rű, minden[F#m7]ben tökéle[E]tes
+Isten [A]jó, megtar[D]tó, hűsé[E]ges, erős [D]harcos, nagysze[A]rű, minden[F#m7]ben tökéle[E]tes
+Az [F#m7]Úr tö[E]kéle[D]tes! [F#m7] [E]
 {end_of_chorus}
 
 {comment:<Verse 3>}
-[B] Felma[E]gasztaljuk Neve[F#]d, [B] itt ég [E]bennünk szent tüze[F#]d
-[G#m7] Jézus, [E]tanítsd népede[F#]t, hogy [G#m7]hall[F#]junk, s lás[E]sunk, mindnyá[F#]jan!
+[A] Felma[D]gasztaljuk Neve[E]d, [A] itt ég [D]bennünk szent tüze[E]d
+[F#m7] Jézus, [D]tanítsd népede[E]t, hogy [F#m7]hall[E]junk, s lás[D]sunk, mindnyá[E]jan!
 
 {comment:<Bridge>}
-[B]Szent vagy [E]Iste[F#]nünk! — a szí[G#m7]vem[E] így éne[F#]kel
-[B]Szent vagy [E]Iste[F#]nünk! — a házam [G#m7]népe[E] így éne[F#]kel
-[B]Szent vagy [E]Iste[F#]nünk! — a váro[G#m7]sunk[E] így éne[F#]kel
-[B]Szent vagy [E]Iste[F#]nünk! — az egész [G#m7]Föld[E] így éne[F#]kel
+[A]Szent vagy [D]Iste[E]nünk! — a szí[F#m7]vem[D] így éne[E]kel
+[A]Szent vagy [D]Iste[E]nünk! — a házam [F#m7]népe[D] így éne[E]kel
+[A]Szent vagy [D]Iste[E]nünk! — a váro[F#m7]sunk[D] így éne[E]kel
+[A]Szent vagy [D]Iste[E]nünk! — az egész [F#m7]Föld[D] így éne[E]kel
 
-[B]
-Capo: 2 (->G)
 {comment:// God Is Great (Hillsong)}
 {comment:// | Marty Sampson (Hillsong) | Pintér Béla}
 {tag: Énekes füzet}
+# A

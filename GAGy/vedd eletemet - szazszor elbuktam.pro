@@ -9,12 +9,16 @@ Százszor [F]elbuktam, Te [C]megmentet[G]tél, telve [F]irgalommal Te [C]értem 
 A Te [Am]fényed át[F]tör minden sö[C]tétsé[G]gen, örök [Am]Isten, di[F]csőséged nem [C]ér vé[G]get
 
 {comment:<Verse 2>}
-Légy Te [F]az első, vedd [C]élete[G]met, áta[F]dom magam most, hasz[C]nálj és ve[G]zess
-A Te [Am]fényed át[F]tör minden sö[C]tétsé[G]gen, szaba[Am]dítóm, di[F]csőséged nem [C]ér vé[G]get
+Légy Te [F]az első, vedd [C]élete[G]met, 
+áta[F]dom magam most, hasz[C]nálj és ve[G]zess
+A Te [Am]fényed át[F]tör minden sö[C]tétsé[G]gen,
+ szaba[Am]dítóm, di[F]csőséged nem [C]ér vé[G]get
 
 {comment:<Bridge>}
-[F] Minden uta[C]mat kezedbe a[Am]dom, formáld át szívem [G]legmélyét, jöjj
-[F] Hogy életem[Am]mel dicsérhesse[G]lek igazságban és [Dm]szellemben
+[F] Minden uta[C]mat kezedbe a[Am]dom, 
+formáld át szívem [G]legmélyét, jöjj
+[F] Hogy életem[Am]mel dicsérhesse[G]lek 
+igazságban és [Dm]szellemben
 
 {comment:<Chorus>}
 {start_of_chorus}

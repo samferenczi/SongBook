@@ -1,6 +1,8 @@
 {title:Fényeddel}
-{subtitle:My Lighthouse}
+{subtitle:Felhők gyűlnek vad szél kel}
 {key:C}
+[C]
+
 {comment:<Verse 1>}
 [C]Felhők gyűlnek, [F]vad szél [C]kel, [F]húz a [C]mélység, Te [G]nem hagysz el
 [C]Féltő hangod [F]hozzám [C]szól: [F]Elcsendes[C]ül a [G]háborgó [C]tó
@@ -25,5 +27,6 @@
 {comment:<Bridge>}
 [F]Fénylő tűzzel [Am]jársz e[G]lőttem, [F]Benned [C]bízom, ha [Am]orkán [G]zúg
 [F]Fénylő tűzzel [Am]jársz e[G]lőttem, [F]így men[C]tesz ki a [Am]próbák[G]ból!
-{comment://
-/{artist: Rend Collective | Hunyadi Tamás}
+
+{comment:// My Lighthouse - Rend Collective}
+# Rend Collective | Hunyadi Tamás

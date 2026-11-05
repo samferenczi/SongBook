@@ -9,11 +9,11 @@ Olyan [Em]jó nálad, és [C]nincs mi elvá[D]laszt
 [C]Mindegy, mi jön -- [D]mindegy!
 [C]Mindegy, hogy mi l[D]esz -- mindegy!
 [C]Mindegy, mi jön -- [D]mindegy!
-Te [C]itt leszel ve[D]lem
+Én [C]melletted le[D]szek
 
 {comment:<Chorus 1>}
 {start_of_chorus}
-Te mindig velem [G]vagy ba-dap [Em]
+Én Veled vagyok [G]ba-dap [Em]
 És tudom, hogy Te [C]nem hagysz lees[D]nem
 {end_of_chorus}
 
